@@ -99,13 +99,13 @@
   (Folder "Logs")
   (MPSSessionName "camem")
   (PartMRUSelector
-    (DIODE-AK
-      (FullPartName "DIODE-AK.Normal")
+    ("SW PUSHBUTTON-SPST"
+      (FullPartName "SW PUSHBUTTON-SPST.Normal")
       (LibraryName
          "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\SYMBOLS.OLB")
       (DeviceIndex "0"))
-    ("SW PUSHBUTTON-SPST"
-      (FullPartName "SW PUSHBUTTON-SPST.Normal")
+    (DIODE-AK
+      (FullPartName "DIODE-AK.Normal")
       (LibraryName
          "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\SYMBOLS.OLB")
       (DeviceIndex "0"))
@@ -192,25 +192,22 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\gabrielkeyboard.dsn")
-      (Path "Design Resources"
-         "C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\gabrielkeyboard.dsn"
-         "SCHEMATIC1")
-      (Path "Design Resources"
-         "C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\gabrielkeyboard.dsn"
-         "Design Cache"))
+      (Path "Design Resources" ".\gabrielkeyboard.dsn")
+      (Path "Design Resources" ".\gabrielkeyboard.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\gabrielkeyboard.dsn" "Design Cache")
+      (Select "Design Resources" ".\gabrielkeyboard.dsn" "Design Cache"
+         "SW PUSHBUTTON-SPST"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 643"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 257 0 672"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1674 24 684")
-        (Scroll "169 728")
+        (Placement "44 0 1 -1 -1 5 24 5 1617 24 713")
+        (Scroll "79 115")
         (Zoom "142")
         (Occurrence "/"))
       (Path
@@ -220,8 +217,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 684")
-        (Scroll "0 341")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1617 24 713")
+        (Scroll "0 294")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -231,9 +228,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 684")
-        (Scroll "-234 198")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 5 24 5 1617 24 713")
+        (Scroll "0 957")
+        (Zoom "200")
         (Occurrence "/"))
       (Path
          "C:\USERS\CAMEM\ONEDRIVE\ORCAD KEYBOARD\GABRIELKEYBOARD\GABRIELKEYBOARD.DSN")
