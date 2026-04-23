@@ -1,0 +1,3888 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 25.1.0 d001Apr-23-2026 at 16:09:05 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='GABRIELKEYBOARD';
+ POST_TIME='Feb  5 2026 13:43:38';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR_CAP0603_DISCRETE_10UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS10251@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins10251@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page3_ins10251@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,280)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,280,780,290)',
+ SECTION='';
+
+PART_NAME
+ C10 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS1720@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins1720@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins1720@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,160)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(810,160,830,170)',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS1756@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins1756@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins1756@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,160)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(860,160,880,170)',
+ SECTION='';
+
+PART_NAME
+ C12 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS1772@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins1772@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins1772@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,160)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(910,160,930,170)',
+ SECTION='';
+
+PART_NAME
+ C13 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS2361@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins2361@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins2361@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,160)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(960,160,980,170)',
+ SECTION='';
+
+PART_NAME
+ C14 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS2377@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins2377@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins2377@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1010,160)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1010,160,1030,170)',
+ SECTION='';
+
+PART_NAME
+ C15 'CAPACITOR_CAP0603_DISCRETE_22PF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS3603@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins3603@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins3603@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,200)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(70,200,90,210)',
+ SECTION='';
+
+PART_NAME
+ C16 'CAPACITOR_CAP0603_DISCRETE_22PF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS3619@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins3619@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins3619@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,200)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,200,300,210)',
+ SECTION='';
+
+PART_NAME
+ C17 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS6555@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins6555@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins6555@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,290)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1020,290,1040,300)',
+ SECTION='';
+
+PART_NAME
+ C18 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS41092@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins41092@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins41092@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,220)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(460,220,480,230)',
+ SECTION='';
+
+PART_NAME
+ C19 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS41487@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins41487@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins41487@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,220)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(670,220,690,230)',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR_CAP0603_DISCRETE_10UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS10267@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins10267@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page3_ins10267@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,270)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(920,270,940,280)',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS41747@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins41747@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins41747@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(880,220)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(880,220,900,230)',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS42016@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins42016@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins42016@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1090,220)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1090,220,1110,230)',
+ SECTION='';
+
+PART_NAME
+ C22 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS42294@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins42294@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins42294@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1300,220)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1300,220,1320,230)',
+ SECTION='';
+
+PART_NAME
+ C23 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS42581@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins42581@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins42581@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1510,220)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1510,220,1530,230)',
+ SECTION='';
+
+PART_NAME
+ C24 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS43517@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins43517@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins43517@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,430)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(460,430,480,440)',
+ SECTION='';
+
+PART_NAME
+ C25 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS43533@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins43533@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins43533@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,430)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(670,430,690,440)',
+ SECTION='';
+
+PART_NAME
+ C26 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS43549@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins43549@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins43549@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(880,430)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(880,430,900,440)',
+ SECTION='';
+
+PART_NAME
+ C27 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS43565@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins43565@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins43565@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1090,430)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1090,430,1110,440)',
+ SECTION='';
+
+PART_NAME
+ C28 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS43581@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins43581@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins43581@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1300,430)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1300,430,1320,440)',
+ SECTION='';
+
+PART_NAME
+ C29 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS43597@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins43597@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins43597@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1510,430)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1510,430,1530,440)',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS1160@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins1160@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins1160@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,90)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(610,90,630,100)',
+ SECTION='';
+
+PART_NAME
+ C30 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS45033@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins45033@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins45033@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,650)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(460,650,480,660)',
+ SECTION='';
+
+PART_NAME
+ C31 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS45049@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins45049@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins45049@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,650)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(670,650,690,660)',
+ SECTION='';
+
+PART_NAME
+ C32 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS45065@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins45065@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins45065@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(880,650)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(880,650,900,660)',
+ SECTION='';
+
+PART_NAME
+ C33 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS45081@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins45081@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins45081@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1090,650)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1090,650,1110,660)',
+ SECTION='';
+
+PART_NAME
+ C34 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS95710@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins95710@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page8_ins95710@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,130)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(360,130,370,150)',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS1176@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins1176@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins1176@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,90)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(660,90,680,100)',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR_CAP0603_DISCRETE_1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS1217@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins1217@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins1217@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,90)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(720,90,740,100)',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR_CAP0603_DISCRETE_1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS1233@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins1233@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins1233@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,160)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(610,160,630,170)',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS1642@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins1642@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins1642@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,160)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(660,160,680,170)',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS1668@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins1668@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins1668@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,160)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(710,160,730,170)',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR_CAP0603_DISCRETE_0.1UF_10':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS1704@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins1704@templates.\capacitor.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins1704@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,160)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,160,780,170)',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS62380@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins62380@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins62380@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(260,340,280,350)',
+ SECTION='';
+
+PART_NAME
+ D10 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS63486@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins63486@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins63486@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1250,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1250,340,1270,350)',
+ SECTION='';
+
+PART_NAME
+ D100 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS71882@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins71882@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins71882@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,850)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1070,850,1090,860)',
+ SECTION='';
+
+PART_NAME
+ D11 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS63566@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins63566@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins63566@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1360,340,1380,350)',
+ SECTION='';
+
+PART_NAME
+ D12 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65109@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65109@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65109@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,450)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(260,450,280,460)',
+ SECTION='';
+
+PART_NAME
+ D13 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65125@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65125@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65125@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,450)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(370,450,390,460)',
+ SECTION='';
+
+PART_NAME
+ D14 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65141@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65141@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65141@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,450)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(480,450,500,460)',
+ SECTION='';
+
+PART_NAME
+ D15 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65157@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65157@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65157@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,450)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(590,450,610,460)',
+ SECTION='';
+
+PART_NAME
+ D16 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65173@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65173@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65173@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,450)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(700,450,720,460)',
+ SECTION='';
+
+PART_NAME
+ D17 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65189@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65189@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65189@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,450)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(810,450,830,460)',
+ SECTION='';
+
+PART_NAME
+ D18 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65205@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65205@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65205@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,450)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(920,450,940,460)',
+ SECTION='';
+
+PART_NAME
+ D19 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65221@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65221@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65221@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1030,450)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1030,450,1050,460)',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS62736@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins62736@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins62736@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(370,340,390,350)',
+ SECTION='';
+
+PART_NAME
+ D20 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65237@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65237@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65237@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,450)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1140,450,1160,460)',
+ SECTION='';
+
+PART_NAME
+ D21 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65253@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65253@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65253@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1250,450)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1250,450,1270,460)',
+ SECTION='';
+
+PART_NAME
+ D22 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65269@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65269@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65269@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,450)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1360,450,1380,460)',
+ SECTION='';
+
+PART_NAME
+ D23 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65538@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65538@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65538@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,560)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(260,560,280,570)',
+ SECTION='';
+
+PART_NAME
+ D24 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65554@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65554@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65554@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,560)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(370,560,390,570)',
+ SECTION='';
+
+PART_NAME
+ D25 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65570@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65570@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65570@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,560)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(480,560,500,570)',
+ SECTION='';
+
+PART_NAME
+ D26 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65586@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65586@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65586@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,560)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(590,560,610,570)',
+ SECTION='';
+
+PART_NAME
+ D27 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65602@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65602@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65602@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,560)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(700,560,720,570)',
+ SECTION='';
+
+PART_NAME
+ D28 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65618@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65618@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65618@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,560)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(810,560,830,570)',
+ SECTION='';
+
+PART_NAME
+ D29 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65634@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65634@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65634@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,560)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(920,560,940,570)',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS63182@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins63182@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins63182@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(480,340,500,350)',
+ SECTION='';
+
+PART_NAME
+ D30 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65650@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65650@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65650@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1030,560)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1030,560,1050,570)',
+ SECTION='';
+
+PART_NAME
+ D31 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65666@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65666@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65666@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,560)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1140,560,1160,570)',
+ SECTION='';
+
+PART_NAME
+ D32 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65682@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65682@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65682@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1250,560)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1250,560,1270,570)',
+ SECTION='';
+
+PART_NAME
+ D33 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS65698@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins65698@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins65698@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,560)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1360,560,1380,570)',
+ SECTION='';
+
+PART_NAME
+ D34 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66007@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66007@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66007@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,660)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(260,660,280,670)',
+ SECTION='';
+
+PART_NAME
+ D35 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66023@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66023@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66023@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,660)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(370,660,390,670)',
+ SECTION='';
+
+PART_NAME
+ D36 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66039@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66039@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66039@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,660)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(480,660,500,670)',
+ SECTION='';
+
+PART_NAME
+ D37 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66055@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66055@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66055@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,660)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(590,660,610,670)',
+ SECTION='';
+
+PART_NAME
+ D38 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66071@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66071@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66071@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,660)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(700,660,720,670)',
+ SECTION='';
+
+PART_NAME
+ D39 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66087@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66087@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66087@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,660)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(810,660,830,670)',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS63198@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins63198@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins63198@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(590,340,610,350)',
+ SECTION='';
+
+PART_NAME
+ D40 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66103@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66103@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66103@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,660)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(920,660,940,670)',
+ SECTION='';
+
+PART_NAME
+ D41 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66119@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66119@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66119@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1030,660)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1030,660,1050,670)',
+ SECTION='';
+
+PART_NAME
+ D42 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66135@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66135@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66135@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,660)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1140,660,1160,670)',
+ SECTION='';
+
+PART_NAME
+ D43 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66151@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66151@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66151@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1250,660)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1250,660,1270,670)',
+ SECTION='';
+
+PART_NAME
+ D44 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66167@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66167@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66167@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,660)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1360,660,1380,670)',
+ SECTION='';
+
+PART_NAME
+ D45 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66492@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66492@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66492@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,770)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(260,770,280,780)',
+ SECTION='';
+
+PART_NAME
+ D46 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66508@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66508@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66508@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,770)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(370,770,390,780)',
+ SECTION='';
+
+PART_NAME
+ D47 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66524@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66524@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66524@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,770)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(480,770,500,780)',
+ SECTION='';
+
+PART_NAME
+ D48 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66540@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66540@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66540@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,770)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(590,770,610,780)',
+ SECTION='';
+
+PART_NAME
+ D49 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66556@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66556@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66556@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,770)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(700,770,720,780)',
+ SECTION='';
+
+PART_NAME
+ D5 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS63278@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins63278@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins63278@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(700,340,720,350)',
+ SECTION='';
+
+PART_NAME
+ D50 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66572@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66572@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66572@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,770)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(810,770,830,780)',
+ SECTION='';
+
+PART_NAME
+ D51 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66588@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66588@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66588@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,770)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(920,770,940,780)',
+ SECTION='';
+
+PART_NAME
+ D52 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66604@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66604@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66604@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1030,770)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1030,770,1050,780)',
+ SECTION='';
+
+PART_NAME
+ D53 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66620@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66620@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66620@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,770)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1140,770,1160,780)',
+ SECTION='';
+
+PART_NAME
+ D54 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66636@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66636@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66636@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1250,770)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1250,770,1270,780)',
+ SECTION='';
+
+PART_NAME
+ D55 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66652@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66652@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66652@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,770)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1360,770,1380,780)',
+ SECTION='';
+
+PART_NAME
+ D56 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66969@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66969@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66969@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,880)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(260,880,280,890)',
+ SECTION='';
+
+PART_NAME
+ D57 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS66985@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins66985@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins66985@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,880)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(370,880,390,890)',
+ SECTION='';
+
+PART_NAME
+ D58 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS67001@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins67001@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins67001@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,880)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(480,880,500,890)',
+ SECTION='';
+
+PART_NAME
+ D59 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS67017@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins67017@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins67017@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,880)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(590,880,610,890)',
+ SECTION='';
+
+PART_NAME
+ D6 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS63294@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins63294@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins63294@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(810,340,830,350)',
+ SECTION='';
+
+PART_NAME
+ D60 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS67065@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins67065@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins67065@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,880)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(920,880,940,890)',
+ SECTION='';
+
+PART_NAME
+ D61 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS67129@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins67129@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins67129@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,880)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1360,880,1380,890)',
+ SECTION='';
+
+PART_NAME
+ D62 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS68834@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins68834@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins68834@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,310)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(410,310,430,320)',
+ SECTION='';
+
+PART_NAME
+ D63 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS68850@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins68850@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins68850@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,310)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(520,310,540,320)',
+ SECTION='';
+
+PART_NAME
+ D64 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS68872@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins68872@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins68872@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,310)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(630,310,650,320)',
+ SECTION='';
+
+PART_NAME
+ D65 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS68894@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins68894@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins68894@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,310)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(740,310,760,320)',
+ SECTION='';
+
+PART_NAME
+ D66 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS69377@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins69377@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins69377@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,420)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(410,420,430,430)',
+ SECTION='';
+
+PART_NAME
+ D67 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS69393@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins69393@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins69393@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,420)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(520,420,540,430)',
+ SECTION='';
+
+PART_NAME
+ D68 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS69415@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins69415@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins69415@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,420)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(630,420,650,430)',
+ SECTION='';
+
+PART_NAME
+ D69 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS69437@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins69437@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins69437@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,420)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(740,420,760,430)',
+ SECTION='';
+
+PART_NAME
+ D7 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS63374@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins63374@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins63374@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(920,340,940,350)',
+ SECTION='';
+
+PART_NAME
+ D70 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS69601@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins69601@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins69601@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,420)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(850,420,870,430)',
+ SECTION='';
+
+PART_NAME
+ D71 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS69617@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins69617@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins69617@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,420)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(960,420,980,430)',
+ SECTION='';
+
+PART_NAME
+ D72 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS69639@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins69639@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins69639@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,420)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1070,420,1090,430)',
+ SECTION='';
+
+PART_NAME
+ D73 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS69661@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins69661@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins69661@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,420)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1180,420,1200,430)',
+ SECTION='';
+
+PART_NAME
+ D74 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS69824@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins69824@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins69824@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,530)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(410,530,430,540)',
+ SECTION='';
+
+PART_NAME
+ D75 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS69840@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins69840@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins69840@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,530)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(520,530,540,540)',
+ SECTION='';
+
+PART_NAME
+ D76 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS69862@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins69862@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins69862@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,530)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(630,530,650,540)',
+ SECTION='';
+
+PART_NAME
+ D77 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS69884@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins69884@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins69884@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,530)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(740,530,760,540)',
+ SECTION='';
+
+PART_NAME
+ D78 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS70081@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins70081@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins70081@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,530)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(850,530,870,540)',
+ SECTION='';
+
+PART_NAME
+ D79 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS70097@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins70097@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins70097@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,530)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(960,530,980,540)',
+ SECTION='';
+
+PART_NAME
+ D8 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS63390@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins63390@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins63390@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1030,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1030,340,1050,350)',
+ SECTION='';
+
+PART_NAME
+ D80 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS70119@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins70119@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins70119@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,530)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1070,530,1090,540)',
+ SECTION='';
+
+PART_NAME
+ D81 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS70141@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins70141@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins70141@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,530)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1180,530,1200,540)',
+ SECTION='';
+
+PART_NAME
+ D82 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS70656@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins70656@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins70656@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,630)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(410,630,430,640)',
+ SECTION='';
+
+PART_NAME
+ D83 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS70672@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins70672@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins70672@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,630)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(520,630,540,640)',
+ SECTION='';
+
+PART_NAME
+ D84 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS70716@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins70716@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins70716@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,630)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(740,630,760,640)',
+ SECTION='';
+
+PART_NAME
+ D85 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS70894@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins70894@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins70894@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,630)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(850,630,870,640)',
+ SECTION='';
+
+PART_NAME
+ D86 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS70910@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins70910@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins70910@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,630)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(960,630,980,640)',
+ SECTION='';
+
+PART_NAME
+ D87 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS70932@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins70932@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins70932@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,630)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1070,630,1090,640)',
+ SECTION='';
+
+PART_NAME
+ D88 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS71130@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins71130@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins71130@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,740)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(410,740,430,750)',
+ SECTION='';
+
+PART_NAME
+ D89 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS71146@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins71146@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins71146@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,740)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(520,740,540,750)',
+ SECTION='';
+
+PART_NAME
+ D9 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS63470@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins63470@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins63470@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1140,340,1160,350)',
+ SECTION='';
+
+PART_NAME
+ D90 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS71190@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins71190@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins71190@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,740)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(740,740,760,750)',
+ SECTION='';
+
+PART_NAME
+ D91 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS71364@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins71364@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins71364@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,740)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(850,740,870,750)',
+ SECTION='';
+
+PART_NAME
+ D92 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS71380@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins71380@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins71380@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,740)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(960,740,980,750)',
+ SECTION='';
+
+PART_NAME
+ D93 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS71402@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins71402@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins71402@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,740)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1070,740,1090,750)',
+ SECTION='';
+
+PART_NAME
+ D94 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS71424@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins71424@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins71424@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,740)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1180,740,1200,750)',
+ SECTION='';
+
+PART_NAME
+ D95 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS71606@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins71606@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins71606@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,850)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(410,850,430,860)',
+ SECTION='';
+
+PART_NAME
+ D96 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS71622@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins71622@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins71622@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,850)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(520,850,540,860)',
+ SECTION='';
+
+PART_NAME
+ D97 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS71666@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins71666@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins71666@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,850)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(740,850,760,860)',
+ SECTION='';
+
+PART_NAME
+ D98 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS71844@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins71844@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins71844@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,850)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(850,850,870,860)',
+ SECTION='';
+
+PART_NAME
+ D99 'DIODE-AK_SOD-123_DISCRETE_DIODE':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS71860@SYMBOLS.DIODE-AK.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins71860@symbols.\diode-ak.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins71860@symbols.\diode-ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,850)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(960,850,980,860)',
+ SECTION='';
+
+PART_NAME
+ DS1 'LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS101006@SYMBOLS.LCD-NHD-0216XZ-DLSPLAY.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page8_ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,200)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(810,200,880,310)',
+ SECTION='';
+
+PART_NAME
+ IC1 'TLV75533PDRVR_SON65P200X200X80-7N_TLV75533PDRVR':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS9368@TLV75533PDRVR.TLV75533PDRVR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins9368@tlv75533pdrvr.\tlv75533pdrvr.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page3_ins9368@tlv75533pdrvr.\tlv75533pdrvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,230)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(810,230,890,300)',
+ SECTION='';
+
+PART_NAME
+ IC2 'W25Q128JVSIQ_SOIC127P790X216-8N_W25Q128JVSIQ':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS5363@W25Q128JVSIQ.W25Q128JVSIQ.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins5363@w25q128jvsiq.\w25q128jvsiq.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins5363@w25q128jvsiq.\w25q128jvsiq.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,270)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,270,960,320)',
+ SECTION='';
+
+PART_NAME
+ IC3 'PCF8574ADWR_SOIC127P1030X265-16N_PCF8574ADWR':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS95657@PCF8574ADWR.PCF8574ADWR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins95657@pcf8574adwr.\pcf8574adwr.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page8_ins95657@pcf8574adwr.\pcf8574adwr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,180)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(350,180,420,270)',
+ SECTION='';
+
+PART_NAME
+ J1 'USB4085-GF-A_USB4085-GF-A_USB4085-GF-A_(USB4085-GF-A)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS8087@SYMBOLS.USB4085-GF-A.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins8087@symbols.\usb4085-gf-a.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page3_ins8087@symbols.\usb4085-gf-a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,270)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(490,270,540,400)',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_S2B-PH-K_CON2':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS7045@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins7045@connector.\con2.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins7045@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,360)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(810,360,830,390)',
+ SECTION='';
+
+PART_NAME
+ LED1 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS40910@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins40910@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins40910@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(340,260,390,310)',
+ SECTION='';
+
+PART_NAME
+ LED10 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS43817@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins43817@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins43817@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,470)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(970,470,1020,520)',
+ SECTION='';
+
+PART_NAME
+ LED11 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS43869@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins43869@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins43869@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,470)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1180,470,1230,520)',
+ SECTION='';
+
+PART_NAME
+ LED12 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS43921@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins43921@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins43921@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1390,470)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1390,470,1440,520)',
+ SECTION='';
+
+PART_NAME
+ LED13 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS45177@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins45177@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins45177@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,690)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(340,690,390,740)',
+ SECTION='';
+
+PART_NAME
+ LED14 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS45229@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins45229@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins45229@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,690)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(550,690,600,740)',
+ SECTION='';
+
+PART_NAME
+ LED15 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS45281@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins45281@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins45281@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,690)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(760,690,810,740)',
+ SECTION='';
+
+PART_NAME
+ LED16 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS45333@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins45333@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins45333@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,690)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(970,690,1020,740)',
+ SECTION='';
+
+PART_NAME
+ LED2 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS41511@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins41511@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins41511@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(550,260,600,310)',
+ SECTION='';
+
+PART_NAME
+ LED3 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS41771@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins41771@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins41771@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(760,260,810,310)',
+ SECTION='';
+
+PART_NAME
+ LED4 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS42040@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins42040@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins42040@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(970,260,1020,310)',
+ SECTION='';
+
+PART_NAME
+ LED5 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS42318@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins42318@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins42318@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1180,260,1230,310)',
+ SECTION='';
+
+PART_NAME
+ LED6 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS42605@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins42605@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins42605@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1390,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1390,260,1440,310)',
+ SECTION='';
+
+PART_NAME
+ LED7 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS43661@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins43661@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins43661@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,470)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(340,470,390,520)',
+ SECTION='';
+
+PART_NAME
+ LED8 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS43713@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins43713@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins43713@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,470)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(550,470,600,520)',
+ SECTION='';
+
+PART_NAME
+ LED9 'LED-RGBW_SKC6812RV_LED-RGBW_(SKC6812RV)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS43765@SYMBOLS.LED-RGBW.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins43765@symbols.\led-rgbw.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins43765@symbols.\led-rgbw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,470)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(760,470,810,520)',
+ SECTION='';
+
+PART_NAME
+ MNT1 'MOUNT-HOLE-2.5_MNT_2P5MM_2.5MM MOUNTING HOLE_(MNT_2P5MM)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS10564@SYMBOLS.MOUNT-HOLE-2.5.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins10564@symbols.\mount-hole-2.5.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page3_ins10564@symbols.\mount-hole-2.5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(60,670,100,710)',
+ SECTION='';
+
+PART_NAME
+ MNT2 'MOUNT-HOLE-2.5_MNT_2P5MM_2.5MM MOUNTING HOLE_(MNT_2P5MM)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS10578@SYMBOLS.MOUNT-HOLE-2.5.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins10578@symbols.\mount-hole-2.5.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page3_ins10578@symbols.\mount-hole-2.5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,670,210,710)',
+ SECTION='';
+
+PART_NAME
+ MNT3 'MOUNT-HOLE-2.5_MNT_2P5MM_2.5MM MOUNTING HOLE_(MNT_2P5MM)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS10592@SYMBOLS.MOUNT-HOLE-2.5.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins10592@symbols.\mount-hole-2.5.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page3_ins10592@symbols.\mount-hole-2.5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,670,320,710)',
+ SECTION='';
+
+PART_NAME
+ MNT4 'MOUNT-HOLE-2.5_MNT_2P5MM_2.5MM MOUNTING HOLE_(MNT_2P5MM)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS10606@SYMBOLS.MOUNT-HOLE-2.5.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins10606@symbols.\mount-hole-2.5.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page3_ins10606@symbols.\mount-hole-2.5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(390,670,430,710)',
+ SECTION='';
+
+PART_NAME
+ Q1 'NX138AKR_SOT95P230X110-3N_NX138AKR':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS47077@NX138AKR.NX138AKR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins47077@nx138akr.\nx138akr.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins47077@nx138akr.\nx138akr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,250)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(230,250,270,280)',
+ SECTION='';
+
+PART_NAME
+ Q2 'NX138AKR_SOT95P230X110-3N_NX138AKR':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS101588@NX138AKR.NX138AKR.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins101588@nx138akr.\nx138akr.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page8_ins101588@nx138akr.\nx138akr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(940,350)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(940,350,980,380)',
+ SECTION='';
+
+PART_NAME
+ R1 'RES1_RES0603_DISCRETE_5.1K_1%':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS8324@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins8324@symbols.\res1.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page3_ins8324@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,370)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(370,370,390,400)',
+ SECTION='';
+
+PART_NAME
+ R10 'RES1_RES0603_DISCRETE_10K_1%':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS95856@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins95856@symbols.\res1.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page8_ins95856@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,150)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(150,150,170,180)',
+ SECTION='';
+
+PART_NAME
+ R11 'RES1_RES0603_DISCRETE_10K_1%':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS95836@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins95836@symbols.\res1.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page8_ins95836@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,150)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(200,150,220,180)',
+ SECTION='';
+
+PART_NAME
+ R12 'RES1_RES0603_DISCRETE_10K_1%':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS102017@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins102017@symbols.\res1.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page8_ins102017@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,340,810,360)',
+ SECTION='';
+
+PART_NAME
+ R2 'RES1_RES0603_DISCRETE_5.1K_1%':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS8344@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins8344@symbols.\res1.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page3_ins8344@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,370)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(640,370,660,400)',
+ SECTION='';
+
+PART_NAME
+ R3 'RES1_RES0603_DISCRETE_1K_1%':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS3149@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins3149@symbols.\res1.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins3149@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,200)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(340,200,370,220)',
+ SECTION='';
+
+PART_NAME
+ R4 'RES1_RES0603_DISCRETE_10K_1%':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS6919@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins6919@symbols.\res1.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins6919@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,240)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(870,240,900,260)',
+ SECTION='';
+
+PART_NAME
+ R5 'RES1_RES0603_DISCRETE_27.4_1%':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS5211@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins5211@symbols.\res1.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins5211@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,260)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(580,260,610,280)',
+ SECTION='';
+
+PART_NAME
+ R6 'RES1_RES0603_DISCRETE_27.4_1%':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS5231@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins5231@symbols.\res1.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins5231@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,270)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(580,270,610,290)',
+ SECTION='';
+
+PART_NAME
+ R7 'RES1_RES0603_DISCRETE_1K_1%':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS7285@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins7285@symbols.\res1.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins7285@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,330)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(720,330,740,360)',
+ SECTION='';
+
+PART_NAME
+ R8 'RES1_RES0603_DISCRETE_10K_1%':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS47122@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins47122@symbols.\res1.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins47122@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,190)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(180,190,200,220)',
+ SECTION='';
+
+PART_NAME
+ R9 'RES1_RES0603_DISCRETE_10K_1%':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS47142@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins47142@symbols.\res1.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page7_ins47142@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,190)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,190,300,220)',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_ESC_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS12170@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins12170@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins12170@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,310,330,330)',
+ SECTION='';
+
+PART_NAME
+ SW10 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F9_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS23486@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins23486@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins23486@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1290,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1290,310,1320,330)',
+ SECTION='';
+
+PART_NAME
+ SW100 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_DOT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS32468@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins32468@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins32468@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,820)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,820,1140,840)',
+ SECTION='';
+
+PART_NAME
+ SW11 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F10_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS23502@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins23502@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins23502@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1400,310,1430,330)',
+ SECTION='';
+
+PART_NAME
+ SW12 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_~_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS12301@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins12301@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins12301@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,420)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,420,330,440)',
+ SECTION='';
+
+PART_NAME
+ SW13 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_1_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS12545@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins12545@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins12545@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,420)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,420,440,440)',
+ SECTION='';
+
+PART_NAME
+ SW14 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_2_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS12740@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins12740@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins12740@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,420)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(520,420,550,440)',
+ SECTION='';
+
+PART_NAME
+ SW15 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_3_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS18723@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins18723@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins18723@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,420)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(630,420,660,440)',
+ SECTION='';
+
+PART_NAME
+ SW16 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_4_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS18739@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins18739@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins18739@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,420)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,420,770,440)',
+ SECTION='';
+
+PART_NAME
+ SW17 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_5_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS18755@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins18755@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins18755@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,420)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,420,880,440)',
+ SECTION='';
+
+PART_NAME
+ SW18 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_6_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21147@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21147@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21147@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,420)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(960,420,990,440)',
+ SECTION='';
+
+PART_NAME
+ SW19 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_7_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21163@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21163@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21163@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,420)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1070,420,1100,440)',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F1_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS12507@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins12507@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins12507@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,310,440,330)',
+ SECTION='';
+
+PART_NAME
+ SW20 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_8_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21179@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21179@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21179@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,420)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1180,420,1210,440)',
+ SECTION='';
+
+PART_NAME
+ SW21 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_9_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS23652@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins23652@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins23652@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1290,420)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1290,420,1320,440)',
+ SECTION='';
+
+PART_NAME
+ SW22 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_0_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS23668@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins23668@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins23668@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,420)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1400,420,1430,440)',
+ SECTION='';
+
+PART_NAME
+ SW23 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_TAB_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS12380@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins12380@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins12380@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,530,330,550)',
+ SECTION='';
+
+PART_NAME
+ SW24 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_Q_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS12583@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins12583@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins12583@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,530,440,550)',
+ SECTION='';
+
+PART_NAME
+ SW25 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_W_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS12778@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins12778@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins12778@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(520,530,550,550)',
+ SECTION='';
+
+PART_NAME
+ SW26 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_E_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS18889@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins18889@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins18889@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(630,530,660,550)',
+ SECTION='';
+
+PART_NAME
+ SW27 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS18905@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins18905@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins18905@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,530,770,550)',
+ SECTION='';
+
+PART_NAME
+ SW28 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_T_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS18921@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins18921@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins18921@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,530,880,550)',
+ SECTION='';
+
+PART_NAME
+ SW29 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_Y_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21313@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21313@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21313@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(960,530,990,550)',
+ SECTION='';
+
+PART_NAME
+ SW3 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F2_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS12702@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins12702@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins12702@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(520,310,550,330)',
+ SECTION='';
+
+PART_NAME
+ SW30 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_U_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21329@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21329@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21329@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1070,530,1100,550)',
+ SECTION='';
+
+PART_NAME
+ SW31 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_I_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21345@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21345@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21345@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1180,530,1210,550)',
+ SECTION='';
+
+PART_NAME
+ SW32 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_O_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS23818@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins23818@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins23818@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1290,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1290,530,1320,550)',
+ SECTION='';
+
+PART_NAME
+ SW33 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_P_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS23834@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins23834@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins23834@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1400,530,1430,550)',
+ SECTION='';
+
+PART_NAME
+ SW34 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_CAPS_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS16736@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins16736@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins16736@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,630)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,630,330,650)',
+ SECTION='';
+
+PART_NAME
+ SW35 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_A_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS16752@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins16752@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins16752@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,630)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,630,440,650)',
+ SECTION='';
+
+PART_NAME
+ SW36 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_S_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS16768@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins16768@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins16768@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,630)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(520,630,550,650)',
+ SECTION='';
+
+PART_NAME
+ SW37 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_D_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS19103@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins19103@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins19103@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,630)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(630,630,660,650)',
+ SECTION='';
+
+PART_NAME
+ SW38 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS19119@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins19119@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins19119@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,630)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,630,770,650)',
+ SECTION='';
+
+PART_NAME
+ SW39 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_G_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS19135@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins19135@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins19135@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,630)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,630,880,650)',
+ SECTION='';
+
+PART_NAME
+ SW4 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F3_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS18557@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins18557@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins18557@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(630,310,660,330)',
+ SECTION='';
+
+PART_NAME
+ SW40 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_H_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21527@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21527@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21527@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,630)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(960,630,990,650)',
+ SECTION='';
+
+PART_NAME
+ SW41 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_J_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21543@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21543@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21543@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,630)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1070,630,1100,650)',
+ SECTION='';
+
+PART_NAME
+ SW42 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_K_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21559@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21559@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21559@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,630)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1180,630,1210,650)',
+ SECTION='';
+
+PART_NAME
+ SW43 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_L_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS24032@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins24032@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins24032@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1290,630)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1290,630,1320,650)',
+ SECTION='';
+
+PART_NAME
+ SW44 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_:_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS24048@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins24048@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins24048@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,630)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1400,630,1430,650)',
+ SECTION='';
+
+PART_NAME
+ SW45 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_SHIFT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS16910@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins16910@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins16910@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,740)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,740,330,760)',
+ SECTION='';
+
+PART_NAME
+ SW46 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_Z_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS16926@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins16926@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins16926@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,740)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,740,440,760)',
+ SECTION='';
+
+PART_NAME
+ SW47 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_X_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS16942@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins16942@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins16942@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,740)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(520,740,550,760)',
+ SECTION='';
+
+PART_NAME
+ SW48 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_C_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS19263@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins19263@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins19263@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,740)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(630,740,660,760)',
+ SECTION='';
+
+PART_NAME
+ SW49 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_V_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS19279@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins19279@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins19279@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,740)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,740,770,760)',
+ SECTION='';
+
+PART_NAME
+ SW5 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F4_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS18573@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins18573@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins18573@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,310,770,330)',
+ SECTION='';
+
+PART_NAME
+ SW50 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_B_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS19295@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins19295@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins19295@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,740)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,740,880,760)',
+ SECTION='';
+
+PART_NAME
+ SW51 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_N_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21687@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21687@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21687@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,740)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(960,740,990,760)',
+ SECTION='';
+
+PART_NAME
+ SW52 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_M_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21703@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21703@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21703@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,740)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1070,740,1100,760)',
+ SECTION='';
+
+PART_NAME
+ SW53 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_,_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21719@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21719@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21719@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,740)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1180,740,1210,760)',
+ SECTION='';
+
+PART_NAME
+ SW54 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_._(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS24192@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins24192@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins24192@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1290,740)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1290,740,1320,760)',
+ SECTION='';
+
+PART_NAME
+ SW55 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_/_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS24208@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins24208@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins24208@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,740)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1400,740,1430,760)',
+ SECTION='';
+
+PART_NAME
+ SW56 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_CTRL_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS17084@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins17084@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins17084@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,850)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,850,330,870)',
+ SECTION='';
+
+PART_NAME
+ SW57 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_FN_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS17100@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins17100@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins17100@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,850)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,850,440,870)',
+ SECTION='';
+
+PART_NAME
+ SW58 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_WIN_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS17116@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins17116@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins17116@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,850)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(520,850,550,870)',
+ SECTION='';
+
+PART_NAME
+ SW59 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_ALT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS19423@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins19423@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins19423@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,850)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(630,850,660,870)',
+ SECTION='';
+
+PART_NAME
+ SW6 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F5_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS18589@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins18589@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins18589@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,310,880,330)',
+ SECTION='';
+
+PART_NAME
+ SW60 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_SPACE_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21847@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21847@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21847@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,850)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(960,850,990,870)',
+ SECTION='';
+
+PART_NAME
+ SW61 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_ALT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS24368@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins24368@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins24368@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,850)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1400,850,1430,870)',
+ SECTION='';
+
+PART_NAME
+ SW62 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F11_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS30264@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins30264@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins30264@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,280)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(450,280,480,300)',
+ SECTION='';
+
+PART_NAME
+ SW63 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F12_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS30280@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins30280@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins30280@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,280)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,280,590,300)',
+ SECTION='';
+
+PART_NAME
+ SW64 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_PRINT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS30296@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins30296@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins30296@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,280)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(670,280,700,300)',
+ SECTION='';
+
+PART_NAME
+ SW65 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_DEL_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS30312@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins30312@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins30312@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,280)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,280,810,300)',
+ SECTION='';
+
+PART_NAME
+ SW66 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_-_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS30692@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins30692@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins30692@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(450,390,480,410)',
+ SECTION='';
+
+PART_NAME
+ SW67 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_=_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS30708@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins30708@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins30708@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,390,590,410)',
+ SECTION='';
+
+PART_NAME
+ SW68 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_BACKSPACE_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS30724@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins30724@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins30724@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(670,390,700,410)',
+ SECTION='';
+
+PART_NAME
+ SW69 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_PG_UP_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS30740@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins30740@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins30740@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,390,810,410)',
+ SECTION='';
+
+PART_NAME
+ SW7 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F6_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS20981@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins20981@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins20981@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(960,310,990,330)',
+ SECTION='';
+
+PART_NAME
+ SW70 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_LOCK_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS30756@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins30756@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins30756@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(890,390,920,410)',
+ SECTION='';
+
+PART_NAME
+ SW71 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_/_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS30772@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins30772@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins30772@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1000,390,1030,410)',
+ SECTION='';
+
+PART_NAME
+ SW72 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_*_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS30788@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins30788@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins30788@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,390,1140,410)',
+ SECTION='';
+
+PART_NAME
+ SW73 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_-_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS30804@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins30804@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins30804@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1220,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1220,390,1250,410)',
+ SECTION='';
+
+PART_NAME
+ SW74 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_[_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31120@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31120@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31120@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,500)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(450,500,480,520)',
+ SECTION='';
+
+PART_NAME
+ SW75 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_]_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31136@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31136@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31136@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,500)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,500,590,520)',
+ SECTION='';
+
+PART_NAME
+ SW76 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_\_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31152@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31152@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31152@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,500)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(670,500,700,520)',
+ SECTION='';
+
+PART_NAME
+ SW77 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_PG_DOWN_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31168@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31168@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31168@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,500)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,500,810,520)',
+ SECTION='';
+
+PART_NAME
+ SW78 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_7_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31184@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31184@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31184@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,500)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(890,500,920,520)',
+ SECTION='';
+
+PART_NAME
+ SW79 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_8_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31200@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31200@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31200@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,500)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1000,500,1030,520)',
+ SECTION='';
+
+PART_NAME
+ SW8 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F7_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS20997@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins20997@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins20997@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1070,310,1100,330)',
+ SECTION='';
+
+PART_NAME
+ SW80 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_9_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31216@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31216@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31216@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,500)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,500,1140,520)',
+ SECTION='';
+
+PART_NAME
+ SW81 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_+_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31232@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31232@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31232@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1220,500)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1220,500,1250,520)',
+ SECTION='';
+
+PART_NAME
+ SW82 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_ACENTO_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31548@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31548@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31548@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,600)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(450,600,480,620)',
+ SECTION='';
+
+PART_NAME
+ SW83 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_ENTER_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31564@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31564@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31564@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,600)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,600,590,620)',
+ SECTION='';
+
+PART_NAME
+ SW84 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_HOME_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31596@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31596@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31596@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,600)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,600,810,620)',
+ SECTION='';
+
+PART_NAME
+ SW85 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_4_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31612@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31612@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31612@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,600)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(890,600,920,620)',
+ SECTION='';
+
+PART_NAME
+ SW86 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_5_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31628@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31628@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31628@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,600)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1000,600,1030,620)',
+ SECTION='';
+
+PART_NAME
+ SW87 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_6_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31644@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31644@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31644@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,600)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,600,1140,620)',
+ SECTION='';
+
+PART_NAME
+ SW88 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_SHIFT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31976@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31976@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31976@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,710)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(450,710,480,730)',
+ SECTION='';
+
+PART_NAME
+ SW89 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_UP_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS31992@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins31992@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins31992@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,710)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,710,590,730)',
+ SECTION='';
+
+PART_NAME
+ SW9 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F8_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS21013@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins21013@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page5_ins21013@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1180,310,1210,330)',
+ SECTION='';
+
+PART_NAME
+ SW90 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_END_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS32024@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins32024@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins32024@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,710)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,710,810,730)',
+ SECTION='';
+
+PART_NAME
+ SW91 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_1_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS32040@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins32040@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins32040@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,710)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(890,710,920,730)',
+ SECTION='';
+
+PART_NAME
+ SW92 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_2_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS32056@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins32056@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins32056@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,710)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1000,710,1030,730)',
+ SECTION='';
+
+PART_NAME
+ SW93 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_3_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS32072@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins32072@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins32072@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,710)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,710,1140,730)',
+ SECTION='';
+
+PART_NAME
+ SW94 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_ENTER_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS39158@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins39158@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins39158@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1220,710)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1220,710,1250,730)',
+ SECTION='';
+
+PART_NAME
+ SW95 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_LEFT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS32404@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins32404@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins32404@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,820)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(450,820,480,840)',
+ SECTION='';
+
+PART_NAME
+ SW96 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_DOWN_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS32420@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins32420@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins32420@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,820)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,820,590,840)',
+ SECTION='';
+
+PART_NAME
+ SW97 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_RIGHT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS32452@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins32452@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins32452@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,820)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,820,810,840)',
+ SECTION='';
+
+PART_NAME
+ SW98 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_CLEAR_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS33663@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins33663@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins33663@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,820)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(890,820,920,840)',
+ SECTION='';
+
+PART_NAME
+ SW99 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_0_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS33786@SYMBOLS.SW PUSHBUTTON-SPST-KEYBOARD.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins33786@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page6_ins33786@symbols.\sw pushbutton-spst-keyboard.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,820)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1000,820,1030,840)',
+ SECTION='';
+
+PART_NAME
+ U1 'RP2040_56-VFQFN-EP_RP2040':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS1005@RP2040.RP2040.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins1005@rp2040.\rp2040.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins1005@rp2040.\rp2040.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,60)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(400,60,540,490)',
+ SECTION='';
+
+PART_NAME
+ VR1 '3314J-2-103E_3314J2102E_POT 10K':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS102636@3314J-2-103E.3314J-2-103E.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins102636@\3314j-2-103e\.\3314j-2-103e.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page8_ins102636@\3314j-2-103e\.\3314j-2-103e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,180)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(620,180,690,210)',
+ SECTION='';
+
+PART_NAME
+ Y1 'RH100-12.000-12-1010-X-TR-NS2_RH10012000121010XTRNS2_RH100-12.000-12-1010-X-TR-NS2_(RH10012000121010XTRNS2)':;
+
+SECTION_NUMBER 1
+ '@GABRIELKEYBOARD.SCHEMATIC1(SCH_1):INS2967@RH100-12.000-12-1010-X-TR-NS2.RH100-12.000-12-1010-X-TR-NS2.NORMAL(CHIPS)':
+ C_PATH='@gabrielkeyboard.schematic1(sch_1):ins2967@\rh100-12.000-12-1010-x-tr-ns2\.\rh100-12.000-12-1010-x-tr-ns2.normal\(chips)',
+ P_PATH='@gabrielkeyboard.schematic1(sch_1):page4_ins2967@\rh100-12.000-12-1010-x-tr-ns2\.\rh100-12.000-12-1010-x-tr-ns2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,170)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(140,170,260,200)',
+ SECTION='';
+
+END.
