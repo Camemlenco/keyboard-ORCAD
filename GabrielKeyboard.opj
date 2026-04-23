@@ -1,6 +1,6 @@
 (ExpressProject "GabrielKeyboard"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S020 (4396590)  [2/5/2026]-[04/22/26]")
+  (SoftwareVersion "25.1 S020 (4396590)  [2/5/2026]-[04/23/26]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -99,6 +99,48 @@
   (Folder "Logs")
   (MPSSessionName "camem")
   (PartMRUSelector
+    (3314J-2-103E
+      (FullPartName "3314J-2-103E.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1776969531\3314J-2-103E\CAPTURE\3314J-2-103E.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LCD-NHD-0216XZ-DlSPLAY
+      (FullPartName "LCD-NHD-0216XZ-DlSPLAY.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\SYMBOLS.OLB")
+      (DeviceIndex "0"))
+    (NHD-0216XZ-FSW-GBW
+      (FullPartName "NHD-0216XZ-FSW-GBW.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\NHD-0216XZ-FSW-GBW.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (RES1
+      (FullPartName "RES1.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\SYMBOLS.OLB")
+      (DeviceIndex "0"))
+    (Capacitor
+      (FullPartName "Capacitor.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\TEMPLATES.OLB")
+      (DeviceIndex "0"))
+    (PCF8574ADWR
+      (FullPartName "PCF8574ADWR.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1776965998\PCF8574ADWR\CAPTURE\PCF8574ADWR.OLB")
+      (DeviceIndex "0"))
     ("SW PUSHBUTTON-SPST"
       (FullPartName "SW PUSHBUTTON-SPST.Normal")
       (LibraryName
@@ -109,26 +151,10 @@
       (LibraryName
          "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\SYMBOLS.OLB")
       (DeviceIndex "0"))
-    (RES1
-      (FullPartName "RES1.Normal")
-      (LibraryName
-         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\SYMBOLS.OLB")
-      (DeviceIndex "0"))
     (NX138AKR
       (FullPartName "NX138AKR.Normal")
       (LibraryName
          "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1776879444\NX138AKR\CAPTURE\NX138AKR.OLB")
-      (DeviceIndex "0"))
-    (GND
-      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (Capacitor
-      (FullPartName "Capacitor.Normal")
-      (LibraryName
-         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\TEMPLATES.OLB")
-      (DeviceIndex "0"))
-    (VCC_BAR
-      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (LED-RGBW
       (FullPartName "LED-RGBW.Normal")
@@ -141,9 +167,6 @@
          "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\WS2812B.OLB")
       (DeviceIndex "0"))
     (OFFPAGELEFT-R
-      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (OFFPAGELEFT-L
       (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (Diode
@@ -192,47 +215,42 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\gabrielkeyboard.dsn")
-      (Path "Design Resources" ".\gabrielkeyboard.dsn" "SCHEMATIC1")
-      (Path "Design Resources" ".\gabrielkeyboard.dsn" "Design Cache")
-      (Select "Design Resources" ".\gabrielkeyboard.dsn" "Design Cache"
-         "SW PUSHBUTTON-SPST"))
+      (Path "Design Resources"
+         "C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\gabrielkeyboard.dsn")
+      (Path "Design Resources"
+         "C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\gabrielkeyboard.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\gabrielkeyboard.dsn"
+         "Design Cache")
+      (Select "Design Resources"
+         "C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\gabrielkeyboard.dsn"
+         "SCHEMATIC1" "01_COVERPAGE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 257 0 672"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 672"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1617 24 713")
-        (Scroll "79 115")
-        (Zoom "142")
+        (Placement "44 0 1 -1 -1 5 24 5 1624 24 713")
+        (Scroll "-343 -10")
+        (Zoom "77")
         (Occurrence "/"))
       (Path
          "C:\USERS\CAMEM\ONEDRIVE\ORCAD KEYBOARD\GABRIELKEYBOARD\GABRIELKEYBOARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "05_KEYS1"))
+      (Page "08_LCD"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1617 24 713")
-        (Scroll "0 294")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1624 24 713")
+        (Scroll "-214 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "C:\USERS\CAMEM\ONEDRIVE\ORCAD KEYBOARD\GABRIELKEYBOARD\GABRIELKEYBOARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "06_KEYS2"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1617 24 713")
-        (Scroll "0 957")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\CAMEM\ONEDRIVE\ORCAD KEYBOARD\GABRIELKEYBOARD\GABRIELKEYBOARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "03_POWER"))))
+      (Page "01_COVERPAGE"))))
