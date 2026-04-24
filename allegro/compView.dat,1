@@ -1,5 +1,6 @@
 A!REFDES!COMP_VOLTAGE!COMP_ROOM!COMP_GROUP!COMP_SIGNAL_MODEL!COMP_NO_XNET_CONNECTION!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_REUSE_ID!COMP_REUSE_NAME!COMP_REUSE_INSTANCE!
-J!C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd!Fri Apr 24 15:29:00 2026!-2187.50!-5250.00!29098.55!16109.51!0.01!mils!GABRIELKEYBOARD!60.118110 mil!4!OUT OF DATE!
+J!C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd!Fri Apr 24 16:39:48 2026!-2187.50!-5250.00!29098.55!16109.51!0.01!mils!GABRIELKEYBOARD!60.118110 mil!4!OUT OF DATE!
+S!DS1!!!!!!!!!!!
 S!SW62!!!!!!!!!!!
 S!C1!!!!!!!!!!!
 S!C2!!!!!!!!!!!
@@ -136,7 +137,6 @@ S!D97!!!!!!!!!!!
 S!D98!!!!!!!!!!!
 S!D99!!!!!!!!!!!
 S!D100!!!!!!!!!!!
-S!DS1!!!!!!!!!!!
 S!IC1!!!!!!!!!!!
 S!IC2!!!!!!!!!!!
 S!IC3!!!!!!!!!!!

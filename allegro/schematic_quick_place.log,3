@@ -1,0 +1,61 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : gabrielkeyboard.brd                           )
+(    Software Version : 25.1S020                                      )
+(    Date/Time        : Fri Apr 24 15:58:52 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Placing page "3"
+	Placed symbol:  C1 / CAPACITOR_CAP0603_DISCRETE_10UF_10 / CAP0603 at (755.66 5620.66)
+	Placed symbol:  C2 / CAPACITOR_CAP0603_DISCRETE_10UF_10 / CAP0603 at (1021.74 5649.75)
+	Placed symbol:  IC1 / TLV75533PDRVR_SON65P200X200X80-7N_TLV75533PDRVR / SON65P200X200X80-7N at (888.70 5766.09)
+	Placed symbol:  J1 / USB4085-GF-A_USB4085-GF-A_USB4085-GF-A_(USB4085-GF-A) / USB4085-GF-A at (370.49 5649.75)
+	Placed symbol:  R1 / RES1_RES0603_DISCRETE_5.1K_1% / RES0603 at (113.43 5513.37)
+	Placed symbol:  R2 / RES1_RES0603_DISCRETE_5.1K_1% / RES0603 at (627.54 5513.37)
+
+Placing page "4"
+	Placed symbol:  C10 / CAPACITOR_CAP0603_DISCRETE_0.1UF_10 / CAP0603 at (3344.21 6582.74)
+	Placed symbol:  C11 / CAPACITOR_CAP0603_DISCRETE_0.1UF_10 / CAP0603 at (3568.78 6582.74)
+	Placed symbol:  C12 / CAPACITOR_CAP0603_DISCRETE_0.1UF_10 / CAP0603 at (3825.02 6582.74)
+	Placed symbol:  C13 / CAPACITOR_CAP0603_DISCRETE_0.1UF_10 / CAP0603 at (3953.14 6582.74)
+	Placed symbol:  C14 / CAPACITOR_CAP0603_DISCRETE_0.1UF_10 / CAP0603 at (4081.26 6582.74)
+	Placed symbol:  C17 / CAPACITOR_CAP0603_DISCRETE_0.1UF_10 / CAP0603 at (4209.38 5887.70)
+	Placed symbol:  C3 / CAPACITOR_CAP0603_DISCRETE_0.1UF_10 / CAP0603 at (2307.78 6647.86)
+	Placed symbol:  C4 / CAPACITOR_CAP0603_DISCRETE_0.1UF_10 / CAP0603 at (2435.90 6647.86)
+	Placed symbol:  C7 / CAPACITOR_CAP0603_DISCRETE_0.1UF_10 / CAP0603 at (2435.90 6582.74)
+	Placed symbol:  C8 / CAPACITOR_CAP0603_DISCRETE_0.1UF_10 / CAP0603 at (2564.02 6582.74)
+	Placed symbol:  C9 / CAPACITOR_CAP0603_DISCRETE_0.1UF_10 / CAP0603 at (2820.26 6582.74)
+	Placed symbol:  C15 / CAPACITOR_CAP0603_DISCRETE_22PF_10 / CAP0603 at (1239.86 6322.58)
+	Placed symbol:  C16 / CAPACITOR_CAP0603_DISCRETE_22PF_10 / CAP0603 at (1598.46 6322.58)
+	Placed symbol:  C5 / CAPACITOR_CAP0603_DISCRETE_1UF_10 / CAP0603 at (2692.14 6647.86)
+	Placed symbol:  C6 / CAPACITOR_CAP0603_DISCRETE_1UF_10 / CAP0603 at (2307.78 6582.74)
+	Placed symbol:  IC2 / W25Q128JVSIQ_SOIC127P790X216-8N_W25Q128JVSIQ / SOIC127P790X216-8N at (3073.38 6040.02)
+	Placed symbol:  J2 / CON2_S2B-PH-K_CON2 / S2B-PH-K at (3344.21 5538.96)
+	Placed symbol:  R4 / RES1_RES0603_DISCRETE_10K_1% / RES0603 at (3696.90 6257.46)
+	Placed symbol:  R3 / RES1_RES0603_DISCRETE_1K_1% / RES0603 at (1726.58 6322.58)
+	Placed symbol:  R7 / RES1_RES0603_DISCRETE_1K_1% / RES0603 at (2692.14 5822.58)
+	Placed symbol:  R5 / RES1_RES0603_DISCRETE_27.4_1% / RES0603 at (2179.66 6192.34)
+	Placed symbol:  R6 / RES1_RES0603_DISCRETE_27.4_1% / RES0603 at (2179.66 6040.02)
+	Placed symbol:  U1 / RP2040_56-VFQFN-EP_RP2040 / 56-VFQFN-EP at (1953.12 6842.90)
+	Placed symbol:  Y1 / RH100-12.000-12-1010-X-TR-NS2_RH10012000121010XTRNS2_RH100-12.000-12-1010-X-TR-NS2_(RH10012000121010XTRNS2) / RH10012000121010XTRNS2 at (1419.16 6452.66)
+
+Placing page "7"
+	Placed symbol:  Q1 / NX138AKR_SOT95P230X110-3N_NX138AKR / SOT95P230X110-3N at (4547.80 5554.71)
+	Placed symbol:  R8 / RES1_RES0603_DISCRETE_10K_1% / RES0603 at (4427.50 5661.17)
+	Placed symbol:  R9 / RES1_RES0603_DISCRETE_10K_1% / RES0603 at (4668.10 5661.17)
+
+Placing page "8"
+	Placed symbol:  C34 / CAPACITOR_CAP0603_DISCRETE_0.1UF_10 / CAP0603 at (5400.26 6201.40)
+	Placed symbol:  IC3 / PCF8574ADWR_SOIC127P1030X265-16N_PCF8574ADWR / SOIC127P1030X265-16N at (5318.64 5891.41)
+	Placed symbol:  Q2 / NX138AKR_SOT95P230X110-3N_NX138AKR / SOT95P230X110-3N at (6035.66 5554.71)
+	Placed symbol:  R10 / RES1_RES0603_DISCRETE_10K_1% / RES0603 at (4886.22 6136.28)
+	Placed symbol:  R11 / RES1_RES0603_DISCRETE_10K_1% / RES0603 at (5014.34 6136.28)
+	Placed symbol:  R12 / RES1_RES0603_DISCRETE_10K_1% / RES0603 at (5892.78 5636.33)
+	Placed symbol:  VR1 / 3314J-2-103E_3314J2102E_POT 10K / 3314J2102E at (5693.80 5891.41)
+
+Placed 40 of 40 symbols.

@@ -1,5 +1,25 @@
 A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
-J!C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd!Fri Apr 24 15:29:00 2026!-2187.50!-5250.00!29098.55!16109.51!0.01!mils!GABRIELKEYBOARD!60.118110 mil!4!OUT OF DATE!
+J!C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd!Fri Apr 24 16:39:48 2026!-2187.50!-5250.00!29098.55!16109.51!0.01!mils!GABRIELKEYBOARD!60.118110 mil!4!OUT OF DATE!
+S!!DS1!7!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!!DS1!8!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!!DS1!9!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!!DS1!10!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!D4!DS1!11!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!D5!DS1!12!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!D6!DS1!13!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!D7!DS1!14!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!EN!DS1!6!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!+5V0!DS1!15!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!N101643!DS1!16!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!!DS1!17!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!!DS1!18!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!!DS1!19!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!!DS1!20!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!RW!DS1!5!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!RS!DS1!4!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!N102697!DS1!3!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!+5V0!DS1!2!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
+S!GND!DS1!1!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
 S!N24414!SW62!1!@gabrielkeyboard.schematic1(sch_1):ins24368@symbols.\sw pushbutton-spst-keyboard.normal\(chips)!SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_CTRL_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)!!!F43!!!!!!!!!!
 S!COL_10!SW62!2!@gabrielkeyboard.schematic1(sch_1):ins24368@symbols.\sw pushbutton-spst-keyboard.normal\(chips)!SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_CTRL_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)!!!F43!!!!!!!!!!
 S!!SW62!3!@gabrielkeyboard.schematic1(sch_1):ins24368@symbols.\sw pushbutton-spst-keyboard.normal\(chips)!SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_CTRL_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)!!!F43!!!!!!!!!!
@@ -275,26 +295,6 @@ S!N33681!D99!A!@gabrielkeyboard.schematic1(sch_1):ins71844@symbols.\diode-ak.nor
 S!ROW_5!D99!K!@gabrielkeyboard.schematic1(sch_1):ins71844@symbols.\diode-ak.normal\(chips)!DIODE-AK_SOD-123_DISCRETE_DIODE!!!F144!!!!!!!!!!
 S!N33804!D100!A!@gabrielkeyboard.schematic1(sch_1):ins71860@symbols.\diode-ak.normal\(chips)!DIODE-AK_SOD-123_DISCRETE_DIODE!!!F242!!!!!!!!!!
 S!ROW_5!D100!K!@gabrielkeyboard.schematic1(sch_1):ins71860@symbols.\diode-ak.normal\(chips)!DIODE-AK_SOD-123_DISCRETE_DIODE!!!F242!!!!!!!!!!
-S!!DS1!7!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!!DS1!8!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!!DS1!9!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!!DS1!10!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!D4!DS1!11!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!D5!DS1!12!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!D6!DS1!13!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!D7!DS1!14!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!EN!DS1!6!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!+5V0!DS1!15!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!N101643!DS1!16!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!!DS1!17!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!!DS1!18!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!!DS1!19!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!!DS1!20!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!RW!DS1!5!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!RS!DS1!4!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!N102697!DS1!3!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!+5V0!DS1!2!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
-S!GND!DS1!1!@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\lcd-nhd-0216xz-dlsplay.normal\(chips)!LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW!!!F143!!!!!!!!!!
 S!+5V0!IC1!4!@gabrielkeyboard.schematic1(sch_1):ins9368@tlv75533pdrvr.\tlv75533pdrvr.normal\(chips)!TLV75533PDRVR_SON65P200X200X80-7N_TLV75533PDRVR!!!F142!!!!!!!!!!
 S!GND!IC1!7!@gabrielkeyboard.schematic1(sch_1):ins9368@tlv75533pdrvr.\tlv75533pdrvr.normal\(chips)!TLV75533PDRVR_SON65P200X200X80-7N_TLV75533PDRVR!!!F142!!!!!!!!!!
 S!GND!IC1!3!@gabrielkeyboard.schematic1(sch_1):ins9368@tlv75533pdrvr.\tlv75533pdrvr.normal\(chips)!TLV75533PDRVR_SON65P200X200X80-7N_TLV75533PDRVR!!!F142!!!!!!!!!!
