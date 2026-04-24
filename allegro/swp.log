@@ -1,11 +1,11 @@
 Loading netlist files ...
-Loading... C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\allegro\pstchip.dat
+Loading... .\pstchip.dat
 
-Loading... C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\allegro\pstxprt.dat
+Loading... .\pstxprt.dat
 
-Loading... C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\allegro\pstxnet.dat
-packaging the design view...Loading... C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\allegro/funcview.dat
-Loading... C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\allegro/compview.dat
-Loading... C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\allegro/netview.dat
-Loading... C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\allegro/pinview.dat
+Loading... .\pstxnet.dat
+packaging the design view...Loading... ./funcview.dat
+Loading... ./compview.dat
+Loading... ./netview.dat
+Loading... ./pinview.dat
 packaging the design view...

@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 25.1.0 d001Apr-24-2026 at 14:43:28}
+{ Using PSTWRITER 25.1.0 d001Apr-24-2026 at 15:27:55}
 primitive 'CAPACITOR_CAP0603_DISCRETE_10UF_10';
   pin
     '1':
@@ -84,7 +84,7 @@ primitive 'DIODE-AK_SOD-123_DISCRETE_DIODE';
     VALUE='Diode';
   end_body;
 end_primitive;
-primitive 'LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW';
+primitive 'LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW';
   pin
     'VSS':
       PIN_NUMBER='(1)';
@@ -149,7 +149,7 @@ primitive 'LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW';
   end_pin;
   body
     PART_NAME='LCD-NHD-0216XZ-DlSPLAY';
-    JEDEC_TYPE='NHD0216XZFSWGBW';
+    JEDEC_TYPE='nhd-0216xz-fsw-gbw';
     VALUE='NHD-0216XZ-FSW-GBW';
   end_body;
 end_primitive;

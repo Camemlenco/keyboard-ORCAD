@@ -5,7 +5,14 @@
 	"Component Property" : [],
 	"Net Property" : [],
 	"Pin Property" : [],
-	"Component" : [],
+	"Component" : [
+		{
+			"Name" : "DS1",
+			"C_PATH" : "@gabrielkeyboard.schematic1(sch_1):ins101006@symbols.\\lcd-nhd-0216xz-dlsplay.normal\\(chips)",
+			"Logical" : "LCD-NHD-0216XZ-DLSPLAY_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW",
+			"Physical" : "LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW"
+		}
+	],
 	"Net" : [],
 	"Connection" : []
 }

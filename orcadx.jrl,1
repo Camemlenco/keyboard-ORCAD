@@ -1,16 +1,16 @@
 \t (00:00:09) orcadx 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
-\t (00:00:09)     Journal start - Fri Apr 24 12:39:30 2026
-\t (00:00:09)         Host=ASUS-GABRIEL User=camem Pid=1968 CPUs=16
-\t (00:00:09) CmdLine= c:\cadence\orcadx_25.1\tools\bin\unison.exe -layout -orcadx -mpssession camem -proj C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\GabrielKeyboard.opj "C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd 
+\t (00:00:09)     Journal start - Fri Apr 24 13:41:15 2026
+\t (00:00:09)         Host=ASUS-GABRIEL User=camem Pid=12080 CPUs=16
+\t (00:00:09) CmdLine= c:\cadence\orcadx_25.1\tools\bin\unison.exe -layout -orcadx -mpssession camem -proj C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\GabrielKeyboard.opj "C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd 
 \t (00:00:09) 
 \t (00:00:09) Loading axlcore.cxt 
 \t (00:00:09) Starting new design...
 \i (00:00:12) trapsize 10500
 \e (00:00:12) Unmatched quote
-\e (00:00:12) There is error while opening the design "C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/GabrielKeyboard.opj "C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd"
+\e (00:00:12) There is error while opening the design "C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/GabrielKeyboard.opj "C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd"
 
 \i (00:00:12) ucpedit 
-\i (00:00:16) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd' 
-\t (00:00:16) Opening existing design...
-\i (00:00:16) trapsize 79290
-\t (00:00:17)     Journal end - Fri Apr 24 12:39:38 2026
+\i (00:00:25) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd' 
+\t (00:00:25) Opening existing design...
+\i (00:00:25) trapsize 104405
+\t (00:00:25)     Journal end - Fri Apr 24 13:41:31 2026
