@@ -1,0 +1,126 @@
+\t (00:00:02) allegro 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Apr 24 10:34:40 2026
+\t (00:00:02)         Host=ASUS-GABRIEL User=camem Pid=19792 CPUs=16
+\t (00:00:02) CmdLine= c:\cadence\orcadx_25.1\tools\bin\allegro.exe C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\allegro\gabrielkeyboard.brd
+\t (00:00:02) 
+\t (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged gabrielkeyboard
+\d (00:00:06) Design opened: C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd
+\i (00:00:06) trapsize 6907
+\i (00:00:06) trapsize 7124
+\i (00:00:06) trapsize 6907
+\i (00:00:06) trapsize 6123
+\i (00:00:06) trapsize 6967
+\i (00:00:09) updateport SearchPane
+\i (00:00:09) generaledit 
+\i (00:00:16) pick grid 5225.61 -960.54
+\t (00:00:16) last pick:  5250.00 -937.50
+\i (00:00:17) roam start
+\i (00:00:17) roam y 16
+\i (00:00:17) roam y 64
+\i (00:00:17) roam y 112
+\i (00:00:17) roam y 64
+\i (00:00:17) roam x 16
+\i (00:00:17) roam x 48
+\i (00:00:17) roam y -32
+\i (00:00:17) roam x 80
+\i (00:00:17) roam y -48
+\i (00:00:17) roam x 64
+\i (00:00:17) roam y -96
+\i (00:00:17) roam y -192
+\i (00:00:17) roam y -224
+\i (00:00:18) roam y 16
+\i (00:00:18) roam end
+\i (00:00:18) roam start
+\i (00:00:18) roam y 16
+\i (00:00:19) roam x -144
+\i (00:00:19) roam y 224
+\i (00:00:19) roam x -48
+\i (00:00:19) roam y 64
+\i (00:00:19) roam x -16
+\i (00:00:19) roam y 16
+\i (00:00:19) roam end
+\i (00:00:25) roam start
+\i (00:00:25) roam x 16
+\i (00:00:26) roam x 192
+\i (00:00:26) roam y -32
+\i (00:00:26) roam y -16
+\i (00:00:26) roam end
+\i (00:00:26) roam start
+\i (00:00:26) roam x -16
+\i (00:00:26) roam x -32
+\i (00:00:26) roam y 16
+\i (00:00:26) roam x -112
+\i (00:00:26) roam y 64
+\i (00:00:27) roam x -48
+\i (00:00:27) roam y 48
+\i (00:00:27) roam end
+\i (00:00:34) pick grid 9698.56 -24.59
+\t (00:00:34) last pick:  9687.50 0.00
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 2522.34 240.16
+\t (00:00:36) Loading consmgr.cxt 
+\t (00:00:36) Loading acns_formula.cxt 
+\i (00:00:36) trapsize 3484
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 2522.34 240.16
+\i (00:00:36) trapsize 1742
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:44) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:44) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:44) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:44) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:44) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:44) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 2574.59 -108.20
+\i (00:00:45) trapsize 3484
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 2574.60 -108.19
+\i (00:00:45) trapsize 6967
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 2731.35 -108.19
+\t (00:00:45) Grids are drawn 125.00, 125.00 apart for enhanced viewing.
+\i (00:00:45) trapsize 13934
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 7650.20 -2045.08
+\i (00:00:45) trapsize 13934
+\i (00:00:46) zoom in 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in 7650.20 -2045.08
+\i (00:00:46) trapsize 6967
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 5686.27 -2045.08
+\i (00:00:46) trapsize 13934
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 7650.20 -2045.08
+\i (00:00:46) trapsize 13934
+\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:01) exit 
+\t (00:01:01) Lic Summary:
+[10:35:39.438354] Cdslmd servers:C:\Users\camem\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[10:35:39.438699] Feature usage summary:
+[10:35:39.438704] OrCAD_X_PCB_Professional_Plus  
+[10:35:39.438705] OrCAD_X_Professional_Plus  
+\t (00:01:01)     Journal end - Fri Apr 24 10:35:39 2026

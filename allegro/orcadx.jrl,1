@@ -1,0 +1,862 @@
+\t (00:00:17) orcadx 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
+\t (00:00:17)     Journal start - Fri Apr 24 12:39:38 2026
+\t (00:00:17)         Host=ASUS-GABRIEL User=camem Pid=1968 CPUs=16
+\t (00:00:17) CmdLine= c:\cadence\orcadx_25.1\tools\bin\unison.exe -layout -orcadx -mpssession camem -proj C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\GabrielKeyboard.opj "C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd 
+\t (00:00:17) 
+\d (00:00:17) Design opened: C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd
+\i (00:00:17) trapsize 4130
+\i (00:00:17) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:17) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:17) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:19) trapsize 5112
+\i (00:00:21) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:21) QtSignal 0
+\i (00:00:21) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:21) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:00:22) Loading consmgr.cxt 
+\t (00:00:22) Loading acns_formula.cxt 
+\i (00:00:22) trapsize 6489
+\i (00:00:25) QtSignal DCRMeasTypeGroup MeasTypePartialRButton toggled on
+\i (00:00:25) QtSignal DCRMeasModelGroup MeasModelL2LRButton toggled on
+\i (00:00:26) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:00:26) updateport VisibilityPane
+\i (00:00:26) updateport PropPane
+\i (00:00:26) updateport CVPane
+\i (00:00:27) ucpedit 
+\i (00:00:27) updateport VisibilityPane
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:41) QtSignal MainCanvas TopXpLayoutLinkNewDialog closed
+\i (00:00:48) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd' 
+\t (00:00:48) Opening existing design...
+\i (00:00:48) trapsize 105000
+\d (00:00:49) Design opened: C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd
+\i (00:00:49) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:00:49) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:00:51) QtSignal DCRMeasTypeGroup MeasTypePartialRButton toggled on
+\i (00:00:51) QtSignal DCRMeasModelGroup MeasModelL2LRButton toggled on
+\i (00:00:53) trapsize 8592
+\i (00:00:54) updateport ReportsPane
+\i (00:00:54) updateport SearchPane
+\i (00:00:54) updateport VisibilityPane
+\i (00:00:54) updateport PropPane
+\i (00:00:54) updateport CVPane
+\i (00:00:54) ucpedit 
+\i (00:00:54) updateport VisibilityPane
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:59) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:59) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:59) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:59) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:59) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:59) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:00) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:00) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:06) updateport CMPanelPort
+\i (00:01:06) updateport PropPane
+\i (00:01:06) updateport ReportsPane
+\i (00:01:06) updateport SearchPane
+\i (00:01:07) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd' 
+\i (00:01:08) QtSignal MainCanvas TopXpLayoutLinkNewDialog closed
+\t (00:01:08) Opening existing design...
+\i (00:01:08) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:01:08) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:01:08) trapsize 6800
+\d (00:01:09) Design opened: C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd
+\i (00:01:09) trapsize 4328
+\i (00:01:09) trapsize 5358
+\i (00:01:09) trapsize 6800
+\i (00:01:10) updateport VisibilityPane
+\i (00:01:10) updateport PropPane
+\i (00:01:10) ucpedit 
+\i (00:01:10) updateport VisibilityPane
+\i (00:01:13) pick grid 2912.50 5415.41
+\t (00:01:13) last pick:  2912.50 5415.41
+\i (00:01:22) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd' 
+\t (00:01:22) Opening existing design...
+\i (00:01:23) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:01:23) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:01:23) trapsize 13600
+\d (00:01:23) Design opened: C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd
+\i (00:01:24) updateport VisibilityPane
+\i (00:01:24) updateport PropPane
+\i (00:01:24) ucpedit 
+\i (00:01:24) updateport VisibilityPane
+\i (00:01:37) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd' 
+\t (00:01:37) Opening existing design...
+\i (00:01:37) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:01:37) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:01:38) trapsize 6800
+\d (00:01:38) Design opened: C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd
+\i (00:01:39) updateport VisibilityPane
+\i (00:01:39) updateport PropPane
+\i (00:01:39) ucpedit 
+\i (00:01:39) updateport VisibilityPane
+\i (00:01:42) zoom in 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom in 573.30 5347.41
+\i (00:01:42) trapsize 3400
+\i (00:01:42) zoom in 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom in 566.50 5347.41
+\i (00:01:42) trapsize 1700
+\i (00:01:52) dlib 
+\i (00:02:04) setwindow form.dlib
+\i (00:02:04) FORM dlib cancel  
+\i (00:02:04) setwindow pcb
+\i (00:02:04) ucpedit 
+\i (00:02:04) updateport VisibilityPane
+\i (00:02:06) pin_delay out 
+\i (00:02:17) cplay_copy_layout 
+\e (00:02:17) ERROR(SPMHGE-825): 'Copy Layout' can only operate with elements preselected in an application mode. Select objects prior to invoking this command.
+\i (00:02:17) ucpedit 
+\i (00:02:17) updateport VisibilityPane
+\i (00:02:23) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd' 
+\t (00:02:23) Opening existing design...
+\i (00:02:24) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:02:24) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:02:24) trapsize 13600
+\d (00:02:24) Design opened: C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd
+\i (00:02:25) updateport VisibilityPane
+\i (00:02:25) updateport PropPane
+\i (00:02:25) ucpedit 
+\i (00:02:25) updateport VisibilityPane
+\i (00:02:27) cplay_paste_layout 
+\e (00:02:27) ERROR(SPMHGE-826): No layout data available to paste. Select objects, use 'copy layout', and then 'paste layout'.
+\i (00:02:27) ucpedit 
+\i (00:02:27) updateport VisibilityPane
+\i (00:02:36) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd' 
+\t (00:02:36) Opening existing design...
+\i (00:02:36) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:02:36) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:02:37) trapsize 13600
+\d (00:02:37) Design opened: C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd
+\i (00:02:38) updateport VisibilityPane
+\i (00:02:38) updateport PropPane
+\i (00:02:38) ucpedit 
+\i (00:02:38) updateport VisibilityPane
+\i (00:02:39) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd' 
+\t (00:02:40) Opening existing design...
+\i (00:02:40) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:02:40) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:02:40) trapsize 6800
+\d (00:02:41) Design opened: C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd
+\i (00:02:41) updateport VisibilityPane
+\i (00:02:41) updateport PropPane
+\i (00:02:41) ucpedit 
+\i (00:02:41) updateport VisibilityPane
+\i (00:02:42) zoom out 1 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) zoom out 287.70 5306.61
+\i (00:02:42) trapsize 13600
+\i (00:02:42) zoom out 1 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) zoom out 2762.90 8622.00
+\i (00:02:42) trapsize 13600
+\i (00:02:42) zoom out 1 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) zoom out 2762.90 8622.00
+\i (00:02:42) trapsize 13600
+\i (00:02:42) drag_start grid 19490.90 6010.80
+\i (00:02:43) drag_stop -1017.90 -2611.60
+\i (00:02:46) cplay_copy_layout 
+\i (00:03:00) ucp_design_outline_draw_mode 
+\i (00:03:00) ucpedit 
+\i (00:03:00) updateport VisibilityPane
+\i (00:03:03) updateport CMPanelPort
+\i (00:03:03) updateport PropPane
+\i (00:03:03) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:03:03) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:03:03) updateport ReportsPane
+\i (00:03:03) updateport SearchPane
+\i (00:03:12) updateport ReportsPane
+\i (00:03:12) updateport SearchPane
+\i (00:03:12) updateport PropPane
+\i (00:03:15) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:03:15) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:03:20) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:03:20) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:03:24) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Command mouseReleased
+\i (00:03:26) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Snapping mouseReleased
+\i (00:03:27) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Command mouseReleased
+\i (00:03:32) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd' 
+\t (00:03:32) Opening existing design...
+\i (00:03:33) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:03:33) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:03:33) trapsize 13600
+\d (00:03:33) Design opened: C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd
+\i (00:03:34) updateport VisibilityPane
+\i (00:03:34) updateport PropPane
+\i (00:03:34) ucpedit 
+\i (00:03:34) updateport VisibilityPane
+\i (00:03:35) cplay_paste_layout 
+\e (00:03:35) ERROR(SPMHGE-826): No layout data available to paste. Select objects, use 'copy layout', and then 'paste layout'.
+\i (00:03:35) ucpedit 
+\i (00:03:35) updateport VisibilityPane
+\i (00:58:19) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:58:19) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:58:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:58:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:58:32) ucp_dxf_in 
+\i (00:58:34) setwindow form.dxfInMain
+\i (00:58:34) FORM dxfInMain cancel  
+\t (00:58:34) Loading mfg.cxt 
+\i (00:58:34) setwindow pcb
+\i (00:58:34) ucpedit 
+\i (00:58:34) updateport VisibilityPane
+\i (00:58:45) ucp_plctxt_in 
+\i (00:58:46) setwindow form.plctxt_ucp
+\i (00:58:46) FORM plctxt_ucp browse  
+\i (00:58:49) fillin "menu_cancel"
+\i (00:58:50) FORM plctxt_ucp cancel  
+\i (00:58:50) setwindow pcb
+\i (00:58:50) ucpedit 
+\i (00:58:50) updateport VisibilityPane
+\i (00:58:55) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd' 
+\t (00:58:55) Opening existing design...
+\i (00:58:55) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:58:55) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:58:56) trapsize 13600
+\d (00:58:56) Design opened: C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd
+\i (00:58:57) updateport VisibilityPane
+\i (00:58:57) updateport PropPane
+\i (00:58:57) ucpedit 
+\i (00:58:57) updateport VisibilityPane
+\i (00:58:59) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd' 
+\t (00:58:59) Opening existing design...
+\i (00:59:00) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:59:00) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:59:00) trapsize 6800
+\d (00:59:01) Design opened: C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd
+\i (00:59:01) updateport VisibilityPane
+\i (00:59:01) updateport PropPane
+\i (00:59:01) ucpedit 
+\i (00:59:01) updateport VisibilityPane
+\i (00:59:09) design sync back_annotate 
+\t (00:59:09) > Generating Physical Netlist
+\t (00:59:09) Starting genfeedformat...
+\t (00:59:09) > Generating Physical Netlist successful
+\t (00:59:09) > Generating Differences
+\t (00:59:09) > Generating Differences successful
+\t (00:59:09) > Displaying differences output
+\t (00:59:09) > Displaying differences output successful
+\i (00:59:09) updateport ReportsPane
+\i (00:59:09) updateport SearchPane
+\i (00:59:09) updateport PropPane
+\t (00:59:10) > Generating Physical Netlist
+\t (00:59:10) Starting genfeedformat...
+\t (00:59:10) > Generating Physical Netlist successful
+\t (00:59:10) > Generating Differences
+\t (00:59:10) > Generating Differences successful
+\t (00:59:10) > Displaying differences output
+\i (00:59:10) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged
+\i (00:59:10) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
+\i (00:59:10) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged
+\i (00:59:10) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
+\t (00:59:10) > Displaying differences output successful
+\i (00:59:10) updateport ReportsPane
+\i (00:59:10) updateport SearchPane
+\i (00:59:10) updateport PropPane
+\i (00:59:17) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:17) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:17) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:17) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:17) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:17) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:18) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:18) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:18) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:18) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:18) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:18) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:18) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:18) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:18) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:59:19) QtSignal DesignSyncDialog sync_button clicked
+\t (00:59:19) Starting genfeedformat...
+\i (00:59:20) updateport ReportsPane
+\i (00:59:20) updateport SearchPane
+\i (00:59:20) updateport PropPane
+\i (00:59:20) ucpedit 
+\i (00:59:20) updateport VisibilityPane
+\i (00:59:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:23) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:23) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:23) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:23) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:23) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:23) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:23) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:23) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:25) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:25) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:25) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:25) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:25) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:25) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:25) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:25) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:26) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:31) design sync eco 
+\t (00:59:31) > Generating Physical Netlist
+\t (00:59:31) Starting genfeedformat...
+\t (00:59:32) > Generating Physical Netlist successful
+\t (00:59:32) > Generating Differences
+\t (00:59:32) > Generating Differences successful
+\t (00:59:32) > Displaying differences output
+\t (00:59:32) > Displaying differences output successful
+\i (00:59:32) updateport ReportsPane
+\i (00:59:32) updateport SearchPane
+\i (00:59:32) updateport PropPane
+\t (00:59:32) > Generating Physical Netlist
+\t (00:59:32) Starting genfeedformat...
+\t (00:59:32) > Generating Physical Netlist successful
+\t (00:59:32) > Generating Differences
+\t (00:59:33) > Generating Differences successful
+\t (00:59:33) > Displaying differences output
+\i (00:59:33) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged
+\i (00:59:33) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
+\i (00:59:33) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged
+\i (00:59:33) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
+\t (00:59:33) > Displaying differences output successful
+\i (00:59:33) updateport ReportsPane
+\i (00:59:33) updateport SearchPane
+\i (00:59:33) updateport PropPane
+\i (00:59:33) QtSignal DesignSyncDialog sync_button clicked
+\t (00:59:33) Starting Cadence Logic Import...
+\t (00:59:34) Opening existing design...
+\i (00:59:35) trapsize 6800
+\w (00:59:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:59:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:59:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:59:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:59:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:59:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:59:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:59:36) trapsize 6800
+\i (00:59:36) trapsize 6800
+\t (00:59:36) Placed 279 of 279 symbols.
+\i (00:59:36) QtSignal DesignSyncDialog sch_comboBox EditingFinished "."
+\i (00:59:36) QtSignal MainCanvas DesignSyncDialog closed
+\i (00:59:36) updateport ReportsPane
+\i (00:59:36) updateport SearchPane
+\i (00:59:36) updateport VisibilityPane
+\i (00:59:36) updateport CMPanelPort
+\i (00:59:36) updateport PropPane
+\i (00:59:36) zoom out 1 
+\i (00:59:36) setwindow pcb
+\i (00:59:36) zoom out 8964.50 873.01
+\i (00:59:36) trapsize 13600
+\i (00:59:37) updateport ReportsPane
+\i (00:59:37) updateport SearchPane
+\i (00:59:37) ucpedit 
+\i (00:59:37) updateport VisibilityPane
+\i (00:59:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:59:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:01) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:04) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:04) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:04) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:04) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:04) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:05) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:05) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:05) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:05) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:05) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:05) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:00:06) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:06) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:12) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:12) zoom out 1 
+\i (01:00:12) setwindow pcb
+\i (01:00:12) zoom out 13126.10 3837.81
+\i (01:00:12) trapsize 17088
+\i (01:00:12) zoom out 1 
+\i (01:00:12) setwindow pcb
+\i (01:00:12) zoom out 16882.27 4284.88
+\i (01:00:12) trapsize 17088
+\i (01:00:12) zoom out 1 
+\i (01:00:12) setwindow pcb
+\i (01:00:12) zoom out 16745.57 3874.78
+\i (01:00:12) trapsize 17088
+\i (01:00:12) zoom out 1 
+\i (01:00:12) setwindow pcb
+\i (01:00:12) zoom out 16677.22 3772.26
+\i (01:00:12) trapsize 17088
+\i (01:00:13) zoom out 1 
+\i (01:00:13) setwindow pcb
+\i (01:00:13) zoom out 15651.96 2507.77
+\i (01:00:13) trapsize 17088
+\i (01:00:13) zoom out 1 
+\i (01:00:13) setwindow pcb
+\i (01:00:13) zoom out 14968.46 1926.79
+\i (01:00:13) trapsize 17088
+\i (01:00:13) zoom out 1 
+\i (01:00:13) setwindow pcb
+\i (01:00:13) zoom out 13020.47 1345.82
+\i (01:00:13) trapsize 17088
+\i (01:00:13) roam start
+\i (01:00:14) roam end
+\i (01:00:15) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Grids mouseReleased
+\i (01:00:16) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Snapping mouseReleased
+\i (01:00:18) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Grids mouseReleased
+\i (01:00:18) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (01:00:18) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (01:00:18) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (01:00:18) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (01:00:18) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (01:00:18) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (01:00:18) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (01:00:18) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (01:00:18) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged
+\i (01:00:19) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged
+\i (01:00:19) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged
+\i (01:00:19) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (01:00:19) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (01:00:19) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (01:00:19) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (01:00:19) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsWidget_Visibility CurrentIndexChanged +
+\i (01:00:19) QtSignal 0
+\t (01:00:19) Grids are drawn 250.00, 250.00 apart for enhanced viewing.
+\i (01:00:19) updateport VisibilityPane
+\i (01:00:20) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (01:00:20) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (01:00:21) pick grid 19069.48 1311.64
+\t (01:00:21) last pick:  19069.48 1311.64
+\i (01:00:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:22) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:23) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:23) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:23) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:24) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:25) zoom in 1 
+\i (01:00:25) setwindow pcb
+\i (01:00:25) zoom in 6629.70 2097.67
+\t (01:00:25) Grids are drawn 125.00, 125.00 apart for enhanced viewing.
+\i (01:00:25) trapsize 8544
+\i (01:00:25) zoom in 1 
+\i (01:00:25) setwindow pcb
+\i (01:00:25) zoom in 6629.70 2097.67
+\i (01:00:25) trapsize 4272
+\i (01:00:26) zoom out 1 
+\i (01:00:26) setwindow pcb
+\i (01:00:26) zoom out 6646.79 2114.76
+\i (01:00:26) trapsize 8544
+\i (01:00:26) zoom out 1 
+\i (01:00:26) setwindow pcb
+\i (01:00:26) zoom out 6646.78 2114.77
+\t (01:00:26) Grids are drawn 250.00, 250.00 apart for enhanced viewing.
+\i (01:00:26) trapsize 17088
+\i (01:00:26) roam start
+\i (01:00:27) roam end
+\i (01:00:27) zoom in 1 
+\i (01:00:27) setwindow pcb
+\i (01:00:27) zoom in -683.79 3806.43
+\t (01:00:27) Grids are drawn 125.00, 125.00 apart for enhanced viewing.
+\i (01:00:27) trapsize 8544
+\i (01:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:50) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:50) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:50) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:50) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:51) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:51) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:51) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 134 3
+\i (01:00:53) save 
+\i (01:00:55) fillin yes 
+\i (01:00:55) updateport ReportsPane
+\i (01:00:55) updateport SearchPane
+\i (01:00:55) updateport PropPane
+\i (01:00:55) ucpedit 
+\i (01:00:55) updateport VisibilityPane
+\i (01:01:01) design sync back_annotate 
+\t (01:01:01) > Generating Physical Netlist
+\t (01:01:01) Starting genfeedformat...
+\t (01:01:02) > Generating Physical Netlist successful
+\t (01:01:02) > Generating Differences
+\t (01:01:02) > Generating Differences successful
+\t (01:01:02) > Displaying differences output
+\t (01:01:02) > Displaying differences output successful
+\i (01:01:02) updateport ReportsPane
+\i (01:01:02) updateport SearchPane
+\i (01:01:02) updateport PropPane
+\t (01:01:02) > Generating Physical Netlist
+\t (01:01:02) Starting genfeedformat...
+\t (01:01:02) > Generating Physical Netlist successful
+\t (01:01:02) > Generating Differences
+\t (01:01:02) > Generating Differences successful
+\t (01:01:02) > Displaying differences output
+\t (01:01:02) > Displaying differences output successful
+\i (01:01:02) updateport ReportsPane
+\i (01:01:02) updateport SearchPane
+\i (01:01:02) updateport PropPane
+\i (01:01:06) QtSignal MainCanvas DesignSyncDialog closed
+\i (01:01:06) ucpedit 
+\i (01:01:06) updateport VisibilityPane
+\i (01:01:13) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd' 
+\t (01:01:14) Opening existing design...
+\i (01:01:14) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (01:01:14) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (01:01:14) trapsize 13600
+\d (01:01:15) Design opened: C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd
+\i (01:01:15) updateport VisibilityPane
+\i (01:01:15) updateport PropPane
+\i (01:01:15) ucpedit 
+\i (01:01:15) updateport VisibilityPane
+\i (01:01:16) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:16) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:16) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:16) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:16) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:16) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:16) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:16) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:16) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:16) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:16) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:16) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:17) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:17) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:17) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:17) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:17) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:17) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:17) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:17) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:17) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:17) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:19) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:20) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:20) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:20) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:20) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:20) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:20) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:20) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (01:01:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\t (01:01:34)     Journal end - Fri Apr 24 13:40:56 2026

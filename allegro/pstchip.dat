@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 25.1.0 d001Apr-23-2026 at 16:09:05}
+{ Using PSTWRITER 25.1.0 d001Apr-24-2026 at 13:41:01}
 primitive 'CAPACITOR_CAP0603_DISCRETE_10UF_10';
   pin
     '1':
@@ -526,6 +526,31 @@ primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F9_(MX-SERIES-SW-1-PO
     PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
     JEDEC_TYPE='mx-series-sw-1-pole';
     VALUE='F9';
+    ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
+  end_body;
+end_primitive;
+primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_0_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'NC1':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'NC2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'NC3':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
+    JEDEC_TYPE='mx-series-sw-1-pole';
+    VALUE='NUM_0';
     ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
   end_body;
 end_primitive;
@@ -1954,6 +1979,31 @@ primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_ALT_(MX-SERIES-SW-1
     ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
   end_body;
 end_primitive;
+primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_CTRL_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'NC1':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'NC2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'NC3':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
+    JEDEC_TYPE='mx-series-sw-1-pole';
+    VALUE='R_CTRL';
+    ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
+  end_body;
+end_primitive;
 primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F11_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)';
   pin
     '1':
@@ -2129,31 +2179,6 @@ primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_BACKSPACE_(MX-SERIES-
     ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
   end_body;
 end_primitive;
-primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_PG_UP_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'NC1':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'NC2':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'NC3':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
-    JEDEC_TYPE='mx-series-sw-1-pole';
-    VALUE='PG_UP';
-    ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
-  end_body;
-end_primitive;
 primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F6_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)';
   pin
     '1':
@@ -2176,6 +2201,31 @@ primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F6_(MX-SERIES-SW-1-PO
     PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
     JEDEC_TYPE='mx-series-sw-1-pole';
     VALUE='F6';
+    ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
+  end_body;
+end_primitive;
+primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_PG_UP_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'NC1':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'NC2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'NC3':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
+    JEDEC_TYPE='mx-series-sw-1-pole';
+    VALUE='PG_UP';
     ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
   end_body;
 end_primitive;
@@ -2404,31 +2454,6 @@ primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_7_(MX-SERIES-SW-1
     ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
   end_body;
 end_primitive;
-primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_8_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'NC1':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'NC2':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'NC3':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
-    JEDEC_TYPE='mx-series-sw-1-pole';
-    VALUE='NUM_8';
-    ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
-  end_body;
-end_primitive;
 primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F7_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)';
   pin
     '1':
@@ -2451,6 +2476,31 @@ primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F7_(MX-SERIES-SW-1-PO
     PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
     JEDEC_TYPE='mx-series-sw-1-pole';
     VALUE='F7';
+    ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
+  end_body;
+end_primitive;
+primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_8_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'NC1':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'NC2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'NC3':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
+    JEDEC_TYPE='mx-series-sw-1-pole';
+    VALUE='NUM_8';
     ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
   end_body;
 end_primitive;
@@ -2679,31 +2729,6 @@ primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_SHIFT_(MX-SERIES-SW
     ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
   end_body;
 end_primitive;
-primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_UP_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'NC1':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'NC2':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'NC3':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
-    JEDEC_TYPE='mx-series-sw-1-pole';
-    VALUE='UP';
-    ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
-  end_body;
-end_primitive;
 primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F8_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)';
   pin
     '1':
@@ -2726,6 +2751,31 @@ primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F8_(MX-SERIES-SW-1-PO
     PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
     JEDEC_TYPE='mx-series-sw-1-pole';
     VALUE='F8';
+    ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
+  end_body;
+end_primitive;
+primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_UP_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'NC1':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'NC2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'NC3':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
+    JEDEC_TYPE='mx-series-sw-1-pole';
+    VALUE='UP';
     ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
   end_body;
 end_primitive;
@@ -2951,31 +3001,6 @@ primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_CLEAR_(MX-SERIES-SW-1
     PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
     JEDEC_TYPE='mx-series-sw-1-pole';
     VALUE='CLEAR';
-    ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
-  end_body;
-end_primitive;
-primitive 'SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_0_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'NC1':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'NC2':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'NC3':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='SW PUSHBUTTON-SPST-KEYBOARD';
-    JEDEC_TYPE='mx-series-sw-1-pole';
-    VALUE='NUM_0';
     ALT_SYMBOLS='((mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))';
   end_body;
 end_primitive;

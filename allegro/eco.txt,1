@@ -2,8 +2,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -58,8 +58,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -98,57 +98,57 @@
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   COL_9        pins ADDED TO this new net
                                  SW10.2         SW21.2         SW32.2         
-                                 SW43.2         SW54.2         U1.18          
+                                 SW43.2         SW54.2         SW61.2         
+                                 U1.18          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   COL_10       pins ADDED TO this new net
                                  SW11.2         SW22.2         SW33.2         
-                                 SW44.2         SW55.2         SW61.2         
+                                 SW44.2         SW55.2         SW62.2         
                                  U1.27          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   COL_11       pins ADDED TO this new net
-                                 SW62.2         SW66.2         SW74.2         
-                                 SW82.2         SW88.2         SW95.2         
+                                 SW63.2         SW67.2         SW75.2         
+                                 SW83.2         SW89.2         SW96.2         
                                  U1.28          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |                net     pins                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
   COL_12       pins ADDED TO this new net
-                                 SW63.2         SW67.2         SW75.2         
-                                 SW83.2         SW89.2         SW96.2         
+                                 SW64.2         SW68.2         SW76.2         
+                                 SW84.2         SW90.2         SW97.2         
                                  U1.29          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   COL_13       pins ADDED TO this new net
-                                 SW64.2         SW68.2         SW76.2         
+                                 SW65.2         SW69.2         SW77.2         
                                  U1.30          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   COL_14       pins ADDED TO this new net
-                                 SW65.2         SW69.2         SW77.2         
-                                 SW84.2         SW90.2         SW97.2         
+                                 SW66.2         SW70.2         SW78.2         
+                                 SW85.2         SW91.2         SW98.2         
                                  U1.31          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   COL_15       pins ADDED TO this new net
-                                 SW70.2         SW78.2         SW85.2         
-                                 SW91.2         SW98.2         U1.32          
+                                 SW71.2         SW79.2         SW86.2         
+                                 SW92.2         SW99.2         U1.32          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   COL_16       pins ADDED TO this new net
-                                 SW71.2         SW79.2         SW86.2         
-                                 SW92.2         SW99.2         U1.34          
+                                 SW72.2         SW80.2         SW87.2         
+                                 SW93.2         SW100.2        U1.34          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   COL_17       pins ADDED TO this new net
-                                 SW72.2         SW80.2         SW87.2         
-                                 SW93.2         SW100.2        U1.35          
+                                 SW73.2         SW81.2         SW88.2         
+                                 SW94.2         SW101.2        U1.35          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   COL_18       pins ADDED TO this new net
-                                 SW73.2         SW81.2         SW94.2         
+                                 SW74.2         SW82.2         SW95.2         
                                  U1.36          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   D4           pins ADDED TO this new net
@@ -170,8 +170,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -226,8 +226,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -282,8 +282,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   6  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -338,8 +338,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   7  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -394,8 +394,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   8  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -450,8 +450,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   9  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -485,157 +485,157 @@
                                  D55.A          SW55.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   N24414       pins ADDED TO this new net
-                                 D61.A          SW61.1         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N30394       pins ADDED TO this new net
                                  D62.A          SW62.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N30406       pins ADDED TO this new net
+  N30394       pins ADDED TO this new net
                                  D63.A          SW63.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N30418       pins ADDED TO this new net
+  N30406       pins ADDED TO this new net
                                  D64.A          SW64.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N30430       pins ADDED TO this new net
+  N30418       pins ADDED TO this new net
                                  D65.A          SW65.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N30822       pins ADDED TO this new net
+  N30430       pins ADDED TO this new net
                                  D66.A          SW66.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N30822       pins ADDED TO this new net
+                                 D67.A          SW67.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  10  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |                net     pins                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
   N30834       pins ADDED TO this new net
-                                 D67.A          SW67.1         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N30846       pins ADDED TO this new net
                                  D68.A          SW68.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N30858       pins ADDED TO this new net
+  N30846       pins ADDED TO this new net
                                  D69.A          SW69.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N30870       pins ADDED TO this new net
+  N30858       pins ADDED TO this new net
                                  D70.A          SW70.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N30882       pins ADDED TO this new net
+  N30870       pins ADDED TO this new net
                                  D71.A          SW71.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N30894       pins ADDED TO this new net
+  N30882       pins ADDED TO this new net
                                  D72.A          SW72.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N30906       pins ADDED TO this new net
+  N30894       pins ADDED TO this new net
                                  D73.A          SW73.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N31250       pins ADDED TO this new net
+  N30906       pins ADDED TO this new net
                                  D74.A          SW74.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N31262       pins ADDED TO this new net
+  N31250       pins ADDED TO this new net
                                  D75.A          SW75.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N31274       pins ADDED TO this new net
+  N31262       pins ADDED TO this new net
                                  D76.A          SW76.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N31286       pins ADDED TO this new net
+  N31274       pins ADDED TO this new net
                                  D77.A          SW77.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N31298       pins ADDED TO this new net
+  N31286       pins ADDED TO this new net
                                  D78.A          SW78.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N31310       pins ADDED TO this new net
+  N31298       pins ADDED TO this new net
                                  D79.A          SW79.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N31322       pins ADDED TO this new net
+  N31310       pins ADDED TO this new net
                                  D80.A          SW80.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N31334       pins ADDED TO this new net
+  N31322       pins ADDED TO this new net
                                  D81.A          SW81.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N31334       pins ADDED TO this new net
+                                 D82.A          SW82.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  11  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |                net     pins                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
   N31678       pins ADDED TO this new net
-                                 D82.A          SW82.1         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N31690       pins ADDED TO this new net
                                  D83.A          SW83.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N31714       pins ADDED TO this new net
+  N31690       pins ADDED TO this new net
                                  D84.A          SW84.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N31726       pins ADDED TO this new net
+  N31714       pins ADDED TO this new net
                                  D85.A          SW85.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N31738       pins ADDED TO this new net
+  N31726       pins ADDED TO this new net
                                  D86.A          SW86.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N31750       pins ADDED TO this new net
+  N31738       pins ADDED TO this new net
                                  D87.A          SW87.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N32106       pins ADDED TO this new net
+  N31750       pins ADDED TO this new net
                                  D88.A          SW88.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N32118       pins ADDED TO this new net
+  N32106       pins ADDED TO this new net
                                  D89.A          SW89.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N32142       pins ADDED TO this new net
+  N32118       pins ADDED TO this new net
                                  D90.A          SW90.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N32154       pins ADDED TO this new net
+  N32142       pins ADDED TO this new net
                                  D91.A          SW91.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N32166       pins ADDED TO this new net
+  N32154       pins ADDED TO this new net
                                  D92.A          SW92.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N32178       pins ADDED TO this new net
+  N32166       pins ADDED TO this new net
                                  D93.A          SW93.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N32486       pins ADDED TO this new net
-                                 D95.A          SW95.1         
+  N32178       pins ADDED TO this new net
+                                 D94.A          SW94.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N32498       pins ADDED TO this new net
+  N32486       pins ADDED TO this new net
                                  D96.A          SW96.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N32522       pins ADDED TO this new net
+  N32498       pins ADDED TO this new net
                                  D97.A          SW97.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N32522       pins ADDED TO this new net
+                                 D98.A          SW98.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  12  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |                net     pins                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
   N32534       pins ADDED TO this new net
-                                 D100.A         SW100.1        
+                                 D101.A         SW101.1        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   N33681       pins ADDED TO this new net
-                                 D98.A          SW98.1         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N33804       pins ADDED TO this new net
                                  D99.A          SW99.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N33804       pins ADDED TO this new net
+                                 D100.A         SW100.1        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   N39176       pins ADDED TO this new net
-                                 D94.A          SW94.1         
+                                 D95.A          SW95.1         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   N41168       pins ADDED TO this new net
                                  LED1.4         LED2.2         
@@ -674,8 +674,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  13  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -702,6 +702,9 @@
   N102697      pins ADDED TO this new net
                                  DS1.3          VR1.2          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N107236      pins ADDED TO this new net
+                                 D61.A          SW61.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   N0112520     pins ADDED TO this new net
                                  R3.2           U1.21          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
@@ -709,62 +712,62 @@
                                  D1.K           D2.K           D3.K           
                                  D4.K           D5.K           D6.K           
                                  D7.K           D8.K           D9.K           
-                                 D10.K          D11.K          D62.K          
-                                 D63.K          D64.K          D65.K          
+                                 D10.K          D11.K          D63.K          
+                                 D64.K          D65.K          D66.K          
                                  U1.2           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   ROW_1        pins ADDED TO this new net
                                  D12.K          D13.K          D14.K          
                                  D15.K          D16.K          D17.K          
                                  D18.K          D19.K          D20.K          
-                                 D21.K          D22.K          D66.K          
-                                 D67.K          D68.K          D69.K          
-                                 D70.K          D71.K          D72.K          
-                                 D73.K          U1.3           
+                                 D21.K          D22.K          D67.K          
+                                 D68.K          D69.K          D70.K          
+                                 D71.K          D72.K          D73.K          
+                                 D74.K          U1.3           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   ROW_2        pins ADDED TO this new net
-                                 D23.K          D24.K          D25.K          
-                                 D26.K          D27.K          D28.K          
-                                 D29.K          D30.K          D31.K          
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  14  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |                net     pins                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 D32.K          D33.K          D74.K          
-                                 D75.K          D76.K          D77.K          
-                                 D78.K          D79.K          D80.K          
-                                 D81.K          U1.4           
+                                 D23.K          D24.K          D25.K          
+                                 D26.K          D27.K          D28.K          
+                                 D29.K          D30.K          D31.K          
+                                 D32.K          D33.K          D75.K          
+                                 D76.K          D77.K          D78.K          
+                                 D79.K          D80.K          D81.K          
+                                 D82.K          U1.4           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   ROW_3        pins ADDED TO this new net
                                  D34.K          D35.K          D36.K          
                                  D37.K          D38.K          D39.K          
                                  D40.K          D41.K          D42.K          
-                                 D43.K          D44.K          D82.K          
-                                 D83.K          D84.K          D85.K          
-                                 D86.K          D87.K          U1.5           
+                                 D43.K          D44.K          D83.K          
+                                 D84.K          D85.K          D86.K          
+                                 D87.K          D88.K          U1.5           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   ROW_4        pins ADDED TO this new net
                                  D45.K          D46.K          D47.K          
                                  D48.K          D49.K          D50.K          
                                  D51.K          D52.K          D53.K          
-                                 D54.K          D55.K          D88.K          
-                                 D89.K          D90.K          D91.K          
-                                 D92.K          D93.K          D94.K          
+                                 D54.K          D55.K          D89.K          
+                                 D90.K          D91.K          D92.K          
+                                 D93.K          D94.K          D95.K          
                                  U1.6           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   ROW_5        pins ADDED TO this new net
                                  D56.K          D57.K          D58.K          
                                  D59.K          D60.K          D61.K          
-                                 D95.K          D96.K          D97.K          
+                                 D62.K          D96.K          D97.K          
                                  D98.K          D99.K          D100.K         
-                                 U1.7           
+                                 D101.K         U1.7           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   RS           pins ADDED TO this new net
                                  DS1.4          IC3.4          
@@ -779,27 +782,27 @@
                                  IC3.15         R11.2          U1.39          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   USB_DM       pins ADDED TO this new net
-                                 J1.A7          J1.B7          R6.2           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_DP       pins ADDED TO this new net
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  15  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |                net     pins                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J1.A7          J1.B7          R6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USB_DP       pins ADDED TO this new net
                                  J1.A6          J1.B6          R5.2           
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  16  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -854,8 +857,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  17  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -910,8 +913,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  18  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -927,6 +930,7 @@
  SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_RIGHT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)
  SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)
  SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_ALT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)
+ SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_CTRL_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)
  SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_SHIFT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)
  SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_SHIFT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)
  SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_SPACE_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)
@@ -952,8 +956,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  19  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1008,8 +1012,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  20  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1064,8 +1068,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  21  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1115,18 +1119,19 @@
  D98                 DIODE-AK_SOD-123_DISCRETE_DIODE 
  D99                 DIODE-AK_SOD-123_DISCRETE_DIODE 
  D100                DIODE-AK_SOD-123_DISCRETE_DIODE 
- DS1                 LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW 
+ D101                DIODE-AK_SOD-123_DISCRETE_DIODE 
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  22  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        |    device type                                           |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ DS1                 LCD-NHD-0216XZ-DLSPLAY_NHD0216XZFSWGBW_NHD-0216XZ-FSW-GBW 
  IC1                 TLV75533PDRVR_SON65P200X200X80-7N_TLV75533PDRVR 
  IC2                 W25Q128JVSIQ_SOIC127P790X216-8N_W25Q128JVSIQ 
  IC3                 PCF8574ADWR_SOIC127P1030X265-16N_PCF8574ADWR 
@@ -1171,18 +1176,18 @@
  SW3                 SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F2_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
  SW4                 SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F3_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
  SW5                 SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F4_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW6                 SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F5_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  23  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        |    device type                                           |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW6                 SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F5_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
  SW7                 SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F6_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
  SW8                 SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F7_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
  SW9                 SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F8_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
@@ -1227,18 +1232,18 @@
  SW48                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_C_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
  SW49                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_V_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
  SW50                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_B_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW51                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_N_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  24  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        |    device type                                           |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW51                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_N_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
  SW52                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_M_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
  SW53                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_,_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
  SW54                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_._(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
@@ -1249,56 +1254,57 @@
  SW59                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_ALT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
  SW60                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_SPACE_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
  SW61                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_ALT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW62                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F11_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW63                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F12_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW64                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_PRINT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW65                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_DEL_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW66                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_-_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW67                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_=_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW68                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_BACKSPACE_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW69                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_PG_UP_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW70                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_LOCK_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW71                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_/_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW72                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_*_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW73                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_-_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW74                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_[_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW75                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_]_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW76                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_\_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW77                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_PG_DOWN_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW78                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_7_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW79                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_8_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW80                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_9_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW81                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_+_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW82                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_ACENTO_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW83                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_ENTER_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW84                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_HOME_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW85                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_4_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW86                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_5_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW87                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_6_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW88                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_SHIFT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW89                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_UP_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW90                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_END_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW91                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_1_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW92                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_2_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW93                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_3_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW94                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_ENTER_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW95                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_LEFT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW96                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_DOWN_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW62                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_CTRL_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW63                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F11_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW64                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_F12_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW65                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_PRINT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW66                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_DEL_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW67                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_-_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW68                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_=_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW69                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_BACKSPACE_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW70                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_PG_UP_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW71                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_LOCK_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW72                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_/_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW73                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_*_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW74                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_-_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW75                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_[_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW76                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_]_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW77                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_\_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW78                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_PG_DOWN_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW79                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_7_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW80                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_8_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW81                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_9_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW82                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_+_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW83                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_ACENTO_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW84                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_ENTER_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW85                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_HOME_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW86                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_4_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW87                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_5_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW88                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_6_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW89                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_R_SHIFT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW90                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_UP_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW91                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_END_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW92                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_1_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW93                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_2_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW94                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_3_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW95                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_ENTER_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  25  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        |    device type                                           |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- SW97                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_RIGHT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW98                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_CLEAR_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW99                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_0_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
- SW100               SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_DOT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW96                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_LEFT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW97                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_DOWN_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW98                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_RIGHT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW99                SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_CLEAR_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW100               SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_0_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
+ SW101               SW PUSHBUTTON-SPST-KEYBOARD_MX-SERIES-SW-1-POLE_NUM_DOT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U) 
  U1                  RP2040_56-VFQFN-EP_RP2040 
  VR1                 3314J-2-103E_3314J2102E_POT 10K 
  Y1                  RH100-12.000-12-1010-X-TR-NS2_RH10012000121010XTRNS2_RH100-12.000-12-1010-X-TR-NS2_(RH10012000121010XTRNS2) 
@@ -1306,8 +1312,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  26  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1362,8 +1368,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  27  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1418,8 +1424,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  28  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1474,8 +1480,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  29  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1530,8 +1536,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  30  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1586,8 +1592,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  31  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1642,8 +1648,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  32  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1698,8 +1704,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  33  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1754,8 +1760,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  34  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1810,8 +1816,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  35  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1866,8 +1872,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  36  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1894,265 +1900,270 @@
  D60.K                          SCH_ORIENT     (90)
  D60.K                          XY             (920,880)
  D61.K                          PRIM_FILE      .\pstchip.dat
- D61.K                          SCH_BBOX       (1360,880,1380,890)
+ D61.K                          SCH_BBOX       (1250,880,1270,890)
  D61.K                          SCH_MIRROR     (1)
  D61.K                          SCH_ORIENT     (90)
- D61.K                          XY             (1360,880)
+ D61.K                          XY             (1250,880)
  D62.K                          PRIM_FILE      .\pstchip.dat
- D62.K                          SCH_BBOX       (410,310,430,320)
+ D62.K                          SCH_BBOX       (1360,880,1380,890)
  D62.K                          SCH_MIRROR     (1)
  D62.K                          SCH_ORIENT     (90)
- D62.K                          XY             (410,310)
+ D62.K                          XY             (1360,880)
  D63.K                          PRIM_FILE      .\pstchip.dat
- D63.K                          SCH_BBOX       (520,310,540,320)
+ D63.K                          SCH_BBOX       (410,310,430,320)
  D63.K                          SCH_MIRROR     (1)
  D63.K                          SCH_ORIENT     (90)
- D63.K                          XY             (520,310)
+ D63.K                          XY             (410,310)
  D64.K                          PRIM_FILE      .\pstchip.dat
- D64.K                          SCH_BBOX       (630,310,650,320)
+ D64.K                          SCH_BBOX       (520,310,540,320)
  D64.K                          SCH_MIRROR     (1)
  D64.K                          SCH_ORIENT     (90)
- D64.K                          XY             (630,310)
+ D64.K                          XY             (520,310)
  D65.K                          PRIM_FILE      .\pstchip.dat
- D65.K                          SCH_BBOX       (740,310,760,320)
+ D65.K                          SCH_BBOX       (630,310,650,320)
  D65.K                          SCH_MIRROR     (1)
  D65.K                          SCH_ORIENT     (90)
- D65.K                          XY             (740,310)
+ D65.K                          XY             (630,310)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  37  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  D66.K                          PRIM_FILE      .\pstchip.dat
- D66.K                          SCH_BBOX       (410,420,430,430)
+ D66.K                          SCH_BBOX       (740,310,760,320)
  D66.K                          SCH_MIRROR     (1)
  D66.K                          SCH_ORIENT     (90)
- D66.K                          XY             (410,420)
+ D66.K                          XY             (740,310)
  D67.K                          PRIM_FILE      .\pstchip.dat
- D67.K                          SCH_BBOX       (520,420,540,430)
+ D67.K                          SCH_BBOX       (410,420,430,430)
  D67.K                          SCH_MIRROR     (1)
  D67.K                          SCH_ORIENT     (90)
- D67.K                          XY             (520,420)
+ D67.K                          XY             (410,420)
  D68.K                          PRIM_FILE      .\pstchip.dat
- D68.K                          SCH_BBOX       (630,420,650,430)
+ D68.K                          SCH_BBOX       (520,420,540,430)
  D68.K                          SCH_MIRROR     (1)
  D68.K                          SCH_ORIENT     (90)
- D68.K                          XY             (630,420)
+ D68.K                          XY             (520,420)
  D69.K                          PRIM_FILE      .\pstchip.dat
- D69.K                          SCH_BBOX       (740,420,760,430)
+ D69.K                          SCH_BBOX       (630,420,650,430)
  D69.K                          SCH_MIRROR     (1)
  D69.K                          SCH_ORIENT     (90)
- D69.K                          XY             (740,420)
+ D69.K                          XY             (630,420)
  D70.K                          PRIM_FILE      .\pstchip.dat
- D70.K                          SCH_BBOX       (850,420,870,430)
+ D70.K                          SCH_BBOX       (740,420,760,430)
  D70.K                          SCH_MIRROR     (1)
  D70.K                          SCH_ORIENT     (90)
- D70.K                          XY             (850,420)
+ D70.K                          XY             (740,420)
  D71.K                          PRIM_FILE      .\pstchip.dat
- D71.K                          SCH_BBOX       (960,420,980,430)
+ D71.K                          SCH_BBOX       (850,420,870,430)
  D71.K                          SCH_MIRROR     (1)
  D71.K                          SCH_ORIENT     (90)
- D71.K                          XY             (960,420)
+ D71.K                          XY             (850,420)
  D72.K                          PRIM_FILE      .\pstchip.dat
- D72.K                          SCH_BBOX       (1070,420,1090,430)
+ D72.K                          SCH_BBOX       (960,420,980,430)
  D72.K                          SCH_MIRROR     (1)
  D72.K                          SCH_ORIENT     (90)
- D72.K                          XY             (1070,420)
+ D72.K                          XY             (960,420)
  D73.K                          PRIM_FILE      .\pstchip.dat
- D73.K                          SCH_BBOX       (1180,420,1200,430)
+ D73.K                          SCH_BBOX       (1070,420,1090,430)
  D73.K                          SCH_MIRROR     (1)
  D73.K                          SCH_ORIENT     (90)
- D73.K                          XY             (1180,420)
+ D73.K                          XY             (1070,420)
  D74.K                          PRIM_FILE      .\pstchip.dat
- D74.K                          SCH_BBOX       (410,530,430,540)
+ D74.K                          SCH_BBOX       (1180,420,1200,430)
  D74.K                          SCH_MIRROR     (1)
  D74.K                          SCH_ORIENT     (90)
- D74.K                          XY             (410,530)
+ D74.K                          XY             (1180,420)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  38  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  D75.K                          PRIM_FILE      .\pstchip.dat
- D75.K                          SCH_BBOX       (520,530,540,540)
+ D75.K                          SCH_BBOX       (410,530,430,540)
  D75.K                          SCH_MIRROR     (1)
  D75.K                          SCH_ORIENT     (90)
- D75.K                          XY             (520,530)
+ D75.K                          XY             (410,530)
  D76.K                          PRIM_FILE      .\pstchip.dat
- D76.K                          SCH_BBOX       (630,530,650,540)
+ D76.K                          SCH_BBOX       (520,530,540,540)
  D76.K                          SCH_MIRROR     (1)
  D76.K                          SCH_ORIENT     (90)
- D76.K                          XY             (630,530)
+ D76.K                          XY             (520,530)
  D77.K                          PRIM_FILE      .\pstchip.dat
- D77.K                          SCH_BBOX       (740,530,760,540)
+ D77.K                          SCH_BBOX       (630,530,650,540)
  D77.K                          SCH_MIRROR     (1)
  D77.K                          SCH_ORIENT     (90)
- D77.K                          XY             (740,530)
+ D77.K                          XY             (630,530)
  D78.K                          PRIM_FILE      .\pstchip.dat
- D78.K                          SCH_BBOX       (850,530,870,540)
+ D78.K                          SCH_BBOX       (740,530,760,540)
  D78.K                          SCH_MIRROR     (1)
  D78.K                          SCH_ORIENT     (90)
- D78.K                          XY             (850,530)
+ D78.K                          XY             (740,530)
  D79.K                          PRIM_FILE      .\pstchip.dat
- D79.K                          SCH_BBOX       (960,530,980,540)
+ D79.K                          SCH_BBOX       (850,530,870,540)
  D79.K                          SCH_MIRROR     (1)
  D79.K                          SCH_ORIENT     (90)
- D79.K                          XY             (960,530)
+ D79.K                          XY             (850,530)
  D80.K                          PRIM_FILE      .\pstchip.dat
- D80.K                          SCH_BBOX       (1070,530,1090,540)
+ D80.K                          SCH_BBOX       (960,530,980,540)
  D80.K                          SCH_MIRROR     (1)
  D80.K                          SCH_ORIENT     (90)
- D80.K                          XY             (1070,530)
+ D80.K                          XY             (960,530)
  D81.K                          PRIM_FILE      .\pstchip.dat
- D81.K                          SCH_BBOX       (1180,530,1200,540)
+ D81.K                          SCH_BBOX       (1070,530,1090,540)
  D81.K                          SCH_MIRROR     (1)
  D81.K                          SCH_ORIENT     (90)
- D81.K                          XY             (1180,530)
+ D81.K                          XY             (1070,530)
  D82.K                          PRIM_FILE      .\pstchip.dat
- D82.K                          SCH_BBOX       (410,630,430,640)
+ D82.K                          SCH_BBOX       (1180,530,1200,540)
  D82.K                          SCH_MIRROR     (1)
  D82.K                          SCH_ORIENT     (90)
- D82.K                          XY             (410,630)
+ D82.K                          XY             (1180,530)
  D83.K                          PRIM_FILE      .\pstchip.dat
- D83.K                          SCH_BBOX       (520,630,540,640)
+ D83.K                          SCH_BBOX       (410,630,430,640)
  D83.K                          SCH_MIRROR     (1)
  D83.K                          SCH_ORIENT     (90)
- D83.K                          XY             (520,630)
+ D83.K                          XY             (410,630)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  39  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  D84.K                          PRIM_FILE      .\pstchip.dat
- D84.K                          SCH_BBOX       (740,630,760,640)
+ D84.K                          SCH_BBOX       (520,630,540,640)
  D84.K                          SCH_MIRROR     (1)
  D84.K                          SCH_ORIENT     (90)
- D84.K                          XY             (740,630)
+ D84.K                          XY             (520,630)
  D85.K                          PRIM_FILE      .\pstchip.dat
- D85.K                          SCH_BBOX       (850,630,870,640)
+ D85.K                          SCH_BBOX       (740,630,760,640)
  D85.K                          SCH_MIRROR     (1)
  D85.K                          SCH_ORIENT     (90)
- D85.K                          XY             (850,630)
+ D85.K                          XY             (740,630)
  D86.K                          PRIM_FILE      .\pstchip.dat
- D86.K                          SCH_BBOX       (960,630,980,640)
+ D86.K                          SCH_BBOX       (850,630,870,640)
  D86.K                          SCH_MIRROR     (1)
  D86.K                          SCH_ORIENT     (90)
- D86.K                          XY             (960,630)
+ D86.K                          XY             (850,630)
  D87.K                          PRIM_FILE      .\pstchip.dat
- D87.K                          SCH_BBOX       (1070,630,1090,640)
+ D87.K                          SCH_BBOX       (960,630,980,640)
  D87.K                          SCH_MIRROR     (1)
  D87.K                          SCH_ORIENT     (90)
- D87.K                          XY             (1070,630)
+ D87.K                          XY             (960,630)
  D88.K                          PRIM_FILE      .\pstchip.dat
- D88.K                          SCH_BBOX       (410,740,430,750)
+ D88.K                          SCH_BBOX       (1070,630,1090,640)
  D88.K                          SCH_MIRROR     (1)
  D88.K                          SCH_ORIENT     (90)
- D88.K                          XY             (410,740)
+ D88.K                          XY             (1070,630)
  D89.K                          PRIM_FILE      .\pstchip.dat
- D89.K                          SCH_BBOX       (520,740,540,750)
+ D89.K                          SCH_BBOX       (410,740,430,750)
  D89.K                          SCH_MIRROR     (1)
  D89.K                          SCH_ORIENT     (90)
- D89.K                          XY             (520,740)
+ D89.K                          XY             (410,740)
  D90.K                          PRIM_FILE      .\pstchip.dat
- D90.K                          SCH_BBOX       (740,740,760,750)
+ D90.K                          SCH_BBOX       (520,740,540,750)
  D90.K                          SCH_MIRROR     (1)
  D90.K                          SCH_ORIENT     (90)
- D90.K                          XY             (740,740)
+ D90.K                          XY             (520,740)
  D91.K                          PRIM_FILE      .\pstchip.dat
- D91.K                          SCH_BBOX       (850,740,870,750)
+ D91.K                          SCH_BBOX       (740,740,760,750)
  D91.K                          SCH_MIRROR     (1)
  D91.K                          SCH_ORIENT     (90)
- D91.K                          XY             (850,740)
+ D91.K                          XY             (740,740)
  D92.K                          PRIM_FILE      .\pstchip.dat
- D92.K                          SCH_BBOX       (960,740,980,750)
+ D92.K                          SCH_BBOX       (850,740,870,750)
  D92.K                          SCH_MIRROR     (1)
  D92.K                          SCH_ORIENT     (90)
- D92.K                          XY             (960,740)
+ D92.K                          XY             (850,740)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  40  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  D93.K                          PRIM_FILE      .\pstchip.dat
- D93.K                          SCH_BBOX       (1070,740,1090,750)
+ D93.K                          SCH_BBOX       (960,740,980,750)
  D93.K                          SCH_MIRROR     (1)
  D93.K                          SCH_ORIENT     (90)
- D93.K                          XY             (1070,740)
+ D93.K                          XY             (960,740)
  D94.K                          PRIM_FILE      .\pstchip.dat
- D94.K                          SCH_BBOX       (1180,740,1200,750)
+ D94.K                          SCH_BBOX       (1070,740,1090,750)
  D94.K                          SCH_MIRROR     (1)
  D94.K                          SCH_ORIENT     (90)
- D94.K                          XY             (1180,740)
+ D94.K                          XY             (1070,740)
  D95.K                          PRIM_FILE      .\pstchip.dat
- D95.K                          SCH_BBOX       (410,850,430,860)
+ D95.K                          SCH_BBOX       (1180,740,1200,750)
  D95.K                          SCH_MIRROR     (1)
  D95.K                          SCH_ORIENT     (90)
- D95.K                          XY             (410,850)
+ D95.K                          XY             (1180,740)
  D96.K                          PRIM_FILE      .\pstchip.dat
- D96.K                          SCH_BBOX       (520,850,540,860)
+ D96.K                          SCH_BBOX       (410,850,430,860)
  D96.K                          SCH_MIRROR     (1)
  D96.K                          SCH_ORIENT     (90)
- D96.K                          XY             (520,850)
+ D96.K                          XY             (410,850)
  D97.K                          PRIM_FILE      .\pstchip.dat
- D97.K                          SCH_BBOX       (740,850,760,860)
+ D97.K                          SCH_BBOX       (520,850,540,860)
  D97.K                          SCH_MIRROR     (1)
  D97.K                          SCH_ORIENT     (90)
- D97.K                          XY             (740,850)
+ D97.K                          XY             (520,850)
  D98.K                          PRIM_FILE      .\pstchip.dat
- D98.K                          SCH_BBOX       (850,850,870,860)
+ D98.K                          SCH_BBOX       (740,850,760,860)
  D98.K                          SCH_MIRROR     (1)
  D98.K                          SCH_ORIENT     (90)
- D98.K                          XY             (850,850)
+ D98.K                          XY             (740,850)
  D99.K                          PRIM_FILE      .\pstchip.dat
- D99.K                          SCH_BBOX       (960,850,980,860)
+ D99.K                          SCH_BBOX       (850,850,870,860)
  D99.K                          SCH_MIRROR     (1)
  D99.K                          SCH_ORIENT     (90)
- D99.K                          XY             (960,850)
+ D99.K                          XY             (850,850)
  D100.K                         PRIM_FILE      .\pstchip.dat
- D100.K                         SCH_BBOX       (1070,850,1090,860)
+ D100.K                         SCH_BBOX       (960,850,980,860)
  D100.K                         SCH_MIRROR     (1)
  D100.K                         SCH_ORIENT     (90)
- D100.K                         XY             (1070,850)
- DS1.1                          PRIM_FILE      .\pstchip.dat
- DS1.1                          SCH_BBOX       (810,200,880,310)
- DS1.1                          SCH_MIRROR     (0)
- DS1.1                          SCH_ORIENT     (0)
- DS1.1                          XY             (810,200)
+ D100.K                         XY             (960,850)
+ D101.K                         PRIM_FILE      .\pstchip.dat
+ D101.K                         SCH_BBOX       (1070,850,1090,860)
+ D101.K                         SCH_MIRROR     (1)
+ D101.K                         SCH_ORIENT     (90)
+ D101.K                         XY             (1070,850)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  41  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ DS1.1                          PRIM_FILE      .\pstchip.dat
+ DS1.1                          SCH_BBOX       (810,200,880,310)
+ DS1.1                          SCH_MIRROR     (0)
+ DS1.1                          SCH_ORIENT     (0)
+ DS1.1                          XY             (810,200)
  IC1.1                          PRIM_FILE      .\pstchip.dat
  IC1.1                          SCH_BBOX       (810,230,890,300)
  IC1.1                          SCH_MIRROR     (1)
@@ -2193,22 +2204,22 @@
  LED3.3                         SCH_MIRROR     (1)
  LED3.3                         SCH_ORIENT     (0)
  LED3.3                         XY             (760,260)
- LED4.3                         PRIM_FILE      .\pstchip.dat
- LED4.3                         SCH_BBOX       (970,260,1020,310)
- LED4.3                         SCH_MIRROR     (1)
- LED4.3                         SCH_ORIENT     (0)
- LED4.3                         XY             (970,260)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  42  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ LED4.3                         PRIM_FILE      .\pstchip.dat
+ LED4.3                         SCH_BBOX       (970,260,1020,310)
+ LED4.3                         SCH_MIRROR     (1)
+ LED4.3                         SCH_ORIENT     (0)
+ LED4.3                         XY             (970,260)
  LED5.3                         PRIM_FILE      .\pstchip.dat
  LED5.3                         SCH_BBOX       (1180,260,1230,310)
  LED5.3                         SCH_MIRROR     (1)
@@ -2249,22 +2260,22 @@
  LED12.3                        SCH_MIRROR     (1)
  LED12.3                        SCH_ORIENT     (0)
  LED12.3                        XY             (1390,470)
- LED13.3                        PRIM_FILE      .\pstchip.dat
- LED13.3                        SCH_BBOX       (340,690,390,740)
- LED13.3                        SCH_MIRROR     (1)
- LED13.3                        SCH_ORIENT     (0)
- LED13.3                        XY             (340,690)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  43  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ LED13.3                        PRIM_FILE      .\pstchip.dat
+ LED13.3                        SCH_BBOX       (340,690,390,740)
+ LED13.3                        SCH_MIRROR     (1)
+ LED13.3                        SCH_ORIENT     (0)
+ LED13.3                        XY             (340,690)
  LED14.3                        PRIM_FILE      .\pstchip.dat
  LED14.3                        SCH_BBOX       (550,690,600,740)
  LED14.3                        SCH_MIRROR     (1)
@@ -2305,22 +2316,22 @@
  Q1.2                           SCH_MIRROR     (0)
  Q1.2                           SCH_ORIENT     (270)
  Q1.2                           XY             (230,250)
- Q2.2                           PRIM_FILE      .\pstchip.dat
- Q2.2                           SCH_BBOX       (940,350,980,380)
- Q2.2                           SCH_MIRROR     (0)
- Q2.2                           SCH_ORIENT     (270)
- Q2.2                           XY             (940,350)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  44  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Q2.2                           PRIM_FILE      .\pstchip.dat
+ Q2.2                           SCH_BBOX       (940,350,980,380)
+ Q2.2                           SCH_MIRROR     (0)
+ Q2.2                           SCH_ORIENT     (270)
+ Q2.2                           XY             (940,350)
  R1.2                           PRIM_FILE      .\pstchip.dat
  R1.2                           SCH_BBOX       (370,370,390,400)
  R1.2                           SCH_MIRROR     (0)
@@ -2361,22 +2372,22 @@
  R8.2                           SCH_MIRROR     (0)
  R8.2                           SCH_ORIENT     (0)
  R8.2                           XY             (180,190)
- R9.2                           PRIM_FILE      .\pstchip.dat
- R9.2                           SCH_BBOX       (280,190,300,220)
- R9.2                           SCH_MIRROR     (0)
- R9.2                           SCH_ORIENT     (0)
- R9.2                           XY             (280,190)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  45  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           SCH_BBOX       (280,190,300,220)
+ R9.2                           SCH_MIRROR     (0)
+ R9.2                           SCH_ORIENT     (0)
+ R9.2                           XY             (280,190)
  R10.2                          PRIM_FILE      .\pstchip.dat
  R10.2                          SCH_BBOX       (150,150,170,180)
  R10.2                          SCH_MIRROR     (0)
@@ -2417,22 +2428,22 @@
  SW5.5                          SCH_MIRROR     (0)
  SW5.5                          SCH_ORIENT     (0)
  SW5.5                          XY             (740,310)
- SW6.5                          PRIM_FILE      .\pstchip.dat
- SW6.5                          SCH_BBOX       (850,310,880,330)
- SW6.5                          SCH_MIRROR     (0)
- SW6.5                          SCH_ORIENT     (0)
- SW6.5                          XY             (850,310)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  46  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW6.5                          PRIM_FILE      .\pstchip.dat
+ SW6.5                          SCH_BBOX       (850,310,880,330)
+ SW6.5                          SCH_MIRROR     (0)
+ SW6.5                          SCH_ORIENT     (0)
+ SW6.5                          XY             (850,310)
  SW7.5                          PRIM_FILE      .\pstchip.dat
  SW7.5                          SCH_BBOX       (960,310,990,330)
  SW7.5                          SCH_MIRROR     (0)
@@ -2473,22 +2484,22 @@
  SW14.5                         SCH_MIRROR     (0)
  SW14.5                         SCH_ORIENT     (0)
  SW14.5                         XY             (520,420)
- SW15.5                         PRIM_FILE      .\pstchip.dat
- SW15.5                         SCH_BBOX       (630,420,660,440)
- SW15.5                         SCH_MIRROR     (0)
- SW15.5                         SCH_ORIENT     (0)
- SW15.5                         XY             (630,420)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  47  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW15.5                         PRIM_FILE      .\pstchip.dat
+ SW15.5                         SCH_BBOX       (630,420,660,440)
+ SW15.5                         SCH_MIRROR     (0)
+ SW15.5                         SCH_ORIENT     (0)
+ SW15.5                         XY             (630,420)
  SW16.5                         PRIM_FILE      .\pstchip.dat
  SW16.5                         SCH_BBOX       (740,420,770,440)
  SW16.5                         SCH_MIRROR     (0)
@@ -2529,22 +2540,22 @@
  SW23.5                         SCH_MIRROR     (0)
  SW23.5                         SCH_ORIENT     (0)
  SW23.5                         XY             (300,530)
- SW24.5                         PRIM_FILE      .\pstchip.dat
- SW24.5                         SCH_BBOX       (410,530,440,550)
- SW24.5                         SCH_MIRROR     (0)
- SW24.5                         SCH_ORIENT     (0)
- SW24.5                         XY             (410,530)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  48  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW24.5                         PRIM_FILE      .\pstchip.dat
+ SW24.5                         SCH_BBOX       (410,530,440,550)
+ SW24.5                         SCH_MIRROR     (0)
+ SW24.5                         SCH_ORIENT     (0)
+ SW24.5                         XY             (410,530)
  SW25.5                         PRIM_FILE      .\pstchip.dat
  SW25.5                         SCH_BBOX       (520,530,550,550)
  SW25.5                         SCH_MIRROR     (0)
@@ -2585,22 +2596,22 @@
  SW32.5                         SCH_MIRROR     (0)
  SW32.5                         SCH_ORIENT     (0)
  SW32.5                         XY             (1290,530)
- SW33.5                         PRIM_FILE      .\pstchip.dat
- SW33.5                         SCH_BBOX       (1400,530,1430,550)
- SW33.5                         SCH_MIRROR     (0)
- SW33.5                         SCH_ORIENT     (0)
- SW33.5                         XY             (1400,530)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  49  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW33.5                         PRIM_FILE      .\pstchip.dat
+ SW33.5                         SCH_BBOX       (1400,530,1430,550)
+ SW33.5                         SCH_MIRROR     (0)
+ SW33.5                         SCH_ORIENT     (0)
+ SW33.5                         XY             (1400,530)
  SW34.5                         PRIM_FILE      .\pstchip.dat
  SW34.5                         SCH_BBOX       (300,630,330,650)
  SW34.5                         SCH_MIRROR     (0)
@@ -2641,22 +2652,22 @@
  SW41.5                         SCH_MIRROR     (0)
  SW41.5                         SCH_ORIENT     (0)
  SW41.5                         XY             (1070,630)
- SW42.5                         PRIM_FILE      .\pstchip.dat
- SW42.5                         SCH_BBOX       (1180,630,1210,650)
- SW42.5                         SCH_MIRROR     (0)
- SW42.5                         SCH_ORIENT     (0)
- SW42.5                         XY             (1180,630)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  50  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW42.5                         PRIM_FILE      .\pstchip.dat
+ SW42.5                         SCH_BBOX       (1180,630,1210,650)
+ SW42.5                         SCH_MIRROR     (0)
+ SW42.5                         SCH_ORIENT     (0)
+ SW42.5                         XY             (1180,630)
  SW43.5                         PRIM_FILE      .\pstchip.dat
  SW43.5                         SCH_BBOX       (1290,630,1320,650)
  SW43.5                         SCH_MIRROR     (0)
@@ -2697,22 +2708,22 @@
  SW50.5                         SCH_MIRROR     (0)
  SW50.5                         SCH_ORIENT     (0)
  SW50.5                         XY             (850,740)
- SW51.5                         PRIM_FILE      .\pstchip.dat
- SW51.5                         SCH_BBOX       (960,740,990,760)
- SW51.5                         SCH_MIRROR     (0)
- SW51.5                         SCH_ORIENT     (0)
- SW51.5                         XY             (960,740)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  51  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW51.5                         PRIM_FILE      .\pstchip.dat
+ SW51.5                         SCH_BBOX       (960,740,990,760)
+ SW51.5                         SCH_MIRROR     (0)
+ SW51.5                         SCH_ORIENT     (0)
+ SW51.5                         XY             (960,740)
  SW52.5                         PRIM_FILE      .\pstchip.dat
  SW52.5                         SCH_BBOX       (1070,740,1100,760)
  SW52.5                         SCH_MIRROR     (0)
@@ -2753,266 +2764,271 @@
  SW59.5                         SCH_MIRROR     (0)
  SW59.5                         SCH_ORIENT     (0)
  SW59.5                         XY             (630,850)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  52  |
+|------------------------------------------------------------------------------|
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  SW60.5                         PRIM_FILE      .\pstchip.dat
  SW60.5                         SCH_BBOX       (960,850,990,870)
  SW60.5                         SCH_MIRROR     (0)
  SW60.5                         SCH_ORIENT     (0)
  SW60.5                         XY             (960,850)
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  52  |
-|------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  SW61.5                         PRIM_FILE      .\pstchip.dat
- SW61.5                         SCH_BBOX       (1400,850,1430,870)
+ SW61.5                         SCH_BBOX       (1290,850,1320,870)
  SW61.5                         SCH_MIRROR     (0)
  SW61.5                         SCH_ORIENT     (0)
- SW61.5                         XY             (1400,850)
+ SW61.5                         XY             (1290,850)
  SW62.5                         PRIM_FILE      .\pstchip.dat
- SW62.5                         SCH_BBOX       (450,280,480,300)
+ SW62.5                         SCH_BBOX       (1400,850,1430,870)
  SW62.5                         SCH_MIRROR     (0)
  SW62.5                         SCH_ORIENT     (0)
- SW62.5                         XY             (450,280)
+ SW62.5                         XY             (1400,850)
  SW63.5                         PRIM_FILE      .\pstchip.dat
- SW63.5                         SCH_BBOX       (560,280,590,300)
+ SW63.5                         SCH_BBOX       (450,280,480,300)
  SW63.5                         SCH_MIRROR     (0)
  SW63.5                         SCH_ORIENT     (0)
- SW63.5                         XY             (560,280)
+ SW63.5                         XY             (450,280)
  SW64.5                         PRIM_FILE      .\pstchip.dat
- SW64.5                         SCH_BBOX       (670,280,700,300)
+ SW64.5                         SCH_BBOX       (560,280,590,300)
  SW64.5                         SCH_MIRROR     (0)
  SW64.5                         SCH_ORIENT     (0)
- SW64.5                         XY             (670,280)
+ SW64.5                         XY             (560,280)
  SW65.5                         PRIM_FILE      .\pstchip.dat
- SW65.5                         SCH_BBOX       (780,280,810,300)
+ SW65.5                         SCH_BBOX       (670,280,700,300)
  SW65.5                         SCH_MIRROR     (0)
  SW65.5                         SCH_ORIENT     (0)
- SW65.5                         XY             (780,280)
+ SW65.5                         XY             (670,280)
  SW66.5                         PRIM_FILE      .\pstchip.dat
- SW66.5                         SCH_BBOX       (450,390,480,410)
+ SW66.5                         SCH_BBOX       (780,280,810,300)
  SW66.5                         SCH_MIRROR     (0)
  SW66.5                         SCH_ORIENT     (0)
- SW66.5                         XY             (450,390)
+ SW66.5                         XY             (780,280)
  SW67.5                         PRIM_FILE      .\pstchip.dat
- SW67.5                         SCH_BBOX       (560,390,590,410)
+ SW67.5                         SCH_BBOX       (450,390,480,410)
  SW67.5                         SCH_MIRROR     (0)
  SW67.5                         SCH_ORIENT     (0)
- SW67.5                         XY             (560,390)
+ SW67.5                         XY             (450,390)
  SW68.5                         PRIM_FILE      .\pstchip.dat
- SW68.5                         SCH_BBOX       (670,390,700,410)
+ SW68.5                         SCH_BBOX       (560,390,590,410)
  SW68.5                         SCH_MIRROR     (0)
  SW68.5                         SCH_ORIENT     (0)
- SW68.5                         XY             (670,390)
- SW69.5                         PRIM_FILE      .\pstchip.dat
- SW69.5                         SCH_BBOX       (780,390,810,410)
- SW69.5                         SCH_MIRROR     (0)
- SW69.5                         SCH_ORIENT     (0)
- SW69.5                         XY             (780,390)
+ SW68.5                         XY             (560,390)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  53  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW69.5                         PRIM_FILE      .\pstchip.dat
+ SW69.5                         SCH_BBOX       (670,390,700,410)
+ SW69.5                         SCH_MIRROR     (0)
+ SW69.5                         SCH_ORIENT     (0)
+ SW69.5                         XY             (670,390)
  SW70.5                         PRIM_FILE      .\pstchip.dat
- SW70.5                         SCH_BBOX       (890,390,920,410)
+ SW70.5                         SCH_BBOX       (780,390,810,410)
  SW70.5                         SCH_MIRROR     (0)
  SW70.5                         SCH_ORIENT     (0)
- SW70.5                         XY             (890,390)
+ SW70.5                         XY             (780,390)
  SW71.5                         PRIM_FILE      .\pstchip.dat
- SW71.5                         SCH_BBOX       (1000,390,1030,410)
+ SW71.5                         SCH_BBOX       (890,390,920,410)
  SW71.5                         SCH_MIRROR     (0)
  SW71.5                         SCH_ORIENT     (0)
- SW71.5                         XY             (1000,390)
+ SW71.5                         XY             (890,390)
  SW72.5                         PRIM_FILE      .\pstchip.dat
- SW72.5                         SCH_BBOX       (1110,390,1140,410)
+ SW72.5                         SCH_BBOX       (1000,390,1030,410)
  SW72.5                         SCH_MIRROR     (0)
  SW72.5                         SCH_ORIENT     (0)
- SW72.5                         XY             (1110,390)
+ SW72.5                         XY             (1000,390)
  SW73.5                         PRIM_FILE      .\pstchip.dat
- SW73.5                         SCH_BBOX       (1220,390,1250,410)
+ SW73.5                         SCH_BBOX       (1110,390,1140,410)
  SW73.5                         SCH_MIRROR     (0)
  SW73.5                         SCH_ORIENT     (0)
- SW73.5                         XY             (1220,390)
+ SW73.5                         XY             (1110,390)
  SW74.5                         PRIM_FILE      .\pstchip.dat
- SW74.5                         SCH_BBOX       (450,500,480,520)
+ SW74.5                         SCH_BBOX       (1220,390,1250,410)
  SW74.5                         SCH_MIRROR     (0)
  SW74.5                         SCH_ORIENT     (0)
- SW74.5                         XY             (450,500)
+ SW74.5                         XY             (1220,390)
  SW75.5                         PRIM_FILE      .\pstchip.dat
- SW75.5                         SCH_BBOX       (560,500,590,520)
+ SW75.5                         SCH_BBOX       (450,500,480,520)
  SW75.5                         SCH_MIRROR     (0)
  SW75.5                         SCH_ORIENT     (0)
- SW75.5                         XY             (560,500)
+ SW75.5                         XY             (450,500)
  SW76.5                         PRIM_FILE      .\pstchip.dat
- SW76.5                         SCH_BBOX       (670,500,700,520)
+ SW76.5                         SCH_BBOX       (560,500,590,520)
  SW76.5                         SCH_MIRROR     (0)
  SW76.5                         SCH_ORIENT     (0)
- SW76.5                         XY             (670,500)
+ SW76.5                         XY             (560,500)
  SW77.5                         PRIM_FILE      .\pstchip.dat
- SW77.5                         SCH_BBOX       (780,500,810,520)
+ SW77.5                         SCH_BBOX       (670,500,700,520)
  SW77.5                         SCH_MIRROR     (0)
  SW77.5                         SCH_ORIENT     (0)
- SW77.5                         XY             (780,500)
- SW78.5                         PRIM_FILE      .\pstchip.dat
- SW78.5                         SCH_BBOX       (890,500,920,520)
- SW78.5                         SCH_MIRROR     (0)
- SW78.5                         SCH_ORIENT     (0)
- SW78.5                         XY             (890,500)
+ SW77.5                         XY             (670,500)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  54  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW78.5                         PRIM_FILE      .\pstchip.dat
+ SW78.5                         SCH_BBOX       (780,500,810,520)
+ SW78.5                         SCH_MIRROR     (0)
+ SW78.5                         SCH_ORIENT     (0)
+ SW78.5                         XY             (780,500)
  SW79.5                         PRIM_FILE      .\pstchip.dat
- SW79.5                         SCH_BBOX       (1000,500,1030,520)
+ SW79.5                         SCH_BBOX       (890,500,920,520)
  SW79.5                         SCH_MIRROR     (0)
  SW79.5                         SCH_ORIENT     (0)
- SW79.5                         XY             (1000,500)
+ SW79.5                         XY             (890,500)
  SW80.5                         PRIM_FILE      .\pstchip.dat
- SW80.5                         SCH_BBOX       (1110,500,1140,520)
+ SW80.5                         SCH_BBOX       (1000,500,1030,520)
  SW80.5                         SCH_MIRROR     (0)
  SW80.5                         SCH_ORIENT     (0)
- SW80.5                         XY             (1110,500)
+ SW80.5                         XY             (1000,500)
  SW81.5                         PRIM_FILE      .\pstchip.dat
- SW81.5                         SCH_BBOX       (1220,500,1250,520)
+ SW81.5                         SCH_BBOX       (1110,500,1140,520)
  SW81.5                         SCH_MIRROR     (0)
  SW81.5                         SCH_ORIENT     (0)
- SW81.5                         XY             (1220,500)
+ SW81.5                         XY             (1110,500)
  SW82.5                         PRIM_FILE      .\pstchip.dat
- SW82.5                         SCH_BBOX       (450,600,480,620)
+ SW82.5                         SCH_BBOX       (1220,500,1250,520)
  SW82.5                         SCH_MIRROR     (0)
  SW82.5                         SCH_ORIENT     (0)
- SW82.5                         XY             (450,600)
+ SW82.5                         XY             (1220,500)
  SW83.5                         PRIM_FILE      .\pstchip.dat
- SW83.5                         SCH_BBOX       (560,600,590,620)
+ SW83.5                         SCH_BBOX       (450,600,480,620)
  SW83.5                         SCH_MIRROR     (0)
  SW83.5                         SCH_ORIENT     (0)
- SW83.5                         XY             (560,600)
+ SW83.5                         XY             (450,600)
  SW84.5                         PRIM_FILE      .\pstchip.dat
- SW84.5                         SCH_BBOX       (780,600,810,620)
+ SW84.5                         SCH_BBOX       (560,600,590,620)
  SW84.5                         SCH_MIRROR     (0)
  SW84.5                         SCH_ORIENT     (0)
- SW84.5                         XY             (780,600)
+ SW84.5                         XY             (560,600)
  SW85.5                         PRIM_FILE      .\pstchip.dat
- SW85.5                         SCH_BBOX       (890,600,920,620)
+ SW85.5                         SCH_BBOX       (780,600,810,620)
  SW85.5                         SCH_MIRROR     (0)
  SW85.5                         SCH_ORIENT     (0)
- SW85.5                         XY             (890,600)
+ SW85.5                         XY             (780,600)
  SW86.5                         PRIM_FILE      .\pstchip.dat
- SW86.5                         SCH_BBOX       (1000,600,1030,620)
+ SW86.5                         SCH_BBOX       (890,600,920,620)
  SW86.5                         SCH_MIRROR     (0)
  SW86.5                         SCH_ORIENT     (0)
- SW86.5                         XY             (1000,600)
- SW87.5                         PRIM_FILE      .\pstchip.dat
- SW87.5                         SCH_BBOX       (1110,600,1140,620)
- SW87.5                         SCH_MIRROR     (0)
- SW87.5                         SCH_ORIENT     (0)
- SW87.5                         XY             (1110,600)
+ SW86.5                         XY             (890,600)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  55  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW87.5                         PRIM_FILE      .\pstchip.dat
+ SW87.5                         SCH_BBOX       (1000,600,1030,620)
+ SW87.5                         SCH_MIRROR     (0)
+ SW87.5                         SCH_ORIENT     (0)
+ SW87.5                         XY             (1000,600)
  SW88.5                         PRIM_FILE      .\pstchip.dat
- SW88.5                         SCH_BBOX       (450,710,480,730)
+ SW88.5                         SCH_BBOX       (1110,600,1140,620)
  SW88.5                         SCH_MIRROR     (0)
  SW88.5                         SCH_ORIENT     (0)
- SW88.5                         XY             (450,710)
+ SW88.5                         XY             (1110,600)
  SW89.5                         PRIM_FILE      .\pstchip.dat
- SW89.5                         SCH_BBOX       (560,710,590,730)
+ SW89.5                         SCH_BBOX       (450,710,480,730)
  SW89.5                         SCH_MIRROR     (0)
  SW89.5                         SCH_ORIENT     (0)
- SW89.5                         XY             (560,710)
+ SW89.5                         XY             (450,710)
  SW90.5                         PRIM_FILE      .\pstchip.dat
- SW90.5                         SCH_BBOX       (780,710,810,730)
+ SW90.5                         SCH_BBOX       (560,710,590,730)
  SW90.5                         SCH_MIRROR     (0)
  SW90.5                         SCH_ORIENT     (0)
- SW90.5                         XY             (780,710)
+ SW90.5                         XY             (560,710)
  SW91.5                         PRIM_FILE      .\pstchip.dat
- SW91.5                         SCH_BBOX       (890,710,920,730)
+ SW91.5                         SCH_BBOX       (780,710,810,730)
  SW91.5                         SCH_MIRROR     (0)
  SW91.5                         SCH_ORIENT     (0)
- SW91.5                         XY             (890,710)
+ SW91.5                         XY             (780,710)
  SW92.5                         PRIM_FILE      .\pstchip.dat
- SW92.5                         SCH_BBOX       (1000,710,1030,730)
+ SW92.5                         SCH_BBOX       (890,710,920,730)
  SW92.5                         SCH_MIRROR     (0)
  SW92.5                         SCH_ORIENT     (0)
- SW92.5                         XY             (1000,710)
+ SW92.5                         XY             (890,710)
  SW93.5                         PRIM_FILE      .\pstchip.dat
- SW93.5                         SCH_BBOX       (1110,710,1140,730)
+ SW93.5                         SCH_BBOX       (1000,710,1030,730)
  SW93.5                         SCH_MIRROR     (0)
  SW93.5                         SCH_ORIENT     (0)
- SW93.5                         XY             (1110,710)
+ SW93.5                         XY             (1000,710)
  SW94.5                         PRIM_FILE      .\pstchip.dat
- SW94.5                         SCH_BBOX       (1220,710,1250,730)
+ SW94.5                         SCH_BBOX       (1110,710,1140,730)
  SW94.5                         SCH_MIRROR     (0)
  SW94.5                         SCH_ORIENT     (0)
- SW94.5                         XY             (1220,710)
+ SW94.5                         XY             (1110,710)
  SW95.5                         PRIM_FILE      .\pstchip.dat
- SW95.5                         SCH_BBOX       (450,820,480,840)
+ SW95.5                         SCH_BBOX       (1220,710,1250,730)
  SW95.5                         SCH_MIRROR     (0)
  SW95.5                         SCH_ORIENT     (0)
- SW95.5                         XY             (450,820)
- SW96.5                         PRIM_FILE      .\pstchip.dat
- SW96.5                         SCH_BBOX       (560,820,590,840)
- SW96.5                         SCH_MIRROR     (0)
- SW96.5                         SCH_ORIENT     (0)
- SW96.5                         XY             (560,820)
+ SW95.5                         XY             (1220,710)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  56  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW96.5                         PRIM_FILE      .\pstchip.dat
+ SW96.5                         SCH_BBOX       (450,820,480,840)
+ SW96.5                         SCH_MIRROR     (0)
+ SW96.5                         SCH_ORIENT     (0)
+ SW96.5                         XY             (450,820)
  SW97.5                         PRIM_FILE      .\pstchip.dat
- SW97.5                         SCH_BBOX       (780,820,810,840)
+ SW97.5                         SCH_BBOX       (560,820,590,840)
  SW97.5                         SCH_MIRROR     (0)
  SW97.5                         SCH_ORIENT     (0)
- SW97.5                         XY             (780,820)
+ SW97.5                         XY             (560,820)
  SW98.5                         PRIM_FILE      .\pstchip.dat
- SW98.5                         SCH_BBOX       (890,820,920,840)
+ SW98.5                         SCH_BBOX       (780,820,810,840)
  SW98.5                         SCH_MIRROR     (0)
  SW98.5                         SCH_ORIENT     (0)
- SW98.5                         XY             (890,820)
+ SW98.5                         XY             (780,820)
  SW99.5                         PRIM_FILE      .\pstchip.dat
- SW99.5                         SCH_BBOX       (1000,820,1030,840)
+ SW99.5                         SCH_BBOX       (890,820,920,840)
  SW99.5                         SCH_MIRROR     (0)
  SW99.5                         SCH_ORIENT     (0)
- SW99.5                         XY             (1000,820)
+ SW99.5                         XY             (890,820)
  SW100.5                        PRIM_FILE      .\pstchip.dat
- SW100.5                        SCH_BBOX       (1110,820,1140,840)
+ SW100.5                        SCH_BBOX       (1000,820,1030,840)
  SW100.5                        SCH_MIRROR     (0)
  SW100.5                        SCH_ORIENT     (0)
- SW100.5                        XY             (1110,820)
+ SW100.5                        XY             (1000,820)
+ SW101.5                        PRIM_FILE      .\pstchip.dat
+ SW101.5                        SCH_BBOX       (1110,820,1140,840)
+ SW101.5                        SCH_MIRROR     (0)
+ SW101.5                        SCH_ORIENT     (0)
+ SW101.5                        XY             (1110,820)
  U1.21                          PRIM_FILE      .\pstchip.dat
  U1.21                          SCH_BBOX       (400,60,540,490)
  U1.21                          SCH_MIRROR     (0)
@@ -3032,8 +3048,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  57  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -3088,8 +3104,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  58  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -3144,8 +3160,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  59  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -3200,8 +3216,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  60  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -3256,8 +3272,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page  61  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -3271,110 +3287,112 @@
  D59.K                          SCH_LOC        (600,890)
  D60.A                          SCH_LOC        (930,880)
  D60.K                          SCH_LOC        (930,890)
- D61.A                          SCH_LOC        (1370,880)
- D61.K                          SCH_LOC        (1370,890)
- D62.A                          SCH_LOC        (420,310)
- D62.K                          SCH_LOC        (420,320)
- D63.A                          SCH_LOC        (530,310)
- D63.K                          SCH_LOC        (530,320)
- D64.A                          SCH_LOC        (640,310)
- D64.K                          SCH_LOC        (640,320)
- D65.A                          SCH_LOC        (750,310)
- D65.K                          SCH_LOC        (750,320)
- D66.A                          SCH_LOC        (420,420)
- D66.K                          SCH_LOC        (420,430)
- D67.A                          SCH_LOC        (530,420)
- D67.K                          SCH_LOC        (530,430)
- D68.A                          SCH_LOC        (640,420)
- D68.K                          SCH_LOC        (640,430)
- D69.A                          SCH_LOC        (750,420)
- D69.K                          SCH_LOC        (750,430)
- D70.A                          SCH_LOC        (860,420)
- D70.K                          SCH_LOC        (860,430)
- D71.A                          SCH_LOC        (970,420)
- D71.K                          SCH_LOC        (970,430)
- D72.A                          SCH_LOC        (1080,420)
- D72.K                          SCH_LOC        (1080,430)
- D73.A                          SCH_LOC        (1190,420)
- D73.K                          SCH_LOC        (1190,430)
- D74.A                          SCH_LOC        (420,530)
- D74.K                          SCH_LOC        (420,540)
- D75.A                          SCH_LOC        (530,530)
- D75.K                          SCH_LOC        (530,540)
- D76.A                          SCH_LOC        (640,530)
- D76.K                          SCH_LOC        (640,540)
- D77.A                          SCH_LOC        (750,530)
- D77.K                          SCH_LOC        (750,540)
- D78.A                          SCH_LOC        (860,530)
- D78.K                          SCH_LOC        (860,540)
- D79.A                          SCH_LOC        (970,530)
+ D61.A                          SCH_LOC        (1260,880)
+ D61.K                          SCH_LOC        (1260,890)
+ D62.A                          SCH_LOC        (1370,880)
+ D62.K                          SCH_LOC        (1370,890)
+ D63.A                          SCH_LOC        (420,310)
+ D63.K                          SCH_LOC        (420,320)
+ D64.A                          SCH_LOC        (530,310)
+ D64.K                          SCH_LOC        (530,320)
+ D65.A                          SCH_LOC        (640,310)
+ D65.K                          SCH_LOC        (640,320)
+ D66.A                          SCH_LOC        (750,310)
+ D66.K                          SCH_LOC        (750,320)
+ D67.A                          SCH_LOC        (420,420)
+ D67.K                          SCH_LOC        (420,430)
+ D68.A                          SCH_LOC        (530,420)
+ D68.K                          SCH_LOC        (530,430)
+ D69.A                          SCH_LOC        (640,420)
+ D69.K                          SCH_LOC        (640,430)
+ D70.A                          SCH_LOC        (750,420)
+ D70.K                          SCH_LOC        (750,430)
+ D71.A                          SCH_LOC        (860,420)
+ D71.K                          SCH_LOC        (860,430)
+ D72.A                          SCH_LOC        (970,420)
+ D72.K                          SCH_LOC        (970,430)
+ D73.A                          SCH_LOC        (1080,420)
+ D73.K                          SCH_LOC        (1080,430)
+ D74.A                          SCH_LOC        (1190,420)
+ D74.K                          SCH_LOC        (1190,430)
+ D75.A                          SCH_LOC        (420,530)
+ D75.K                          SCH_LOC        (420,540)
+ D76.A                          SCH_LOC        (530,530)
+ D76.K                          SCH_LOC        (530,540)
+ D77.A                          SCH_LOC        (640,530)
+ D77.K                          SCH_LOC        (640,540)
+ D78.A                          SCH_LOC        (750,530)
+ D78.K                          SCH_LOC        (750,540)
+ D79.A                          SCH_LOC        (860,530)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  62  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- D79.K                          SCH_LOC        (970,540)
- D80.A                          SCH_LOC        (1080,530)
- D80.K                          SCH_LOC        (1080,540)
- D81.A                          SCH_LOC        (1190,530)
- D81.K                          SCH_LOC        (1190,540)
- D82.A                          SCH_LOC        (420,630)
- D82.K                          SCH_LOC        (420,640)
- D83.A                          SCH_LOC        (530,630)
- D83.K                          SCH_LOC        (530,640)
- D84.A                          SCH_LOC        (750,630)
- D84.K                          SCH_LOC        (750,640)
- D85.A                          SCH_LOC        (860,630)
- D85.K                          SCH_LOC        (860,640)
- D86.A                          SCH_LOC        (970,630)
- D86.K                          SCH_LOC        (970,640)
- D87.A                          SCH_LOC        (1080,630)
- D87.K                          SCH_LOC        (1080,640)
- D88.A                          SCH_LOC        (420,740)
- D88.K                          SCH_LOC        (420,750)
- D89.A                          SCH_LOC        (530,740)
- D89.K                          SCH_LOC        (530,750)
- D90.A                          SCH_LOC        (750,740)
- D90.K                          SCH_LOC        (750,750)
- D91.A                          SCH_LOC        (860,740)
- D91.K                          SCH_LOC        (860,750)
- D92.A                          SCH_LOC        (970,740)
- D92.K                          SCH_LOC        (970,750)
- D93.A                          SCH_LOC        (1080,740)
- D93.K                          SCH_LOC        (1080,750)
- D94.A                          SCH_LOC        (1190,740)
- D94.K                          SCH_LOC        (1190,750)
- D95.A                          SCH_LOC        (420,850)
- D95.K                          SCH_LOC        (420,860)
- D96.A                          SCH_LOC        (530,850)
- D96.K                          SCH_LOC        (530,860)
- D97.A                          SCH_LOC        (750,850)
- D97.K                          SCH_LOC        (750,860)
- D98.A                          SCH_LOC        (860,850)
- D98.K                          SCH_LOC        (860,860)
- D99.A                          SCH_LOC        (970,850)
- D99.K                          SCH_LOC        (970,860)
- D100.A                         SCH_LOC        (1080,850)
- D100.K                         SCH_LOC        (1080,860)
- DS1.1                          SCH_LOC        (810,210)
- DS1.2                          SCH_LOC        (810,220)
+ D79.K                          SCH_LOC        (860,540)
+ D80.A                          SCH_LOC        (970,530)
+ D80.K                          SCH_LOC        (970,540)
+ D81.A                          SCH_LOC        (1080,530)
+ D81.K                          SCH_LOC        (1080,540)
+ D82.A                          SCH_LOC        (1190,530)
+ D82.K                          SCH_LOC        (1190,540)
+ D83.A                          SCH_LOC        (420,630)
+ D83.K                          SCH_LOC        (420,640)
+ D84.A                          SCH_LOC        (530,630)
+ D84.K                          SCH_LOC        (530,640)
+ D85.A                          SCH_LOC        (750,630)
+ D85.K                          SCH_LOC        (750,640)
+ D86.A                          SCH_LOC        (860,630)
+ D86.K                          SCH_LOC        (860,640)
+ D87.A                          SCH_LOC        (970,630)
+ D87.K                          SCH_LOC        (970,640)
+ D88.A                          SCH_LOC        (1080,630)
+ D88.K                          SCH_LOC        (1080,640)
+ D89.A                          SCH_LOC        (420,740)
+ D89.K                          SCH_LOC        (420,750)
+ D90.A                          SCH_LOC        (530,740)
+ D90.K                          SCH_LOC        (530,750)
+ D91.A                          SCH_LOC        (750,740)
+ D91.K                          SCH_LOC        (750,750)
+ D92.A                          SCH_LOC        (860,740)
+ D92.K                          SCH_LOC        (860,750)
+ D93.A                          SCH_LOC        (970,740)
+ D93.K                          SCH_LOC        (970,750)
+ D94.A                          SCH_LOC        (1080,740)
+ D94.K                          SCH_LOC        (1080,750)
+ D95.A                          SCH_LOC        (1190,740)
+ D95.K                          SCH_LOC        (1190,750)
+ D96.A                          SCH_LOC        (420,850)
+ D96.K                          SCH_LOC        (420,860)
+ D97.A                          SCH_LOC        (530,850)
+ D97.K                          SCH_LOC        (530,860)
+ D98.A                          SCH_LOC        (750,850)
+ D98.K                          SCH_LOC        (750,860)
+ D99.A                          SCH_LOC        (860,850)
+ D99.K                          SCH_LOC        (860,860)
+ D100.A                         SCH_LOC        (970,850)
+ D100.K                         SCH_LOC        (970,860)
+ D101.A                         SCH_LOC        (1080,850)
+ D101.K                         SCH_LOC        (1080,860)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  63  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ DS1.1                          SCH_LOC        (810,210)
+ DS1.2                          SCH_LOC        (810,220)
  DS1.3                          SCH_LOC        (810,230)
  DS1.4                          SCH_LOC        (810,240)
  DS1.5                          SCH_LOC        (810,250)
@@ -3418,19 +3436,19 @@
  J1.A5                          SCH_LOC        (490,310)
  J1.A6                          SCH_LOC        (490,320)
  J1.A7                          SCH_LOC        (490,330)
- J1.A9                          SCH_LOC        (490,350)
- J1.A12                         SCH_LOC        (490,360)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  64  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J1.A9                          SCH_LOC        (490,350)
+ J1.A12                         SCH_LOC        (490,360)
  J1.B1                          SCH_LOC        (540,360)
  J1.B4                          SCH_LOC        (540,350)
  J1.B5                          SCH_LOC        (540,340)
@@ -3474,19 +3492,19 @@
  LED7.4                         SCH_LOC        (390,510)
  LED8.1                         SCH_LOC        (550,510)
  LED8.2                         SCH_LOC        (550,480)
- LED8.3                         SCH_LOC        (600,480)
- LED8.4                         SCH_LOC        (600,510)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  65  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ LED8.3                         SCH_LOC        (600,480)
+ LED8.4                         SCH_LOC        (600,510)
  LED9.1                         SCH_LOC        (760,510)
  LED9.2                         SCH_LOC        (760,480)
  LED9.3                         SCH_LOC        (810,480)
@@ -3530,19 +3548,19 @@
  Q2.3                           SCH_LOC        (980,370)
  R1.1                           SCH_LOC        (380,370)
  R1.2                           SCH_LOC        (380,400)
- R2.1                           SCH_LOC        (650,370)
- R2.2                           SCH_LOC        (650,400)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  66  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R2.1                           SCH_LOC        (650,370)
+ R2.2                           SCH_LOC        (650,400)
  R3.1                           SCH_LOC        (340,210)
  R3.2                           SCH_LOC        (370,210)
  R4.1                           SCH_LOC        (870,250)
@@ -3586,19 +3604,19 @@
  SW11.1                         SCH_LOC        (1400,320)
  SW11.2                         SCH_LOC        (1430,320)
  SW12.1                         SCH_LOC        (300,430)
- SW12.2                         SCH_LOC        (330,430)
- SW13.1                         SCH_LOC        (410,430)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  67  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW12.2                         SCH_LOC        (330,430)
+ SW13.1                         SCH_LOC        (410,430)
  SW13.2                         SCH_LOC        (440,430)
  SW14.1                         SCH_LOC        (520,430)
  SW14.2                         SCH_LOC        (550,430)
@@ -3642,19 +3660,19 @@
  SW33.2                         SCH_LOC        (1430,540)
  SW34.1                         SCH_LOC        (300,640)
  SW34.2                         SCH_LOC        (330,640)
- SW35.1                         SCH_LOC        (410,640)
- SW35.2                         SCH_LOC        (440,640)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  68  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW35.1                         SCH_LOC        (410,640)
+ SW35.2                         SCH_LOC        (440,640)
  SW36.1                         SCH_LOC        (520,640)
  SW36.2                         SCH_LOC        (550,640)
  SW37.1                         SCH_LOC        (630,640)
@@ -3698,131 +3716,133 @@
  SW56.1                         SCH_LOC        (300,860)
  SW56.2                         SCH_LOC        (330,860)
  SW57.1                         SCH_LOC        (410,860)
- SW57.2                         SCH_LOC        (440,860)
- SW58.1                         SCH_LOC        (520,860)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  69  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW57.2                         SCH_LOC        (440,860)
+ SW58.1                         SCH_LOC        (520,860)
  SW58.2                         SCH_LOC        (550,860)
  SW59.1                         SCH_LOC        (630,860)
  SW59.2                         SCH_LOC        (660,860)
  SW60.1                         SCH_LOC        (960,860)
  SW60.2                         SCH_LOC        (990,860)
- SW61.1                         SCH_LOC        (1400,860)
- SW61.2                         SCH_LOC        (1430,860)
- SW62.1                         SCH_LOC        (450,290)
- SW62.2                         SCH_LOC        (480,290)
- SW63.1                         SCH_LOC        (560,290)
- SW63.2                         SCH_LOC        (590,290)
- SW64.1                         SCH_LOC        (670,290)
- SW64.2                         SCH_LOC        (700,290)
- SW65.1                         SCH_LOC        (780,290)
- SW65.2                         SCH_LOC        (810,290)
- SW66.1                         SCH_LOC        (450,400)
- SW66.2                         SCH_LOC        (480,400)
- SW67.1                         SCH_LOC        (560,400)
- SW67.2                         SCH_LOC        (590,400)
- SW68.1                         SCH_LOC        (670,400)
- SW68.2                         SCH_LOC        (700,400)
- SW69.1                         SCH_LOC        (780,400)
- SW69.2                         SCH_LOC        (810,400)
- SW70.1                         SCH_LOC        (890,400)
- SW70.2                         SCH_LOC        (920,400)
- SW71.1                         SCH_LOC        (1000,400)
- SW71.2                         SCH_LOC        (1030,400)
- SW72.1                         SCH_LOC        (1110,400)
- SW72.2                         SCH_LOC        (1140,400)
- SW73.1                         SCH_LOC        (1220,400)
- SW73.2                         SCH_LOC        (1250,400)
- SW74.1                         SCH_LOC        (450,510)
- SW74.2                         SCH_LOC        (480,510)
- SW75.1                         SCH_LOC        (560,510)
- SW75.2                         SCH_LOC        (590,510)
- SW76.1                         SCH_LOC        (670,510)
- SW76.2                         SCH_LOC        (700,510)
- SW77.1                         SCH_LOC        (780,510)
- SW77.2                         SCH_LOC        (810,510)
- SW78.1                         SCH_LOC        (890,510)
- SW78.2                         SCH_LOC        (920,510)
- SW79.1                         SCH_LOC        (1000,510)
- SW79.2                         SCH_LOC        (1030,510)
- SW80.1                         SCH_LOC        (1110,510)
- SW80.2                         SCH_LOC        (1140,510)
+ SW61.1                         SCH_LOC        (1290,860)
+ SW61.2                         SCH_LOC        (1320,860)
+ SW62.1                         SCH_LOC        (1400,860)
+ SW62.2                         SCH_LOC        (1430,860)
+ SW63.1                         SCH_LOC        (450,290)
+ SW63.2                         SCH_LOC        (480,290)
+ SW64.1                         SCH_LOC        (560,290)
+ SW64.2                         SCH_LOC        (590,290)
+ SW65.1                         SCH_LOC        (670,290)
+ SW65.2                         SCH_LOC        (700,290)
+ SW66.1                         SCH_LOC        (780,290)
+ SW66.2                         SCH_LOC        (810,290)
+ SW67.1                         SCH_LOC        (450,400)
+ SW67.2                         SCH_LOC        (480,400)
+ SW68.1                         SCH_LOC        (560,400)
+ SW68.2                         SCH_LOC        (590,400)
+ SW69.1                         SCH_LOC        (670,400)
+ SW69.2                         SCH_LOC        (700,400)
+ SW70.1                         SCH_LOC        (780,400)
+ SW70.2                         SCH_LOC        (810,400)
+ SW71.1                         SCH_LOC        (890,400)
+ SW71.2                         SCH_LOC        (920,400)
+ SW72.1                         SCH_LOC        (1000,400)
+ SW72.2                         SCH_LOC        (1030,400)
+ SW73.1                         SCH_LOC        (1110,400)
+ SW73.2                         SCH_LOC        (1140,400)
+ SW74.1                         SCH_LOC        (1220,400)
+ SW74.2                         SCH_LOC        (1250,400)
+ SW75.1                         SCH_LOC        (450,510)
+ SW75.2                         SCH_LOC        (480,510)
+ SW76.1                         SCH_LOC        (560,510)
+ SW76.2                         SCH_LOC        (590,510)
+ SW77.1                         SCH_LOC        (670,510)
+ SW77.2                         SCH_LOC        (700,510)
+ SW78.1                         SCH_LOC        (780,510)
+ SW78.2                         SCH_LOC        (810,510)
+ SW79.1                         SCH_LOC        (890,510)
+ SW79.2                         SCH_LOC        (920,510)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  70  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- SW81.1                         SCH_LOC        (1220,510)
- SW81.2                         SCH_LOC        (1250,510)
- SW82.1                         SCH_LOC        (450,610)
- SW82.2                         SCH_LOC        (480,610)
- SW83.1                         SCH_LOC        (560,610)
- SW83.2                         SCH_LOC        (590,610)
- SW84.1                         SCH_LOC        (780,610)
- SW84.2                         SCH_LOC        (810,610)
- SW85.1                         SCH_LOC        (890,610)
- SW85.2                         SCH_LOC        (920,610)
- SW86.1                         SCH_LOC        (1000,610)
- SW86.2                         SCH_LOC        (1030,610)
- SW87.1                         SCH_LOC        (1110,610)
- SW87.2                         SCH_LOC        (1140,610)
- SW88.1                         SCH_LOC        (450,720)
- SW88.2                         SCH_LOC        (480,720)
- SW89.1                         SCH_LOC        (560,720)
- SW89.2                         SCH_LOC        (590,720)
- SW90.1                         SCH_LOC        (780,720)
- SW90.2                         SCH_LOC        (810,720)
- SW91.1                         SCH_LOC        (890,720)
- SW91.2                         SCH_LOC        (920,720)
- SW92.1                         SCH_LOC        (1000,720)
- SW92.2                         SCH_LOC        (1030,720)
- SW93.1                         SCH_LOC        (1110,720)
- SW93.2                         SCH_LOC        (1140,720)
- SW94.1                         SCH_LOC        (1220,720)
- SW94.2                         SCH_LOC        (1250,720)
- SW95.1                         SCH_LOC        (450,830)
- SW95.2                         SCH_LOC        (480,830)
- SW96.1                         SCH_LOC        (560,830)
- SW96.2                         SCH_LOC        (590,830)
- SW97.1                         SCH_LOC        (780,830)
- SW97.2                         SCH_LOC        (810,830)
- SW98.1                         SCH_LOC        (890,830)
- SW98.2                         SCH_LOC        (920,830)
- SW99.1                         SCH_LOC        (1000,830)
- SW99.2                         SCH_LOC        (1030,830)
- SW100.1                        SCH_LOC        (1110,830)
- SW100.2                        SCH_LOC        (1140,830)
+ SW80.1                         SCH_LOC        (1000,510)
+ SW80.2                         SCH_LOC        (1030,510)
+ SW81.1                         SCH_LOC        (1110,510)
+ SW81.2                         SCH_LOC        (1140,510)
+ SW82.1                         SCH_LOC        (1220,510)
+ SW82.2                         SCH_LOC        (1250,510)
+ SW83.1                         SCH_LOC        (450,610)
+ SW83.2                         SCH_LOC        (480,610)
+ SW84.1                         SCH_LOC        (560,610)
+ SW84.2                         SCH_LOC        (590,610)
+ SW85.1                         SCH_LOC        (780,610)
+ SW85.2                         SCH_LOC        (810,610)
+ SW86.1                         SCH_LOC        (890,610)
+ SW86.2                         SCH_LOC        (920,610)
+ SW87.1                         SCH_LOC        (1000,610)
+ SW87.2                         SCH_LOC        (1030,610)
+ SW88.1                         SCH_LOC        (1110,610)
+ SW88.2                         SCH_LOC        (1140,610)
+ SW89.1                         SCH_LOC        (450,720)
+ SW89.2                         SCH_LOC        (480,720)
+ SW90.1                         SCH_LOC        (560,720)
+ SW90.2                         SCH_LOC        (590,720)
+ SW91.1                         SCH_LOC        (780,720)
+ SW91.2                         SCH_LOC        (810,720)
+ SW92.1                         SCH_LOC        (890,720)
+ SW92.2                         SCH_LOC        (920,720)
+ SW93.1                         SCH_LOC        (1000,720)
+ SW93.2                         SCH_LOC        (1030,720)
+ SW94.1                         SCH_LOC        (1110,720)
+ SW94.2                         SCH_LOC        (1140,720)
+ SW95.1                         SCH_LOC        (1220,720)
+ SW95.2                         SCH_LOC        (1250,720)
+ SW96.1                         SCH_LOC        (450,830)
+ SW96.2                         SCH_LOC        (480,830)
+ SW97.1                         SCH_LOC        (560,830)
+ SW97.2                         SCH_LOC        (590,830)
+ SW98.1                         SCH_LOC        (780,830)
+ SW98.2                         SCH_LOC        (810,830)
+ SW99.1                         SCH_LOC        (890,830)
+ SW99.2                         SCH_LOC        (920,830)
+ SW100.1                        SCH_LOC        (1000,830)
+ SW100.2                        SCH_LOC        (1030,830)
+ SW101.1                        SCH_LOC        (1110,830)
+ SW101.2                        SCH_LOC        (1140,830)
  U1.1                           SCH_LOC        (540,100)
- U1.2                           SCH_LOC        (400,240)
- U1.3                           SCH_LOC        (400,250)
- U1.4                           SCH_LOC        (400,260)
- U1.5                           SCH_LOC        (400,270)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  71  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U1.2                           SCH_LOC        (400,240)
+ U1.3                           SCH_LOC        (400,250)
+ U1.4                           SCH_LOC        (400,260)
+ U1.5                           SCH_LOC        (400,270)
  U1.6                           SCH_LOC        (400,280)
  U1.7                           SCH_LOC        (400,290)
  U1.8                           SCH_LOC        (400,300)
@@ -3864,21 +3884,21 @@
  U1.49                          SCH_LOC        (540,150)
  U1.50                          SCH_LOC        (540,90)
  U1.51                          SCH_LOC        (540,240)
- U1.52                          SCH_LOC        (540,200)
- U1.53                          SCH_LOC        (540,210)
- U1.54                          SCH_LOC        (540,230)
- U1.55                          SCH_LOC        (540,220)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  72  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd   |
-|                                                    Thu Apr 23 16:08:46 2026  |
+|  C:.../OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard2.brd  |
+|                                                    Fri Apr 24 12:39:20 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U1.52                          SCH_LOC        (540,200)
+ U1.53                          SCH_LOC        (540,210)
+ U1.54                          SCH_LOC        (540,230)
+ U1.55                          SCH_LOC        (540,220)
  U1.56                          SCH_LOC        (540,250)
  U1.57                          SCH_LOC        (540,480)
  VR1.1                          SCH_LOC        (690,200)
@@ -3889,11 +3909,11 @@
  Y1.3                           SCH_LOC        (260,180)
  Y1.4                           SCH_LOC        (140,180)
 |------------------------------------------------------------------------------|
-|       Nets changed          :     684                                        |
-|       Comp definitions added:     121                                        |
-|       Components added      :     277                                        |
-|       Pin property added    :     684                                        |
-|       Slot property added   :    1385                                        |
+|       Nets changed          :     688                                        |
+|       Comp definitions added:     122                                        |
+|       Components added      :     279                                        |
+|       Pin property added    :     688                                        |
+|       Slot property added   :    1395                                        |
 |                                                                              |
-|   Total ECO changes reported:    3151                                        |
+|   Total ECO changes reported:    3172                                        |
 |------------------------------------------------------------------------------|

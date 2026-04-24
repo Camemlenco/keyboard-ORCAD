@@ -1,0 +1,100 @@
+\t (00:00:06) cds_root Unknown Unknown (unrelease) [unrelease] Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Fri Apr 24 11:55:01 2026
+\t (00:00:06)         Host=ASUS-GABRIEL User=camem Pid=18328 CPUs=16
+\t (00:00:06) CmdLine= cds_root.exe 
+\t (00:00:06) 
+\t (00:00:06) skill setRedsGlobalTypes()
+\t (00:00:06) skill acns_setGlobalTypes()
+\i (00:07:25) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:07:25) QtSignal Routing Impedance
+\i (00:07:25) QtSignal Frozen_Impedance_WorksheetView9 Frozen_Impedance_WorksheetView9Header sectionMoved +
+\i (00:07:25) QtSignal 0 0 1
+\i (00:07:25) QtSignal Frozen_Impedance_WorksheetView9 Frozen_Impedance_WorksheetView9Header sectionMoved +
+\i (00:07:25) QtSignal 1 1 0
+\i (00:07:25) QtSignal Impedance_WorksheetView9 Impedance_WorksheetView9Header sectionMoved 0 0 +
+\i (00:07:25) QtSignal 1
+\i (00:07:25) QtSignal Impedance_WorksheetView9 Impedance_WorksheetView9Header sectionMoved 1 1 +
+\i (00:07:25) QtSignal 0
+\i (00:07:25) QtSignal Frozen_Impedance_WorksheetView9 Frozen_Impedance_WorksheetView9Header sectionMoved +
+\i (00:07:25) QtSignal 0 1 3
+\i (00:07:25) QtSignal Frozen_Impedance_WorksheetView9 Frozen_Impedance_WorksheetView9Header sectionMoved +
+\i (00:07:25) QtSignal 3 3 1
+\i (00:07:25) QtSignal Impedance_WorksheetView9 Impedance_WorksheetView9Header sectionMoved 0 1 +
+\i (00:07:25) QtSignal 3
+\i (00:07:25) QtSignal Impedance_WorksheetView9 Impedance_WorksheetView9Header sectionMoved 3 3 +
+\i (00:07:25) QtSignal 1
+\i (00:07:25) QtSignal CCMViewHost9 tableWidget currentChanged GABRIELKEYBOARD
+\i (00:07:25) QtSignal   itemChanged "~(0,0)" "|" 2
+\i (00:07:25) QtSignal   itemChanged "~GABRIELKEYBOARD" "|" 2
+\i (00:07:25) QtSignal   itemChanged "~GABRIELKEYBOARD" "|" 2
+\i (00:07:25) QtSignal   itemChanged 0 "|" GABRIELKEYBOARD
+\i (00:07:36) QtSignal m_menuBar menuAudit Triggered "Constraints..."
+\i (00:07:37) QtSignal MainWindow File closed
+\i (00:07:45) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:07:45) QtSignal Routing "Total Etch Length"
+\i (00:07:46) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing +
+\i (00:07:46) QtSignal "Total Etch Length"
+\i (00:07:46) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:07:46) QtSignal Routing "Differential Pair"
+\i (00:07:46) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing +
+\i (00:07:46) QtSignal "Differential Pair"
+\i (00:07:47) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing
+\i (00:07:47) QtSignal m_domainSelector WS_Electrical itemClicked Net Routing
+\t (00:07:52) setwindow cmgr
+\t (00:07:52) cm exit
+\i (00:21:51) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:21:51) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing Wiring
+\i (00:21:51) QtSignal Frozen_Differential_Pair_WorksheetView32 Frozen_Differential_Pair_WorksheetView32Header sectionMoved +
+\i (00:21:51) QtSignal 0 0 1
+\i (00:21:51) QtSignal Frozen_Differential_Pair_WorksheetView32 Frozen_Differential_Pair_WorksheetView32Header sectionMoved +
+\i (00:21:51) QtSignal 1 1 0
+\i (00:21:51) QtSignal Differential_Pair_WorksheetView32 Differential_Pair_WorksheetView32Header sectionMoved +
+\i (00:21:51) QtSignal 0 0 1
+\i (00:21:51) QtSignal Differential_Pair_WorksheetView32 Differential_Pair_WorksheetView32Header sectionMoved +
+\i (00:21:51) QtSignal 1 1 0
+\i (00:21:51) QtSignal Frozen_Differential_Pair_WorksheetView32 Frozen_Differential_Pair_WorksheetView32Header sectionMoved +
+\i (00:21:51) QtSignal 0 1 3
+\i (00:21:51) QtSignal Frozen_Differential_Pair_WorksheetView32 Frozen_Differential_Pair_WorksheetView32Header sectionMoved +
+\i (00:21:51) QtSignal 3 3 1
+\i (00:21:51) QtSignal Differential_Pair_WorksheetView32 Differential_Pair_WorksheetView32Header sectionMoved +
+\i (00:21:51) QtSignal 0 1 3
+\i (00:21:51) QtSignal Differential_Pair_WorksheetView32 Differential_Pair_WorksheetView32Header sectionMoved +
+\i (00:21:51) QtSignal 3 3 1
+\i (00:21:51) QtSignal CCMViewHost32 tableWidget currentChanged GABRIELKEYBOARD
+\i (00:21:51) QtSignal   itemChanged "~(0,0)" "|" 2
+\i (00:21:51) QtSignal   itemChanged "~GABRIELKEYBOARD" "|" 2
+\i (00:21:51) QtSignal   itemChanged "~GABRIELKEYBOARD" "|" 2
+\i (00:21:51) QtSignal   itemChanged 0 "|" GABRIELKEYBOARD
+\i (00:21:51) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:21:51) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:21:51) QtSignal Routing "Differential Pair"
+\i (00:21:51) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:21:51) QtSignal 0 0 1
+\i (00:21:51) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:21:51) QtSignal 1 1 0
+\i (00:21:51) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 0 0 1
+\i (00:21:51) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 1 1 0
+\i (00:21:51) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:21:51) QtSignal 0 1 3
+\i (00:21:51) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:21:51) QtSignal 3 3 1
+\i (00:21:51) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 0 1 3
+\i (00:21:51) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 3 3 1
+\i (00:21:51) QtSignal CCMViewHost26 tableWidget currentChanged GABRIELKEYBOARD
+\i (00:21:51) QtSignal   itemChanged "~(0,0)" "|" 2
+\i (00:21:51) QtSignal   itemChanged "~GABRIELKEYBOARD" "|" 2
+\i (00:21:51) QtSignal   itemChanged "~GABRIELKEYBOARD" "|" 2
+\i (00:21:51) QtSignal   itemChanged 0 "|" GABRIELKEYBOARD
+\i (00:21:51) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:21:51) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing Wiring
+\i (00:22:01) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:22:01) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:22:02) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged "Same Net Spacing"
+\i (00:22:02) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Properties
+\i (00:22:04) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:22:04) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:22:20) QtSignal m_menuBar menuTools Triggered "Setup property definitions..."
+\i (00:22:22) QtSignal Wiring_WorksheetView26 AddColumnDlg closed
+\i (00:22:32) QtSignal m_menuBar menuFile Triggered Close
+\t (00:22:33) setwindow cmgr
+\t (00:22:33) cm exit

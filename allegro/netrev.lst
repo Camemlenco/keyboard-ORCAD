@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : gabrielkeyboard.brd                           )
 (    Software Version : 25.1S020                                      )
-(    Date/Time        : Thu Apr 23 16:09:05 2026                      )
+(    Date/Time        : Fri Apr 24 13:38:55 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,28 +17,28 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\allegro'
+Schematic directory:         '.'
 Design Directory:            'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro'
 Old design name:             'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd'
 New design name:             'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd'
 
-CmdLine: netrev.exe -y 1 -n -i C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\allegro C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd
+CmdLine: netrev -i . -y 1 -q netrev_constraint_report.xml C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/#Taaaags01968.tmp
 
 ------ Preparing to read pst files ------
 
-Starting to read C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/pstchip.dat 
-   Finished reading C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/pstchip.dat (00:00:00.01)
-Starting to read C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/pstxprt.dat 
-   Finished reading C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/pstxprt.dat (00:00:00.00)
-Starting to read C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/pstxnet.dat 
-   Finished reading C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/pstxnet.dat (00:00:00.00)
+Starting to read ./pstchip.dat 
+   Finished reading ./pstchip.dat (00:00:00.01)
+Starting to read ./pstxprt.dat 
+   Finished reading ./pstxprt.dat (00:00:00.00)
+Starting to read ./pstxnet.dat 
+   Finished reading ./pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
 
 ------ Library Paths ------
 MODULEPATH =  . 
-           c:/cadence/orcadx_25.1/share/orApps/OrCaptureApp/../../../share/local/pcb/modules 
+           c:/cadence/orcadx_25.1/share/local/pcb/modules 
 
 PSMPATH =  . 
            symbols 
@@ -68,7 +68,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Apr 23 16:09:05 2026
+netrev run on Apr 24 13:38:55 2026
    DESIGN NAME : 'GABRIELKEYBOARD'
    PACKAGING ON Feb  5 2026 13:43:38
 
@@ -93,6 +93,6 @@ netrev run on Apr 23 16:09:05 2026
  No oversight detected
  No warning detected
 
-cpu time      0:00:48
-elapsed time  0:00:01
+cpu time      0:00:41
+elapsed time  0:00:00
 
