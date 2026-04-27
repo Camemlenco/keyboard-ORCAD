@@ -1,7 +1,20 @@
 {
 	"Gate Swap" : [],
 	"Ref Des" : [],
-	"Pin Swap" : [],
+	"Pin Swap" : [
+		{
+			"Name" : "U1.32",
+			"C_PATH" : "@gabrielkeyboard.schematic1(sch_1):ins1005@rp2040.\\rp2040.normal\\(chips):GPIO19",
+			"Logical" : "U1.32",
+			"Physical" : "U1.30"
+		},
+		{
+			"Name" : "U1.30",
+			"C_PATH" : "@gabrielkeyboard.schematic1(sch_1):ins1005@rp2040.\\rp2040.normal\\(chips):GPIO21",
+			"Logical" : "U1.30",
+			"Physical" : "U1.32"
+		}
+	],
 	"Component Property" : [],
 	"Net Property" : [],
 	"Pin Property" : [],

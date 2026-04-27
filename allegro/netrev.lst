@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : gabrielkeyboard.brd                           )
 (    Software Version : 25.1S020                                      )
-(    Date/Time        : Fri Apr 24 16:39:50 2026                      )
+(    Date/Time        : Mon Apr 27 15:53:11 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,12 +22,12 @@ Design Directory:            'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyb
 Old design name:             'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd'
 New design name:             'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd'
 
-CmdLine: netrev -i . -y 1 -q netrev_constraint_report.xml C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/#Taaaahy11140.tmp
+CmdLine: netrev -i . -y 1 -q netrev_constraint_report.xml C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/#Taaaaqz18232.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read ./pstchip.dat 
-   Finished reading ./pstchip.dat (00:00:00.01)
+   Finished reading ./pstchip.dat (00:00:00.02)
 Starting to read ./pstxprt.dat 
    Finished reading ./pstxprt.dat (00:00:00.00)
 Starting to read ./pstxnet.dat 
@@ -68,7 +68,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Apr 24 16:39:50 2026
+netrev run on Apr 27 15:53:11 2026
    DESIGN NAME : 'GABRIELKEYBOARD'
    PACKAGING ON Feb  5 2026 13:43:38
 
@@ -93,6 +93,6 @@ netrev run on Apr 24 16:39:50 2026
  No oversight detected
  No warning detected
 
-cpu time      0:00:29
+cpu time      0:00:32
 elapsed time  0:00:00
 
