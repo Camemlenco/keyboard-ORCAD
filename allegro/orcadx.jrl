@@ -35800,4 +35800,477 @@
 \i (06:28:56) updateport PropPane
 \i (06:28:56) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
 \i (06:28:58) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
-\i (06:28:58) u
+\i (06:28:58) updateport ReportsPane
+\i (06:28:58) updateport SearchPane
+\i (06:28:58) updateport PropPane
+\i (06:29:06) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-1P75U"
+\i (06:29:07) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper changeModel
+\i (06:29:10) QtFillin filesystem "1.75u.step" "../../../../../../SPB_Data/cdssetup/workspace/libraries/3D/1.75u.step"
+\i (06:29:10) updateport ReportsPane
+\i (06:29:10) updateport SearchPane
+\i (06:29:10) updateport PropPane
+\i (06:29:10) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:29:12) QtSignal 3DBoardLevelModelMapper AlignAUTO clicked on
+\i (06:29:12) updateport ReportsPane
+\i (06:29:12) updateport SearchPane
+\i (06:29:12) updateport PropPane
+\i (06:29:12) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:29:14) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (06:29:14) updateport ReportsPane
+\i (06:29:14) updateport SearchPane
+\i (06:29:14) updateport PropPane
+\i (06:29:18) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2P25U"
+\i (06:29:19) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper changeModel
+\i (06:29:22) QtFillin filesystem "2.25u.step" "../../../../../../SPB_Data/cdssetup/workspace/libraries/3D/2.25u.step"
+\i (06:29:22) updateport ReportsPane
+\i (06:29:22) updateport SearchPane
+\i (06:29:22) updateport PropPane
+\i (06:29:23) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:29:24) QtSignal 3DBoardLevelModelMapper AlignAUTO clicked on
+\i (06:29:24) updateport ReportsPane
+\i (06:29:24) updateport SearchPane
+\i (06:29:24) updateport PropPane
+\i (06:29:24) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:29:26) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (06:29:26) updateport ReportsPane
+\i (06:29:26) updateport SearchPane
+\i (06:29:26) updateport PropPane
+\i (06:29:30) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2U"
+\i (06:29:31) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper changeModel
+\i (06:29:35) QtFillin filesystem "2u.step" "../../../../../../SPB_Data/cdssetup/workspace/libraries/3D/2u.step"
+\i (06:29:36) updateport ReportsPane
+\i (06:29:36) updateport SearchPane
+\i (06:29:36) updateport PropPane
+\i (06:29:36) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:29:37) QtSignal 3DBoardLevelModelMapper AlignAUTO clicked on
+\i (06:29:37) updateport ReportsPane
+\i (06:29:37) updateport SearchPane
+\i (06:29:37) updateport PropPane
+\i (06:29:37) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:29:41) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-6P25U"
+\i (06:29:42) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper changeModel
+\i (06:29:44) QtFillin filesystem "6.25u.step" "../../../../../../SPB_Data/cdssetup/workspace/libraries/3D/6.25u.step"
+\i (06:29:45) updateport ReportsPane
+\i (06:29:45) updateport SearchPane
+\i (06:29:45) updateport PropPane
+\i (06:29:46) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:30:00) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-6P25U"
+\i (06:30:03) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (06:30:03) updateport ReportsPane
+\i (06:30:03) updateport SearchPane
+\i (06:30:03) updateport PropPane
+\i (06:30:03) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (06:30:03) updateport ReportsPane
+\i (06:30:03) updateport SearchPane
+\i (06:30:03) updateport PropPane
+\i (06:31:14) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered 
+\i (06:32:58) ucp_switchview 
+\t (06:32:58) Performing Auto-Backup...
+\t (06:32:58) Auto-Backup successful
+\i (06:32:58) updateport ReportsPane
+\i (06:32:58) updateport SearchPane
+\i (06:32:58) updateport PropPane
+\i (06:32:59) ucpedit 
+\i (06:32:59) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (06:32:59) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (06:32:59) updateport VisibilityPane
+\i (06:32:59) updateport CMPanelPort
+\i (06:32:59) updateport PropPane
+\i (06:32:59) updateport ReportsPane
+\i (06:32:59) updateport SearchPane
+\i (06:33:00) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (06:33:00) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (06:33:01) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (06:33:01) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (06:33:01) save 
+\i (06:33:02) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (06:33:02) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (06:33:02) fillin yes 
+\i (06:33:02) updateport ReportsPane
+\i (06:33:02) updateport SearchPane
+\i (06:33:02) updateport PropPane
+\i (06:33:02) ucpedit 
+\i (06:33:02) updateport VisibilityPane
+\i (06:33:05) zoom out 1 
+\i (06:33:05) setwindow pcb
+\i (06:33:05) zoom out 11898.72 5203.56
+\i (06:33:05) trapsize 891
+\i (06:33:05) zoom out 1 
+\i (06:33:05) setwindow pcb
+\i (06:33:05) zoom out 11898.72 5203.56
+\i (06:33:05) trapsize 1781
+\i (06:33:06) roam start
+\i (06:33:06) roam y 1
+\i (06:33:06) roam x 89
+\i (06:33:06) roam y 57
+\i (06:33:06) roam x 81
+\i (06:33:06) roam y 22
+\i (06:33:06) roam x 92
+\i (06:33:06) roam y 19
+\i (06:33:06) roam x 24
+\i (06:33:06) roam y 5
+\i (06:33:06) roam x 3
+\i (06:33:06) roam y 1
+\i (06:33:06) roam x 6
+\i (06:33:06) roam y 2
+\i (06:33:06) roam x 11
+\i (06:33:06) roam y 1
+\i (06:33:06) roam x 23
+\i (06:33:06) roam y 4
+\i (06:33:06) roam x 30
+\i (06:33:06) roam y 7
+\i (06:33:06) roam x 25
+\i (06:33:06) roam y 4
+\i (06:33:06) roam x 16
+\i (06:33:06) roam y 5
+\i (06:33:06) roam x 14
+\i (06:33:06) roam y 2
+\i (06:33:06) roam x 1
+\i (06:33:06) roam y 1
+\i (06:33:06) roam x 21
+\i (06:33:06) roam y 7
+\i (06:33:06) roam x 5
+\i (06:33:06) roam y 1
+\i (06:33:06) roam end
+\i (06:33:07) roam start
+\i (06:33:07) roam x -1
+\i (06:33:07) roam x -2
+\i (06:33:07) roam y 2
+\i (06:33:07) roam x 45
+\i (06:33:07) roam y 27
+\i (06:33:07) roam x 78
+\i (06:33:07) roam y 33
+\i (06:33:07) roam x 170
+\i (06:33:07) roam y 55
+\i (06:33:07) roam x 128
+\i (06:33:07) roam y 34
+\i (06:33:07) roam x 37
+\i (06:33:07) roam y 1
+\i (06:33:07) roam x 15
+\i (06:33:07) roam x 44
+\i (06:33:07) roam y -12
+\i (06:33:07) roam x 31
+\i (06:33:07) roam y -15
+\i (06:33:07) roam x 2
+\i (06:33:07) roam y -3
+\i (06:33:07) roam y -2
+\i (06:33:07) roam x -6
+\i (06:33:07) roam y -4
+\i (06:33:07) roam x -20
+\i (06:33:07) roam y -13
+\i (06:33:07) roam x -17
+\i (06:33:07) roam y -4
+\i (06:33:07) roam x -6
+\i (06:33:07) roam y -1
+\i (06:33:07) roam x -27
+\i (06:33:07) roam y -3
+\i (06:33:07) roam x -5
+\i (06:33:07) roam end
+\i (06:33:10) save 
+\i (06:33:11) fillin yes 
+\i (06:33:11) updateport ReportsPane
+\i (06:33:11) updateport SearchPane
+\i (06:33:11) updateport PropPane
+\i (06:33:11) ucpedit 
+\i (06:33:11) updateport VisibilityPane
+\i (06:33:11) pick grid 16340.06 4179.43
+\t (06:33:11) last pick:  16340.06 4179.43
+\i (06:33:12) ucp_switchview 
+\i (06:33:12) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (06:33:12) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (06:33:12) ucpedit 
+\i (06:33:12) updateport VisibilityPane
+\i (06:33:37) QtSignal Algro3DViewCameraWidget Algro3DViewBottomAction triggered 
+\i (06:33:44) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered 
+\i (06:34:51) QtSignal Display3DMaterials 3DSolderMaskColor colorAssigned "#af0101"
+\i (06:34:51) updateport ReportsPane
+\i (06:34:51) updateport SearchPane
+\i (06:34:51) updateport PropPane
+\i (06:34:58) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered 
+\i (06:34:59) QtSignal Algro3DViewCameraWidget Algro3DViewBottomAction triggered 
+\i (06:35:02) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered 
+\i (06:35:25) QtSignal VisCompScrollArea VisVerticalSlider sliderReleased 2723
+\i (06:35:26) updateport ReportsPane
+\i (06:35:26) updateport SearchPane
+\i (06:35:26) updateport PropPane
+\i (06:35:26) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:35:43) updateport ReportsPane
+\i (06:35:43) updateport SearchPane
+\i (06:35:43) updateport PropPane
+\i (06:35:43) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:35:44) updateport ReportsPane
+\i (06:35:44) updateport SearchPane
+\i (06:35:44) updateport PropPane
+\i (06:35:44) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:35:45) updateport ReportsPane
+\i (06:35:45) updateport SearchPane
+\i (06:35:45) updateport PropPane
+\i (06:35:45) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:35:45) updateport ReportsPane
+\i (06:35:45) updateport SearchPane
+\i (06:35:45) updateport PropPane
+\i (06:35:45) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:35:46) updateport ReportsPane
+\i (06:35:46) updateport SearchPane
+\i (06:35:46) updateport PropPane
+\i (06:35:46) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:35:47) updateport ReportsPane
+\i (06:35:47) updateport SearchPane
+\i (06:35:47) updateport PropPane
+\i (06:35:47) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:35:48) updateport ReportsPane
+\i (06:35:48) updateport SearchPane
+\i (06:35:48) updateport PropPane
+\i (06:35:48) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:35:49) updateport ReportsPane
+\i (06:35:49) updateport SearchPane
+\i (06:35:49) updateport PropPane
+\i (06:35:49) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:35:51) updateport ReportsPane
+\i (06:35:51) updateport SearchPane
+\i (06:35:51) updateport PropPane
+\i (06:35:51) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:35:52) updateport ReportsPane
+\i (06:35:52) updateport SearchPane
+\i (06:35:52) updateport PropPane
+\i (06:35:52) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:35:54) updateport ReportsPane
+\i (06:35:54) updateport SearchPane
+\i (06:35:54) updateport PropPane
+\i (06:35:54) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:36:02) QtSignal VisCompScrollArea VisVerticalSlider sliderReleased 0
+\i (06:36:05) QtSignal Algro3DViewCameraWidget Algro3DViewBottomAction triggered 
+\i (06:36:08) QtSignal Algro3DViewCameraWidget Algro3DViewBottomAction triggered 
+\i (06:36:08) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered 
+\i (06:36:20) QtSignal 3DBoardLevelModelMapper AlignMAN clicked on
+\i (06:36:29) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (06:36:29) updateport ReportsPane
+\i (06:36:29) updateport SearchPane
+\i (06:36:29) updateport PropPane
+\i (06:36:30) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (06:36:30) updateport ReportsPane
+\i (06:36:30) updateport SearchPane
+\i (06:36:30) updateport PropPane
+\i (06:36:31) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (06:36:31) updateport ReportsPane
+\i (06:36:31) updateport SearchPane
+\i (06:36:31) updateport PropPane
+\i (06:36:32) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (06:36:32) updateport ReportsPane
+\i (06:36:32) updateport SearchPane
+\i (06:36:32) updateport PropPane
+\i (06:36:33) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (06:36:33) updateport ReportsPane
+\i (06:36:33) updateport SearchPane
+\i (06:36:33) updateport PropPane
+\i (06:36:34) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (06:36:34) updateport ReportsPane
+\i (06:36:34) updateport SearchPane
+\i (06:36:34) updateport PropPane
+\i (06:36:35) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (06:36:35) updateport ReportsPane
+\i (06:36:35) updateport SearchPane
+\i (06:36:35) updateport PropPane
+\i (06:36:36) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (06:36:36) updateport ReportsPane
+\i (06:36:36) updateport SearchPane
+\i (06:36:36) updateport PropPane
+\i (06:36:38) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (06:36:38) updateport ReportsPane
+\i (06:36:38) updateport SearchPane
+\i (06:36:38) updateport PropPane
+\i (06:36:57) updateport ReportsPane
+\i (06:36:57) updateport SearchPane
+\i (06:36:57) updateport PropPane
+\i (06:36:57) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:36:59) updateport ReportsPane
+\i (06:36:59) updateport SearchPane
+\i (06:36:59) updateport PropPane
+\i (06:36:59) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:37:00) updateport ReportsPane
+\i (06:37:00) updateport SearchPane
+\i (06:37:00) updateport PropPane
+\i (06:37:00) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:37:03) updateport ReportsPane
+\i (06:37:03) updateport SearchPane
+\i (06:37:03) updateport PropPane
+\i (06:37:03) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:37:04) updateport ReportsPane
+\i (06:37:04) updateport SearchPane
+\i (06:37:04) updateport PropPane
+\i (06:37:04) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:37:08) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished 60
+\i (06:37:08) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:37:08) QtSignal 536870912 false 1 ""
+\i (06:37:08) updateport ReportsPane
+\i (06:37:08) updateport SearchPane
+\i (06:37:08) updateport PropPane
+\i (06:37:18) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished 80
+\i (06:37:18) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:37:18) QtSignal 536870912 false 1 ""
+\i (06:37:18) updateport ReportsPane
+\i (06:37:18) updateport SearchPane
+\i (06:37:18) updateport PropPane
+\i (06:37:26) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:37:26) QtSignal 536870912 false 1 ""
+\i (06:37:30) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished 150
+\i (06:37:30) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:37:30) QtSignal 536870912 false 1 ""
+\i (06:37:30) updateport ReportsPane
+\i (06:37:30) updateport SearchPane
+\i (06:37:30) updateport PropPane
+\i (06:37:45) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered 
+\i (06:37:54) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-1P5U"
+\i (06:37:57) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:37:57) QtSignal 536870912 false 1 ""
+\i (06:37:59) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-1P75U"
+\i (06:38:02) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:38:02) QtSignal 536870912 false 1 ""
+\i (06:38:03) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2P25U"
+\i (06:38:06) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:38:06) QtSignal 536870912 false 1 ""
+\i (06:38:07) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2U"
+\i (06:38:11) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:38:11) QtSignal 536870912 false 1 ""
+\i (06:38:12) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2U-VERT"
+\i (06:38:16) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:38:16) QtSignal 536870912 false 1 ""
+\i (06:38:17) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-6P25U"
+\i (06:38:21) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:38:21) QtSignal 536870912 false 1 ""
+\i (06:38:32) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:38:32) QtSignal 536870912 false 1 ""
+\i (06:38:33) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:38:33) QtSignal 536870912 false 1 ""
+\i (06:38:37) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished "0.00"
+\i (06:38:37) QtSignal 3DBoardLevelModelMapper AlignMAN clicked on
+\i (06:38:37) updateport ReportsPane
+\i (06:38:37) updateport SearchPane
+\i (06:38:37) updateport PropPane
+\i (06:38:41) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished 0150
+\i (06:38:41) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:38:41) QtSignal 536870912 false 1 ""
+\i (06:38:41) updateport ReportsPane
+\i (06:38:41) updateport SearchPane
+\i (06:38:41) updateport PropPane
+\i (06:38:46) QtSignal Algro3DViewCameraWidget Algro3DViewTopIsoAction triggered
+\i (06:38:53) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2U-VERT"
+\i (06:38:56) QtSignal 3DBoardLevelModelMapper AlignMAN clicked on
+\i (06:38:58) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished 150
+\i (06:38:58) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:38:58) QtSignal 536870912 false 1 ""
+\i (06:38:58) updateport ReportsPane
+\i (06:38:58) updateport SearchPane
+\i (06:38:58) updateport PropPane
+\i (06:39:00) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2U"
+\i (06:39:01) QtSignal 3DBoardLevelModelMapper AlignMAN clicked on
+\i (06:39:04) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:39:04) QtSignal 536870912 false 1 ""
+\i (06:39:05) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2P25U"
+\i (06:39:06) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished "0.27"
+\i (06:39:06) QtSignal 3DBoardLevelModelMapper AlignMAN clicked on
+\i (06:39:06) updateport ReportsPane
+\i (06:39:06) updateport SearchPane
+\i (06:39:06) updateport PropPane
+\i (06:39:09) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished 150
+\i (06:39:09) updateport ReportsPane
+\i (06:39:09) updateport SearchPane
+\i (06:39:09) updateport PropPane
+\i (06:39:09) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-1P75U"
+\i (06:39:11) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2P25U"
+\i (06:39:12) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-1P75U"
+\i (06:39:13) QtSignal 3DBoardLevelModelMapper AlignMAN clicked on
+\i (06:39:17) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-1P5U"
+\i (06:39:19) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished "0.26"
+\i (06:39:19) QtSignal 3DBoardLevelModelMapper AlignMAN clicked on
+\i (06:39:19) updateport ReportsPane
+\i (06:39:19) updateport SearchPane
+\i (06:39:19) updateport PropPane
+\i (06:39:23) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished 150
+\i (06:39:23) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE"
+\i (06:39:23) updateport ReportsPane
+\i (06:39:23) updateport SearchPane
+\i (06:39:23) updateport PropPane
+\i (06:39:31) QtSignal 3DBoardLevelModelMapper AlignMAN clicked on
+\i (06:39:33) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:39:33) QtSignal 536870912 false 1 ""
+\i (06:39:39) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:39:39) QtSignal 536870912 false 1 ""
+\i (06:39:42) updateport ReportsPane
+\i (06:39:42) updateport SearchPane
+\i (06:39:42) updateport PropPane
+\i (06:39:42) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:39:46) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777220 +
+\i (06:39:46) QtSignal 0 false 1 ""
+\i (06:39:47) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Soldermask_Bottom" +
+\i (06:39:47) QtSignal 0
+\i (06:39:47) updateport ReportsPane
+\i (06:39:47) updateport SearchPane
+\i (06:39:47) updateport PropPane
+\i (06:39:49) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2P25U"
+\i (06:39:49) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-1P75U"
+\i (06:39:50) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE"
+\i (06:39:51) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-1P5U"
+\i (06:39:52) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2P25U"
+\i (06:39:53) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2U"
+\i (06:39:55) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished "0.23"
+\i (06:39:55) QtSignal 3DBoardLevelModelMapper AlignMAN clicked on
+\i (06:39:55) updateport ReportsPane
+\i (06:39:55) updateport SearchPane
+\i (06:39:55) updateport PropPane
+\i (06:39:58) updateport ReportsPane
+\i (06:39:58) updateport SearchPane
+\i (06:39:58) updateport PropPane
+\i (06:39:58) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:39:59) undo 
+\i (06:39:59) trapsize 1781
+\i (06:39:59) updateport ReportsPane
+\i (06:39:59) updateport SearchPane
+\i (06:39:59) updateport PropPane
+\i (06:39:59) ucpedit 
+\i (06:39:59) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:39:59) updateport VisibilityPane
+\i (06:40:04) updateport ReportsPane
+\i (06:40:04) updateport SearchPane
+\i (06:40:04) updateport PropPane
+\i (06:40:04) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:40:05) updateport ReportsPane
+\i (06:40:05) updateport SearchPane
+\i (06:40:05) updateport PropPane
+\i (06:40:05) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:40:09) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished 150
+\i (06:40:09) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:40:09) QtSignal 536870912 false 1 ""
+\i (06:40:09) updateport ReportsPane
+\i (06:40:09) updateport SearchPane
+\i (06:40:09) updateport PropPane
+\i (06:40:10) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2U-VERT"
+\i (06:40:11) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-6P25U"
+\i (06:40:12) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "NHD-0216XZ-FSW-GBW"
+\i (06:40:15) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2U-VERT"
+\i (06:40:16) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2U"
+\i (06:40:16) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2P25U"
+\i (06:40:18) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-1P75U"
+\i (06:40:18) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-1P5U"
+\i (06:40:19) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-1P75U"
+\i (06:40:23) QtSignal 3DBoardLevelModelMapper AlignMAN clicked on
+\i (06:40:27) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777220 +
+\i (06:40:27) QtSignal 0 false 1 ""
+\i (06:40:32) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-2U-VERT"
+\i (06:40:33) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper activate "MX-SERIES-SW-1-POLE-1P75U"
+\i (06:40:37) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished "150.77"
+\i (06:40:37) QtSignal 3DBoardLevelModelMapper AlignMAN clicked on
+\i (06:40:37) updateport ReportsPane
+\i (06:40:37) updateport SearchPane
+\i (06:40:37) updateport PropPane
+\i (06:40:39) updateport ReportsPane
+\i (06:40:39) updateport SearchPane
+\i (06:40:39) updateport PropPane
+\i (06:40:39) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (06:40:42) QtSignal 3DBoardLevelModelMapper OffsetZ editingFinished 150
+\i (06:40:42) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper keyPressEvent 16777221 +
+\i (06:40:42) QtSignal 536870912 false 1 ""
+\i (06:40:42) updateport ReportsPane
+\i (06:40:42) updateport SearchPane
+\i (06:40:42) updateport PropPane
+\i (06:40:45) QtSignal UCP3DModelMapperDockWidget 3DBoardLe
