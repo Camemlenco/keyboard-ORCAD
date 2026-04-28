@@ -272,18 +272,18 @@
       (Path "Logs")
       (Select "Design Resources"
          "C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\gabrielkeyboard.dsn"
-         "SCHEMATIC1" "08_LCD"))
+         "SCHEMATIC1" "04_CONTROLLER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 217 0 695"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 255 0 695"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1657 24 713")
-        (Scroll "-331 0")
+        (Placement "44 0 1 -1 -1 5 24 5 1619 24 713")
+        (Scroll "-312 0")
         (Zoom "82")
         (Occurrence "/"))
       (Path
@@ -293,8 +293,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1657 24 713")
-        (Scroll "-230 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1619 24 713")
+        (Scroll "-211 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -304,7 +304,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1657 24 713")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1619 24 713")
         (Scroll "0 232")
         (Zoom "100")
         (Occurrence "/"))
@@ -315,8 +315,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1657 24 713")
-        (Scroll "13 222")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1619 24 713")
+        (Scroll "6 271")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -326,7 +326,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 0 0 5 1657 24 713")
+        (Placement "44 0 1 -1 -1 0 0 5 1619 24 713")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
@@ -337,9 +337,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1657 24 713")
-        (Scroll "-225 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1619 24 713")
+        (Scroll "401 0")
+        (Zoom "200")
         (Occurrence "/"))
       (Path
          "C:\USERS\CAMEM\ONEDRIVE\ORCAD KEYBOARD\GABRIELKEYBOARD\GABRIELKEYBOARD.DSN")
@@ -348,8 +348,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1657 24 713")
-        (Scroll "-225 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1619 24 713")
+        (Scroll "-206 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
