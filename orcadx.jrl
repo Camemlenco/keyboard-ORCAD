@@ -1,16 +1,16 @@
-\t (00:00:10) orcadx 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
-\t (00:00:10)     Journal start - Wed Apr 29 09:39:00 2026
-\t (00:00:10)         Host=ASUS-GABRIEL User=camem Pid=29784 CPUs=16
-\t (00:00:10) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx -mpssession camem -proj c:\users\camem\onedrive\orcad keyboard\gabrielkeyboard\gabrielkeyboard.opj "c:\users\camem\onedrive\orcad keyboard\gabrielkeyboard\allegro\gabrielkeyboard.brd 
-\t (00:00:10) 
+\t (00:00:09) orcadx 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Wed Apr 29 15:48:37 2026
+\t (00:00:09)         Host=ASUS-GABRIEL User=camem Pid=22416 CPUs=16
+\t (00:00:09) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx -mpssession camem -proj c:\users\camem\onedrive\orcad keyboard\gabrielkeyboard\gabrielkeyboard.opj "c:\users\camem\onedrive\orcad keyboard\gabrielkeyboard\allegro\gabrielkeyboard.brd 
+\t (00:00:09) 
 \t (00:00:10) Loading axlcore.cxt 
 \t (00:00:10) Starting new design...
-\i (00:00:13) trapsize 10500
-\e (00:00:14) Unmatched quote
-\e (00:00:14) There is error while opening the design "C:/users/camem/onedrive/orcad keyboard/gabrielkeyboard/gabrielkeyboard.opj "c:/users/camem/onedrive/orcad keyboard/gabrielkeyboard/allegro/gabrielkeyboard.brd"
+\i (00:00:12) trapsize 10500
+\e (00:00:13) Unmatched quote
+\e (00:00:13) There is error while opening the design "C:/users/camem/onedrive/orcad keyboard/gabrielkeyboard/gabrielkeyboard.opj "c:/users/camem/onedrive/orcad keyboard/gabrielkeyboard/allegro/gabrielkeyboard.brd"
 
-\i (00:00:14) ucpedit 
-\i (00:01:40) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd' 
-\t (00:01:40) Opening existing design...
-\i (00:01:40) trapsize 3268
-\t (00:01:40)     Journal end - Wed Apr 29 09:40:30 2026
+\i (00:00:13) ucpedit 
+\i (00:00:23) opencd 'C:/Users/camem/OneDrive/OrCAD Keyboard/GabrielKeyboard/allegro/gabrielkeyboard.brd' 
+\t (00:00:23) Opening existing design...
+\i (00:00:23) trapsize 3268
+\t (00:00:24)     Journal end - Wed Apr 29 15:48:51 2026

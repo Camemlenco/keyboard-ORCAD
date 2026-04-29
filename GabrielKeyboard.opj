@@ -1,6 +1,6 @@
 (ExpressProject "GabrielKeyboard"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S020 (4396590)  [2/5/2026]-[04/27/26]")
+  (SoftwareVersion "25.1 S020 (4396590)  [2/5/2026]-[04/29/26]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -280,16 +280,16 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\gabrielkeyboard.dsn")
+         "c:\users\camem\onedrive\orcad keyboard\gabrielkeyboard\gabrielkeyboard.dsn")
       (Path "Design Resources"
-         "C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\gabrielkeyboard.dsn"
+         "c:\users\camem\onedrive\orcad keyboard\gabrielkeyboard\gabrielkeyboard.dsn"
          "SCHEMATIC1")
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
       (Select "Design Resources"
-         "C:\Users\camem\OneDrive\OrCAD Keyboard\GabrielKeyboard\gabrielkeyboard.dsn"
-         "SCHEMATIC1" "04_CONTROLLER"))
+         "c:\users\camem\onedrive\orcad keyboard\gabrielkeyboard\gabrielkeyboard.dsn"
+         "SCHEMATIC1" "02_POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -300,13 +300,24 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 713")
-        (Scroll "-234 0")
+        (Scroll "117 373")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\CAMEM\ONEDRIVE\ORCAD KEYBOARD\GABRIELKEYBOARD\GABRIELKEYBOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02_POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 713")
+        (Scroll "-239 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "C:\USERS\CAMEM\ONEDRIVE\ORCAD KEYBOARD\GABRIELKEYBOARD\GABRIELKEYBOARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "03_POWER"))
+      (Page "01_COVERPAGE"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
@@ -317,4 +328,48 @@
       (Path
          "C:\USERS\CAMEM\ONEDRIVE\ORCAD KEYBOARD\GABRIELKEYBOARD\GABRIELKEYBOARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "04_CONTROLLER"))))
+      (Page "03_CONTROLLER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 713")
+        (Scroll "151 390")
+        (Zoom "112")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\CAMEM\ONEDRIVE\ORCAD KEYBOARD\GABRIELKEYBOARD\GABRIELKEYBOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "04_KEYS1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 713")
+        (Scroll "-361 -6")
+        (Zoom "56")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\CAMEM\ONEDRIVE\ORCAD KEYBOARD\GABRIELKEYBOARD\GABRIELKEYBOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "05_KEYS2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 713")
+        (Scroll "-362 -6")
+        (Zoom "78")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\CAMEM\ONEDRIVE\ORCAD KEYBOARD\GABRIELKEYBOARD\GABRIELKEYBOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "07_LCD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 713")
+        (Scroll "0 120")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\CAMEM\ONEDRIVE\ORCAD KEYBOARD\GABRIELKEYBOARD\GABRIELKEYBOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "06_LEDS"))))
