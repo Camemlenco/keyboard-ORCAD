@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : gabrielkeyboard.brd                           )
 (    Software Version : 25.1S020                                      )
-(    Date/Time        : Tue Apr 28 12:13:38 2026                      )
+(    Date/Time        : Tue Apr 28 12:22:05 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  3
+ ..... Total number of DRC errors  2
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

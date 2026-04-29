@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : gabrielkeyboard.brd                           )
 (    Software Version : 25.1S020                                      )
-(    Date/Time        : Tue Apr 28 12:13:29 2026                      )
+(    Date/Time        : Tue Apr 28 12:21:56 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,10 +20,10 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  3
+ ..... Total number of DRC errors  2
 
 
-WARNING: 5 dynamic shape(s) out of date; checking skipped on these elements.
+WARNING: 2 dynamic shape(s) out of date; checking skipped on these elements.
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

@@ -1,0 +1,55 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    SINGLE EXPORTS                                                   )
+(                                                                     )
+(    Drawing          : gabrielkeyboard.brd                           )
+(    Software Version : 25.1S020                                      )
+(    Date/Time        : Tue Apr 28 16:40:43 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Failed to update the NC Drill Legend location
+Current film records are deleted and saved as an attachment to the design.
+
+Creating new film records in the design as per configuration file
+	TOP
+	GND
+	PWR
+	BOTTOM
+	NCLEGEND-1-4
+	SSTP
+	SSBT
+	SMTP
+	SMBT
+	SPTP
+	SPBT
+	ASSYTP
+	ASSYBT
+	TOP
+	GND
+	PWR
+	BOTTOM
+	NCLEGEND-1-4
+	SSTP
+	SSBT
+	SMTP
+	SMBT
+	SPTP
+	SPBT
+	ASSYTP
+	ASSYBT
+
+Processing group :Fabrication_IPC2581
+
+	Executing command :IPC2581 Database (Fabrication)
+		Successfully generated outputs
+
+	Executing command :Fabrication Drill View PDFs
+		Successfully generated outputs
+
+2 out of 2 exports successfully created. outputs are added to gabrielkeyboard_Fabrication_IPC2581.zip
+
+
+Configuration data is saved as an attachment to the design
